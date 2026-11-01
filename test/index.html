@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bridge Catalog Tester</title>
+<style>
+:root{color-scheme:dark;--bg:#090b12;--panel:#141925;--line:#293246;--muted:#9aa7bd;--accent:#8b7cff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#f5f7fb;font:15px/1.5 system-ui,Segoe UI,Arial}
+header{padding:24px clamp(16px,4vw,44px);background:linear-gradient(120deg,#171d35,#101521);border-bottom:1px solid var(--line)}
+h1{margin:0 0 5px;font-size:clamp(24px,4vw,36px)}p{margin:5px 0;color:var(--muted)}
+main{max-width:1250px;margin:auto;padding:22px 16px 60px}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:15px 0}
+button,input,select{background:#1a2231;border:1px solid var(--line);color:white;border-radius:10px;padding:11px 13px;font:inherit}
+button{background:var(--accent);border:0;font-weight:700;cursor:pointer}button.secondary{background:#222c3e;border:1px solid var(--line)}
+#url{flex:1;min-width:240px}.status{padding:13px 15px;background:var(--panel);border:1px solid var(--line);border-radius:12px;margin:12px 0}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:15px 0}
+.stat{padding:14px;background:var(--panel);border:1px solid var(--line);border-radius:12px}.stat b{display:block;font-size:25px}
+.tabs{display:flex;gap:8px;overflow:auto;margin:18px 0}.tabs button{white-space:nowrap}.tabs button.active{background:#fff;color:#111}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:13px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:13px;overflow:hidden;min-width:0}
+.art{width:100%;aspect-ratio:2/3;object-fit:cover;background:#222b3b;display:block}
+.info{padding:10px}.title{font-weight:700;line-height:1.25}.meta{font-size:12px;color:var(--muted);margin-top:5px}
+.pill{display:inline-block;font-size:11px;padding:2px 7px;border-radius:20px;background:#27334a;margin:3px 3px 0 0}
+.empty{padding:28px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:12px}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#080c13;padding:12px;border-radius:10px;color:#c9d5e9}
+small{color:var(--muted)}.wide{grid-column:1/-1}
+.review{border-top:1px solid var(--line);padding:12px}.review p{color:#e1e7f1}
+a{color:#b7adff}
+</style></head>
+<body>
+<header><h1>Bridge · Catalog Tester</h1><p>Live JSON feed check · Movies · Series · Anime · Banners · India TV · Reviews</p></header>
+<main>
+<div class="toolbar"><input id="url" value="https://raw.githubusercontent.com/Imanshu999/Bridge/main/public/catalog.json" aria-label="Catalog JSON URL"><button id="load">Load / Test Feed</button><button class="secondary" id="sample">Show schema test</button></div>
+<div id="status" class="status" role="status">Ready. Press “Load / Test Feed” to fetch your public catalog.</div>
+<div id="stats" class="stats"></div>
+<div class="tabs" id="tabs"></div>
+<div id="content" class="empty">No feed loaded yet.</div>
+<details style="margin-top:20px"><summary>Raw JSON / source diagnostics</summary><pre id="raw">Waiting for feed…</pre></details>
+<p style="margin-top:18px"><small>This page tests catalog metadata only. It does not play videos or generate missing reviews.</small></p>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+let catalog=null, active="all";
+const kinds=[["all","All"],["movie","Movies"],["series","Series"],["anime","Anime"],["channel","TV Channels"]];
+function esc(v){return String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function setStatus(msg,ok=true){$("status").textContent=msg;$("status").style.borderColor=ok?"#315e4b":"#80464b";}
+function validate(data){
+ if(!data||typeof data!=="object"||!Array.isArray(data.items)||!data.counts)throw Error("JSON structure mismatch: expected items[] and counts{}");
+ return data;
+}
+function renderStats(d){
+ const values=[["Total",d.item_count??d.items.length],["Movies",d.counts.movie??0],["Series",d.counts.series??0],["Anime",d.counts.anime??0],["TV Channels",d.counts.channel??0]];
+ $("stats").innerHTML=values.map(([n,v])=>'<div class="stat"><small>'+esc(n)+'</small><b>'+esc(v)+'</b></div>').join("");
+}
+function renderTabs(){
+ $("tabs").innerHTML=kinds.map(([id,label])=>'<button class="'+(active===id?'active':'secondary')+'" data-kind="'+id+'">'+label+'</button>').join("");
+ $("tabs").querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{active=b.dataset.kind;renderTabs();renderItems()}));
+}
+function card(x){
+ const art=x.banner_url||x.backdrop_url||x.poster_url||x.logo_url;
+ const img=art?'<img class="art" loading="lazy" src="'+esc(art)+'" alt="" onerror="this.style.display=\'none\'">':'<div class="art"></div>';
+ const rating=x.rating!=null?' · ★ '+esc(x.rating):'';
+ const genres=Array.isArray(x.genres)?x.genres.slice(0,3).map(g=>'<span class="pill">'+esc(g)+'</span>').join(""):"";
+ return '<article class="card">'+img+'<div class="info"><div class="title">'+esc(x.title||"Untitled")+'</div><div class="meta">'+esc(x.type||"")+' · '+esc(x.year||x.release_date||"Year N/A")+rating+'</div>'+genres+'<div class="meta">ID: '+esc(x.id||"missing")+'</div>'+((x.reviews||[]).length?'<div class="meta">Real reviews: '+x.reviews.length+'</div>':'')+'</div></article>';
+}
+function renderItems(){
+ if(!catalog)return;
+ const items=catalog.items.filter(x=>active==="all"||x.type===active);
+ $("content").className=items.length?"grid":"empty";
+ $("content").innerHTML=items.length?items.map(card).join(""):"No records in this category yet. This is an empty feed, not a UI failure.";
+}
+function diagnostics(d){
+ const errors=[];
+ if(d.schema_version==null)errors.push("schema_version missing");
+ for(const [i,x] of d.items.entries()){
+  if(!x.id)errors.push("item "+i+" missing id");
+  if(!x.title)errors.push("item "+i+" missing title");
+  if(!["movie","series","anime","channel"].includes(x.type))errors.push("item "+i+" has unknown type");
+ }
+ return errors;
+}
+async function load(){
+ const url=$("url").value.trim();setStatus("Fetching catalog JSON…");
+ try{
+  const response=await fetch(url,{cache:"no-store"});
+  if(!response.ok)throw Error("HTTP "+response.status+" "+response.statusText);
+  const data=validate(await response.json());catalog=data;active="all";
+  renderStats(data);renderTabs();renderItems();
+  const errs=diagnostics(data);
+  const sourceSummary=(data.sources||[]).map(s=>s.name+": "+s.status+" ("+(s.count??0)+")").join(" | ");
+  $("raw").textContent=JSON.stringify(data,null,2);
+  setStatus("JSON fetch OK · schema v"+data.schema_version+" · "+data.items.length+" records · "+(errs.length?errs.length+" validation warnings":"basic structure valid")+". "+sourceSummary,errs.length===0);
+  if(data.items.length===0)setStatus("Feed reachable and valid, but EMPTY: no imported catalog records yet. Check GitHub Actions and provider setup. "+sourceSummary,false);
+ }catch(e){catalog=null;$("stats").innerHTML="";$("tabs").innerHTML="";$("content").className="empty";$("content").textContent="Feed test failed: "+e.message;$("raw").textContent=String(e.stack||e);setStatus("Feed test failed: "+e.message,false);}
+}
+$("load").addEventListener("click",load);
+$("sample").addEventListener("click",()=>{
+ catalog={schema_version:2,item_count:3,counts:{movie:1,series:0,anime:1,channel:1},sources:[{name:"HTML schema demo",status:"demo",count:3}],items:[
+ {id:"demo:movie:1",type:"movie",title:"Demo Movie (schema only)",year:2025,rating:8.1,genres:["Drama"],poster_url:"",reviews:[]},
+ {id:"demo:anime:1",type:"anime",title:"Demo Anime (schema only)",year:2025,genres:["Adventure"],reviews:[]},
+ {id:"demo:channel:1",type:"channel",title:"Demo India Channel (schema only)",country:"India",reviews:[]}
+ ]};
+ renderStats(catalog);renderTabs();renderItems();$("raw").textContent=JSON.stringify(catalog,null,2);
+ setStatus("Local schema demo only. These 3 demo rows are NOT real catalog data.",false);
+});
+load();
+</script></body></html>
