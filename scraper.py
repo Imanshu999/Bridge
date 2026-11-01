@@ -98,7 +98,7 @@ def enrich_tmdb(item, token):
         review_data = tmdb_get(f"/{kind}/{ident}/reviews", token, {"language":"en-US","page":1})
         item["reviews"] = [{
             "id":rv.get("id"), "author":rv.get("author"),
-            "author_details": {"name":rv.get("author_details",{}).get("name"),"rating":rv.get("author_details",{}).get("rating")},
+            "author_details": {"name":rv.get("author_details",{}).get("name"),"rating":rv.get("author_details",{}).get("rating"),"avatar_url": (("https://image.tmdb.org/t/p/w185" + rv.get("author_details",{}).get("avatar_path")) if str(rv.get("author_details",{}).get("avatar_path") or "").startswith("/") else rv.get("author_details",{}).get("avatar_path"))},
             "created_at":rv.get("created_at"), "text":clean_text(rv.get("content")),
             "url":rv.get("url"), "source":"TMDB"
         } for rv in review_data.get("results", [])[:10]]
