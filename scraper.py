@@ -13,6 +13,7 @@ ANILIST = "https://graphql.anilist.co"
 IPTV = "https://iptv-org.github.io/api"
 IMG = "https://image.tmdb.org/t/p"
 SESSION = requests.Session()
+SOURCE_STATUS_OVERRIDES = {}
 SESSION.headers.update({"User-Agent": "CineNovaBridge/1.0 (+https://github.com/Imanshu999/Bridge)", "Accept": "application/json"})
 TIMEOUT = 25
 
@@ -22,13 +23,26 @@ def get_json(url, *, params=None, headers=None):
     return r.json()
 
 def post_graphql(query, variables=None):
-    r = SESSION.post(ANILIST, json={"query": query, "variables": variables or {}},
-                     headers={"Content-Type":"application/json","Accept":"application/json"}, timeout=TIMEOUT)
-    r.raise_for_status()
-    payload = r.json()
-    if payload.get("errors"):
-        raise RuntimeError("AniList GraphQL returned errors")
-    return payload["data"]
+    for attempt in range(7):
+        r = SESSION.post(ANILIST, json={"query": query, "variables": variables or {}},
+                         headers={"Content-Type":"application/json","Accept":"application/json"}, timeout=TIMEOUT)
+        if r.status_code == 429 or r.status_code >= 500:
+            if attempt == 6:
+                r.raise_for_status()
+            retry_after = r.headers.get("Retry-After")
+            try:
+                delay = float(retry_after) if retry_after else min(60, 3 * (2 ** attempt))
+            except ValueError:
+                delay = min(60, 3 * (2 ** attempt))
+            LOG.warning("AniList HTTP %s; retrying in %.1fs (attempt %s/7)", r.status_code, delay, attempt + 1)
+            time.sleep(delay)
+            continue
+        r.raise_for_status()
+        payload = r.json()
+        if payload.get("errors"):
+            raise RuntimeError("AniList GraphQL returned errors")
+        return payload["data"]
+    raise RuntimeError("AniList retry limit exhausted")
 
 def tmdb_get(path, token, params=None):
     headers = {"Authorization": "Bearer " + token, "accept": "application/json"}
@@ -201,7 +215,14 @@ def build_anime():
     items=[]
     page=1
     while True:
-        data=post_graphql(ANILIST_QUERY, {"page":page})
+        try:
+            data=post_graphql(ANILIST_QUERY, {"page":page})
+        except Exception as exc:
+            if items:
+                SOURCE_STATUS_OVERRIDES["anime_anilist"] = "partial"
+                LOG.error("AniList stopped at page %s; preserving %s records: %s", page, len(items), exc)
+                break
+            raise
         page_data=data.get("Page",{})
         for a in page_data.get("media",[]):
             title=a.get("title") or {}
@@ -320,7 +341,7 @@ def main():
     jobs=[("cinemeta_movies_series",build_cinemeta),("anime_anilist",build_anime),("tv_channels_iptv_org",build_channels),("india_m3u",build_india_m3u_channels)]
     for name,fn in jobs:
         try:
-            batch=fn(); items.extend(batch); sources.append({"name":name,"status":"ok","count":len(batch)})
+            batch=fn(); items.extend(batch); sources.append({"name":name,"status":SOURCE_STATUS_OVERRIDES.get(name,"ok"),"count":len(batch)})
             LOG.info("%s: %d records",name,len(batch))
         except Exception as exc:
             sources.append({"name":name,"status":"error","count":0,"error":str(exc)})
