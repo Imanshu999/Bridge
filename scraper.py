@@ -77,8 +77,23 @@ def enrich_tmdb(item, token):
         credits = details.get("credits", {})
         item["cast"] = [{"name":c.get("name"),"character":c.get("character"),"profile_url":tmdb_image(c.get("profile_path"),"w185")} for c in credits.get("cast", [])[:12]]
         item["crew"] = [{"name":c.get("name"),"job":c.get("job")} for c in credits.get("crew", []) if c.get("job") in ("Director","Writer","Screenplay")][:8]
-        if kind == "series":
-            item["seasons"] = [{"id":s.get("id"),"season_number":s.get("season_number"),"name":s.get("name"),"episode_count":s.get("episode_count"),"overview":clean_text(s.get("overview")), "poster_url":tmdb_image(s.get("poster_path"))} for s in details.get("seasons", [])]
+        if kind == "tv":
+            item["seasons"] = []
+            for season in details.get("seasons", []):
+                sn = season.get("season_number")
+                season_item = {"id":season.get("id"),"season_number":sn,"name":season.get("name"),
+                               "episode_count":season.get("episode_count"),"overview":clean_text(season.get("overview")),
+                               "poster_url":tmdb_image(season.get("poster_path")),"episodes":[]}
+                if sn is not None and sn >= 0:
+                    try:
+                        season_data = tmdb_get(f"/tv/{ident}/season/{sn}", token, {"language":"en-US"})
+                        season_item["episodes"] = [{"id":ep.get("id"),"episode_number":ep.get("episode_number"),
+                            "name":ep.get("name"),"overview":clean_text(ep.get("overview")),
+                            "air_date":ep.get("air_date"),"runtime":ep.get("runtime"),
+                            "still_url":tmdb_image(ep.get("still_path"),"w500")} for ep in season_data.get("episodes", [])]
+                    except Exception as exc:
+                        LOG.warning("Season episode import failed for %s season %s: %s", ident, sn, exc)
+                item["seasons"].append(season_item)
         # Real user-submitted reviews returned by TMDB; never fabricate them.
         review_data = tmdb_get(f"/{kind}/{ident}/reviews", token, {"language":"en-US","page":1})
         item["reviews"] = [{
