@@ -1,0 +1,33 @@
+{
+  "sources": [
+    {
+      "name": "permitted-movie-tv-anime-catalog",
+      "kind": "json",
+      "url": "https://catalog.example.org/api/catalog",
+      "items_path": "results",
+      "fields": {
+        "id": "id",
+        "title": "title",
+        "type": "type",
+        "year": "year",
+        "release_date": "release_date",
+        "overview": "overview",
+        "poster": "poster",
+        "backdrop": "backdrop",
+        "banner": "banner",
+        "genres": "genres",
+        "rating": "rating",
+        "review_count": "review_count",
+        "reviews": "reviews",
+        "detail_url": "url",
+        "seasons": "seasons",
+        "episodes": "episodes",
+        "channel_number": "number",
+        "language": "language",
+        "country": "country",
+        "logo": "logo",
+        "authorized_stream_url": "authorized_stream_url"
+      }
+    }
+  ]
+}
