@@ -218,11 +218,62 @@ def build_channels():
         })
     return out
 
+INDIA_M3U = "https://iptv-org.github.io/iptv/countries/in.m3u"
+
+def parse_m3u_attributes(line):
+    attrs = {}
+    pattern = r'([A-Za-z0-9_-]+)="([^"]*)"|([A-Za-z0-9_-]+)=([^,\\s]+)'
+    for match in re.finditer(pattern, line):
+        key = match.group(1) or match.group(3)
+        value = match.group(2) if match.group(1) else match.group(4)
+        attrs[key.lower()] = value
+    return attrs
+
+def build_india_m3u_channels():
+    # Read the official country playlist, but do not copy third-party stream
+    # endpoints into our catalog. The Android player can open the upstream
+    # playlist itself and resolve a selected channel from that source.
+    response = SESSION.get(INDIA_M3U, timeout=TIMEOUT, stream=True)
+    response.raise_for_status()
+    response.encoding = response.encoding or "utf-8"
+    channels = []
+    pending = None
+    try:
+        for raw_line in response.iter_lines(decode_unicode=True):
+            if not raw_line:
+                continue
+            line = raw_line.strip()
+            if line.startswith("#EXTINF:"):
+                attrs = parse_m3u_attributes(line)
+                display = line.rsplit(",", 1)[-1].strip() if "," in line else ""
+                pending = {
+                    "id": "iptv-org-in:" + (attrs.get("tvg-id") or re.sub(r"[^a-z0-9]+","-",display.lower()).strip("-")),
+                    "source": "iptv-org India M3U",
+                    "source_id": attrs.get("tvg-id"),
+                    "type": "channel",
+                    "title": attrs.get("tvg-name") or display or "Unnamed channel",
+                    "logo_url": attrs.get("tvg-logo"),
+                    "poster_url": attrs.get("tvg-logo"),
+                    "group": attrs.get("group-title"),
+                    "language": attrs.get("tvg-language"),
+                    "country": "India",
+                    "playlist_url": INDIA_M3U,
+                    "playback": {"available": False, "provider": "Open original iptv-org India playlist"}
+                }
+            elif line and not line.startswith("#") and pending:
+                # Stream line intentionally not copied: the public playlist remains
+                # the source of truth and playback resolves against that upstream.
+                channels.append(pending)
+                pending = None
+    finally:
+        response.close()
+    return channels
+
 def main():
     logging.basicConfig(level=logging.INFO,format="%(levelname)s: %(message)s")
     token=os.getenv("TMDB_API_READ_ACCESS_TOKEN","").strip()
     sources=[]; items=[]
-    jobs=[("anime",build_anime),("tv_channels",build_channels)]
+    jobs=[("anime",build_anime),("tv_channels",build_channels),("india_m3u",build_india_m3u_channels)]
     for name,fn in jobs:
         try:
             batch=fn(); items.extend(batch); sources.append({"name":name,"status":"ok","count":len(batch)})
