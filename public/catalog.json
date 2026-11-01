@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T14:24:51.439363+00:00",
+  "generated_at": "2026-11-01T22:17:25.789028+00:00",
   "source_count": 5,
   "item_count": 35828,
   "counts": {
@@ -77093,7 +77093,7 @@
       "source": "AniList",
       "source_id": 15699,
       "type": "anime",
-      "title": "Nyaruko-san: Another Crawling Chaos W",
+      "title": "Nyarko-san: Another Crawling Chaos W",
       "original_title": "這いよれ！ニャル子さん W",
       "romaji_title": "Haiyore! Nyaruko-san W",
       "overview": "Nyaruko still wants Mahiro, as does Hasta. Cthuko wants Nyaruko, but believes both Nyaruko's and Mahiro's \"first time\" belongs to her. Mahiro's mother, Yoriko, puts up with all of it and cheerfully runs the house where they all live. Mahiro just wants some sanity. He doesn't want to be the love toy of a Nyarlathotepan, Cthughan, or a shots-like Hasturan. He may or may not hold out. (Source: Anime News Network, edited)",
@@ -132226,8 +132226,8 @@
         "Slice of Life"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
-      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
-      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-sKPZQks8FxNL.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-sKPZQks8FxNL.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/206401",
       "format": "TV",
@@ -204265,7 +204265,7 @@
       "rating": 6.7,
       "vote_count": null,
       "genres": [
-        "Comedy",
+        "Drama",
         "Fantasy",
         "Romance"
       ],
