@@ -136,9 +136,10 @@ def build_tmdb(token):
     return enriched
 
 ANILIST_QUERY = """
-query {
-  Page(page: 1, perPage: 50) {
-    media(type: ANIME, sort: TRENDING_DESC, isAdult: false) {
+query ($page: Int) {
+  Page(page: $page, perPage: 50) {
+    pageInfo { currentPage hasNextPage total }
+    media(type: ANIME, sort: POPULARITY_DESC, isAdult: false) {
       id
       title { romaji english native }
       description(asHtml: false)
@@ -163,28 +164,38 @@ query {
 """
 
 def build_anime():
-    data=post_graphql(ANILIST_QUERY)
+    # Walk every AniList page instead of silently stopping at the first 50.
     items=[]
-    for a in data.get("Page",{}).get("media",[]):
-        title=a.get("title") or {}
-        start=a.get("startDate") or {}
-        year=start.get("year")
-        items.append({
-            "id":f"anilist:anime:{a['id']}","source":"AniList","source_id":a["id"],
-            "type":"anime","title":title.get("english") or title.get("romaji") or title.get("native"),
-            "original_title":title.get("native"),"romaji_title":title.get("romaji"),
-            "overview":clean_text(a.get("description")),"release_date":None,"year":year,
-            "rating":(a.get("averageScore") or 0)/10 if a.get("averageScore") else None,
-            "vote_count":None,"genres":a.get("genres") or [],
-            "poster_url":(a.get("coverImage") or {}).get("extraLarge") or (a.get("coverImage") or {}).get("large"),
-            "backdrop_url":a.get("bannerImage"),"banner_url":a.get("bannerImage"),
-            "logo_url":None,"detail_url":a.get("siteUrl"),
-            "format":a.get("format"),"status":a.get("status"),"season":a.get("season"),
-            "season_year":a.get("seasonYear"),"episodes_count":a.get("episodes"),
-            "episode_duration_minutes":a.get("duration"),
-            "reviews":[],"review_count":None,"cast":[],"crew":[],"seasons":[],"episodes":[],
-            "playback":{"available":False,"provider":None}
-        })
+    page=1
+    while True:
+        data=post_graphql(ANILIST_QUERY, {"page":page})
+        page_data=data.get("Page",{})
+        for a in page_data.get("media",[]):
+            title=a.get("title") or {}
+            start=a.get("startDate") or {}
+            year=start.get("year")
+            items.append({
+                "id":f"anilist:anime:{a['id']}","source":"AniList","source_id":a["id"],
+                "type":"anime","title":title.get("english") or title.get("romaji") or title.get("native"),
+                "original_title":title.get("native"),"romaji_title":title.get("romaji"),
+                "overview":clean_text(a.get("description")),"release_date":None,"year":year,
+                "rating":(a.get("averageScore") or 0)/10 if a.get("averageScore") else None,
+                "vote_count":None,"genres":a.get("genres") or [],
+                "poster_url":(a.get("coverImage") or {}).get("extraLarge") or (a.get("coverImage") or {}).get("large"),
+                "backdrop_url":a.get("bannerImage"),"banner_url":a.get("bannerImage"),
+                "logo_url":None,"detail_url":a.get("siteUrl"),
+                "format":a.get("format"),"status":a.get("status"),"season":a.get("season"),
+                "season_year":a.get("seasonYear"),"episodes_count":a.get("episodes"),
+                "episode_duration_minutes":a.get("duration"),
+                "reviews":[],"review_count":None,"cast":[],"crew":[],"seasons":[],"episodes":[],
+                "playback":{"available":False,"provider":None}
+            })
+        page_info=page_data.get("pageInfo") or {}
+        LOG.info("AniList page %s: %d items (total reported: %s)",page,len(page_data.get("media",[])),page_info.get("total"))
+        if not page_info.get("hasNextPage"):
+            break
+        page += 1
+        time.sleep(0.75)  # stay within AniList's public API rate limit
     return items
 
 def build_channels():
