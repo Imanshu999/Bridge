@@ -1,3 +1,9 @@
 {
-  "sources": []
+  "providers": [
+    "TMDB",
+    "AniList",
+    "iptv-org"
+  ],
+  "tmdb_secret": "TMDB_API_READ_ACCESS_TOKEN",
+  "feed": "public/catalog.json"
 }
