@@ -6,6 +6,10 @@ on:
     - cron: "23 */6 * * *"
   push:
     branches: [main]
+    paths:
+      - "scraper.py"
+      - "requirements.txt"
+      - ".github/workflows/update-catalog.yml"
 
 permissions:
   contents: write
