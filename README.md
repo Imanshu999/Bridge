@@ -1,59 +1,37 @@
 # CineNova Bridge
 
-A serverless/static catalog-feed builder for an Android movie app. GitHub Actions runs the Python importer and commits `public/catalog.json`; the Android app downloads that JSON directly from GitHub Raw. No VPS or always-on backend is required.
+A GitHub Actions-powered metadata catalog builder for an Android app. It writes a static JSON feed to `public/catalog.json`; no VPS or always-on server is needed.
 
-## Supported catalog categories
-- Movies
-- TV series
-- Anime
-- TV channels (metadata and authorized public stream references only)
-- Banners/posters/backdrops
-- Ratings and review data when the configured source actually provides them
-- Seasons and episode metadata when the source provides them
+## Real data sources included
+- **Movies + TV series + details + banners + credits + real user reviews:** TMDB API.
+- **Anime + artwork/banner + synopsis + genres + scores + season/episode counts:** AniList GraphQL API.
+- **TV channel names + countries + categories + logos + EPG source references:** iptv-org public API.
 
-**Important:** this project imports catalog metadata. It does not extract hidden video URLs, DRM-protected streams, login cookies, private tokens, or bypass access controls. TV playback must use a stream that you are authorized to distribute. A review is shown as a real review only when it is actually returned by a configured review source; otherwise show rating/review count or "No reviews yet", never fabricated reviews.
+The feed does not invent titles, ratings or reviews. If an upstream has no review text, its reviews array remains empty.
 
-## Setup
-1. Configure a permitted JSON API or public HTML page in `sources.json` (copy `sources.example.json`).
-2. Push the file to this repository.
-3. GitHub Actions → **Build catalog feed** → Run workflow. It also runs daily.
-4. App feed URL: `https://raw.githubusercontent.com/Imanshu999/Bridge/main/public/catalog.json`
+## One-time setup
+1. In TMDB, create an account and request an API Read Access Token: https://www.themoviedb.org/settings/api
+2. In this GitHub repository open **Settings → Secrets and variables → Actions → New repository secret**.
+3. Name it exactly `TMDB_API_READ_ACCESS_TOKEN`, paste the TMDB API Read Access Token, and save.
+4. Open **Actions → Build live catalog → Run workflow**. The workflow also refreshes every 6 hours.
+5. After a successful run, the app reads:
+   `https://raw.githubusercontent.com/Imanshu999/Bridge/main/public/catalog.json`
 
-For a private repository, raw feed access may require authentication and should not embed a personal access token in a public APK. Make the repository/feed public if you want a no-login app feed, and only publish metadata you are allowed to republish.
+TMDB authentication docs: https://developer.themoviedb.org/docs/authentication-application
+TMDB API data/images are free for non-commercial use with attribution; commercial use requires contacting TMDB. Review TMDB's current terms before publishing your app.
 
-## JSON source configuration
-```json
-{
-  "name": "permitted-catalog",
-  "kind": "json",
-  "url": "https://catalog.example.org/api/catalog",
-  "items_path": "results",
-  "fields": {
-    "id": "id", "title": "title", "type": "type",
-    "year": "year", "overview": "overview",
-    "poster": "poster", "backdrop": "backdrop", "banner": "banner",
-    "genres": "genres", "rating": "rating",
-    "review_count": "review_count", "reviews": "reviews",
-    "release_date": "release_date", "detail_url": "url",
-    "seasons": "seasons", "episodes": "episodes",
-    "channel_number": "number", "language": "language",
-    "country": "country", "logo": "logo",
-    "authorized_stream_url": "authorized_stream_url"
-  }
-}
-```
+## Public app feed
+You said you will make this repository public. Do that only after checking that no secrets have been committed. The workflow stores the TMDB token as a GitHub Actions Secret; it is not written into the JSON feed. Never put the token in Android source code or in `sources.json`.
 
-For HTML sources use `kind: "html"` with `selectors.item` and CSS selectors for fields. Attribute syntax is `img.poster@src`, `a.details@href`. HTML extraction depends on each site's layout and must be configured per source.
+## App data
+Each record has a stable `id`, `type`, title, metadata, artwork and source. Movies/series have real TMDB reviews when supplied by TMDB. Anime comes from AniList. TV channels come from iptv-org and include logo and EPG references where available.
 
-## Android contract
-Each record is normalized with a stable `id`, `type`, `title`, artwork URLs, metadata, optional seasons/episodes, optional real reviews and TV-channel fields. Use the same `id` to bind artwork, details, search results and the selected playback-provider result. Do not assume a banner image is a playable movie.
-
-## No fake data
-The initial catalog is intentionally empty. It is not populated with sample/fake movie records. Reviews, ratings, banners and channels only appear when returned by the configured source.
+## Playback is separate
+This feed is metadata, not a movie/video host. Artwork/banner URLs are not playable video URLs. The channel importer deliberately does not copy third-party stream URLs into the app. Add playback only through sources/providers you are authorized to use. `playback.available` is false until the app integrates such a provider.
 
 ## Local run
 ```bash
-pip install -r requirements.txt
-cp sources.example.json sources.json
-python scraper.py --config sources.json --output public/catalog.json
+python -m pip install requests
+TMDB_API_READ_ACCESS_TOKEN=your_token python scraper.py
 ```
+AniList and iptv-org do not need API keys.
