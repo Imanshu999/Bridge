@@ -222,7 +222,7 @@ INDIA_M3U = "https://iptv-org.github.io/iptv/countries/in.m3u"
 
 def parse_m3u_attributes(line):
     attrs = {}
-    pattern = r'([A-Za-z0-9_-]+)="([^"]*)"|([A-Za-z0-9_-]+)=([^,\\s]+)'
+    pattern = r'([A-Za-z0-9_-]+)="([^"]*)"|([A-Za-z0-9_-]+)=([^,\s]+)'
     for match in re.finditer(pattern, line):
         key = match.group(1) or match.group(3)
         value = match.group(2) if match.group(1) else match.group(4)
