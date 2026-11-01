@@ -41,3 +41,8 @@ The catalog builder also imports channel metadata from the official iptv-org Ind
 `https://iptv-org.github.io/iptv/countries/in.m3u`
 
 It reads each `#EXTINF` record and extracts channel title, tvg-id, logo, group/category and language where provided. The normalized feed includes the original playlist URL so the Android IPTV player can load the source playlist directly. Individual stream URLs are not copied into the catalog; availability and playback can change, and the upstream playlist remains authoritative.
+
+## Movie and series metadata without a TMDB key
+The catalog builder also imports movie and series metadata from the public Stremio/Cinemeta catalog endpoint (`https://cinemeta-catalogs.strem.io/top/catalog`). This supplies titles, IMDb IDs, posters, backgrounds/banners, descriptions, genres, ratings and available cast/director metadata. It is a public third-party dependency, not a guaranteed or versioned API; the build validates responses and records source errors. This source does not provide verified user reviews or video playback URLs. TMDB remains an optional additional source for TMDB review data when `TMDB_API_READ_ACCESS_TOKEN` is configured.
+
+AniList import is paginated and continues until the API reports no further anime pages; it is no longer limited to the first 50 results. The import is subject to AniList API availability and rate limits.
