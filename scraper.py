@@ -135,6 +135,39 @@ def build_tmdb(token):
         else: enriched.append(item)
     return enriched
 
+CINEMETA_CATALOGS = "https://cinemeta-catalogs.strem.io/top/catalog"
+
+def build_cinemeta():
+    # Public Stremio/Cinemeta metadata catalog; no API key required.
+    # Import top-ranked movies and series as a useful working baseline.
+    out=[]
+    for kind in ("movie","series"):
+        payload=get_json(f"{CINEMETA_CATALOGS}/{kind}/top.json")
+        for m in payload.get("metas",[]):
+            ident=m.get("imdb_id") or m.get("id")
+            title=m.get("name")
+            if not ident or not title:
+                continue
+            year=m.get("year") or m.get("releaseInfo")
+            out.append({
+                "id":f"cinemeta:{kind}:{ident}","source":"Cinemeta","source_id":ident,
+                "type":kind,"title":title,"original_title":title,
+                "overview":clean_text(m.get("description")),"release_date":m.get("released"),
+                "year":str(year)[:4] if year else None,
+                "rating":float(m["imdbRating"]) if m.get("imdbRating") not in (None,"") else None,
+                "vote_count":None,"genres":m.get("genres") or m.get("genre") or [],
+                "poster_url":m.get("poster"),"backdrop_url":m.get("background"),
+                "banner_url":m.get("background"),"logo_url":m.get("logo"),
+                "detail_url":f"https://www.imdb.com/title/{ident}/",
+                "cast":m.get("cast") or [],
+                "crew":[{"name":n,"job":"Director"} for n in (m.get("director") or [])],
+                "runtime":m.get("runtime"),"country":m.get("country"),
+                "reviews":[],"review_count":None,
+                "playback":{"available":False,"provider":None}
+            })
+        LOG.info("Cinemeta %s: %d records",kind,len([x for x in out if x["type"]==kind]))
+    return out
+
 ANILIST_QUERY = """
 query ($page: Int) {
   Page(page: $page, perPage: 50) {
@@ -284,7 +317,7 @@ def main():
     logging.basicConfig(level=logging.INFO,format="%(levelname)s: %(message)s")
     token=os.getenv("TMDB_API_READ_ACCESS_TOKEN","").strip()
     sources=[]; items=[]
-    jobs=[("anime_anilist",build_anime),("tv_channels_iptv_org",build_channels),("india_m3u",build_india_m3u_channels)]
+    jobs=[("cinemeta_movies_series",build_cinemeta),("anime_anilist",build_anime),("tv_channels_iptv_org",build_channels),("india_m3u",build_india_m3u_channels)]
     for name,fn in jobs:
         try:
             batch=fn(); items.extend(batch); sources.append({"name":name,"status":"ok","count":len(batch)})
