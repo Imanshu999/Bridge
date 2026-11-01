@@ -35,3 +35,9 @@ python -m pip install requests
 TMDB_API_READ_ACCESS_TOKEN=your_token python scraper.py
 ```
 AniList and iptv-org do not need API keys.
+
+## India live TV playlist
+The catalog builder also imports channel metadata from the official iptv-org India playlist:
+`https://iptv-org.github.io/iptv/countries/in.m3u`
+
+It reads each `#EXTINF` record and extracts channel title, tvg-id, logo, group/category and language where provided. The normalized feed includes the original playlist URL so the Android IPTV player can load the source playlist directly. Individual stream URLs are not copied into the catalog; availability and playback can change, and the upstream playlist remains authoritative.
