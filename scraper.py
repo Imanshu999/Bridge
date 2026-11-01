@@ -65,7 +65,7 @@ def tmdb_item(x, kind, token):
     return item
 
 def enrich_tmdb(item, token):
-    kind = item["type"]
+    kind = "movie" if item["type"] == "movie" else "tv"
     ident = item["source_id"]
     try:
         details = tmdb_get(f"/{kind}/{ident}", token, {"append_to_response":"credits"})
