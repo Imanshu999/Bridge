@@ -128,7 +128,7 @@ def build_tmdb(token):
     enriched=[]
     per_type={"movie":0,"series":0}
     for item in unique.values():
-        if per_type[item["type"]] < 60:
+        if per_type[item["type"]] < 15:
             enriched.append(enrich_tmdb(item,token))
             per_type[item["type"]]+=1
             time.sleep(0.12)
@@ -273,7 +273,7 @@ def main():
     logging.basicConfig(level=logging.INFO,format="%(levelname)s: %(message)s")
     token=os.getenv("TMDB_API_READ_ACCESS_TOKEN","").strip()
     sources=[]; items=[]
-    jobs=[("anime",build_anime),("tv_channels",build_channels),("india_m3u",build_india_m3u_channels)]
+    jobs=[("anime_anilist",build_anime),("tv_channels_iptv_org",build_channels),("india_m3u",build_india_m3u_channels)]
     for name,fn in jobs:
         try:
             batch=fn(); items.extend(batch); sources.append({"name":name,"status":"ok","count":len(batch)})
