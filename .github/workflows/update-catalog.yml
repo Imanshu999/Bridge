@@ -43,5 +43,5 @@ jobs:
           git add public/catalog.json
           git diff --cached --quiet || git commit -m "chore: refresh live catalog"
           # Another scheduled/manual run may update main while this job is building.
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
