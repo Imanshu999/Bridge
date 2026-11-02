@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T22:17:25.789028+00:00",
+  "generated_at": "2026-11-02T06:33:20.182594+00:00",
   "source_count": 5,
-  "item_count": 35828,
+  "item_count": 35838,
   "counts": {
     "movie": 49,
     "series": 50,
     "anime": 5000,
-    "channel": 30729
+    "channel": 30739
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29885
+      "count": 29892
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 844
+      "count": 847
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -164127,8 +164127,8 @@
         "Supernatural"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190054-8h0AuqQjwcCL.png",
-      "backdrop_url": null,
-      "banner_url": null,
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190054-C8vrENMGNdnu.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190054-C8vrENMGNdnu.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/190054",
       "format": "SPECIAL",
@@ -257625,7 +257625,8 @@
       "type": "channel",
       "title": "Antena 3 CNN",
       "alternative_names": [
-        "Antena 3"
+        "Antena 3",
+        "3FM"
       ],
       "network": "Antena Group",
       "owners": [
@@ -273260,6 +273261,35 @@
       }
     },
     {
+      "id": "iptv-org:ASTV.ro",
+      "source": "iptv-org",
+      "source_id": "ASTV.ro",
+      "type": "channel",
+      "title": "AS TV",
+      "alternative_names": [
+        "AS TV Bistrita",
+        "AS TV Bistrița"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://astv.ro/",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/1d/AS_TV_2025.png/revision/latest?cb=20250412121320",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/1/1d/AS_TV_2025.png/revision/latest?cb=20250412121320",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:ASTV.tr",
       "source": "iptv-org",
       "source_id": "ASTV.tr",
@@ -284120,6 +284150,34 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:B4UBhojpuriPlus.in",
+      "source": "iptv-org",
+      "source_id": "B4UBhojpuriPlus.in",
+      "type": "channel",
+      "title": "B4U Bhojpuri Plus",
+      "alternative_names": [],
+      "network": "B4U",
+      "owners": [
+        "B4U Television Network India Limited"
+      ],
+      "country": "IN",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/F2cBwki.png",
+      "poster_url": "https://i.imgur.com/F2cBwki.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -471164,8 +471222,8 @@
       ],
       "launched": "2021-12-01",
       "website": "https://espn.com/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -471192,8 +471250,8 @@
       ],
       "launched": "2021-12-01",
       "website": "https://espn.com/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -471220,8 +471278,8 @@
       ],
       "launched": "2021-12-01",
       "website": "https://espn.com/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -548345,6 +548403,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:HGTV.ro",
+      "source": "iptv-org",
+      "source_id": "HGTV.ro",
+      "type": "channel",
+      "title": "HGTV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "lifestyle"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -823219,9 +823303,9 @@
       "type": "channel",
       "title": "Pogo",
       "alternative_names": [],
-      "network": "Skydance Corporation",
+      "network": "Skydance EMEA",
       "owners": [
-        "Warner Bros. Discovery India"
+        "Skydance Corporation"
       ],
       "country": "IN",
       "categories": [
@@ -909244,6 +909328,32 @@
       }
     },
     {
+      "id": "iptv-org:SensTV.ro",
+      "source": "iptv-org",
+      "source_id": "SensTV.ro",
+      "type": "channel",
+      "title": "Sens TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://senstv.ro/",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/a9/Sens_TV.png/revision/latest?cb=20231211141523",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/a/a9/Sens_TV.png/revision/latest?cb=20231211141523",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:SentimientoVallenato.co",
       "source": "iptv-org",
       "source_id": "SentimientoVallenato.co",
@@ -931912,6 +932022,32 @@
       }
     },
     {
+      "id": "iptv-org:SkyShowtime1.ro",
+      "source": "iptv-org",
+      "source_id": "SkyShowtime1.ro",
+      "type": "channel",
+      "title": "SkyShowtime 1",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": "https://www.skyshowtime.com/ro",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/a0/SkyShowtime_1.svg/revision/latest?cb=20220920074626",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/a/a0/SkyShowtime_1.svg/revision/latest?cb=20220920074626",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:SkyShowtime1.se",
       "source": "iptv-org",
       "source_id": "SkyShowtime1.se",
@@ -931963,6 +932099,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/mgiHnYW.png",
       "poster_url": "https://i.imgur.com/mgiHnYW.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SkyShowtime2.ro",
+      "source": "iptv-org",
+      "source_id": "SkyShowtime2.ro",
+      "type": "channel",
+      "title": "SkyShowtime 2",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": "https://www.skyshowtime.com/ro",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -956241,6 +956403,35 @@
       "website": null,
       "logo_url": "https://i.imgur.com/EyTwfjh.png",
       "poster_url": "https://i.imgur.com/EyTwfjh.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SportTotalFM.ro",
+      "source": "iptv-org",
+      "source_id": "SportTotalFM.ro",
+      "type": "channel",
+      "title": "Sport Total FM",
+      "alternative_names": [
+        "Sport Total",
+        "sptfm"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": "https://sptfm.ro/",
+      "logo_url": "https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png",
+      "poster_url": "https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1183584,8 +1183775,8 @@
       "source_id": "B4UMusic.in@India",
       "type": "channel",
       "title": "B4U Music (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+      "logo_url": "https://i.imgur.com/hytapio.png",
+      "poster_url": "https://i.imgur.com/hytapio.png",
       "group": "Music",
       "language": null,
       "country": "India",
@@ -1190345,6 +1190536,23 @@
       }
     },
     {
+      "id": "iptv-org-in:NewsMalayalam24x7.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "NewsMalayalam24x7.in@SD",
+      "type": "channel",
+      "title": "News Malayalam 24x7 (576p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:NewsMarathi24x7.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "NewsMarathi24x7.in@SD",
@@ -1195513,6 +1195721,23 @@
       }
     },
     {
+      "id": "iptv-org-in:VisionBeats.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "VisionBeats.in@SD",
+      "type": "channel",
+      "title": "Vision Beats (720p)",
+      "logo_url": "https://i.imgur.com/xx5RQdi.png",
+      "poster_url": "https://i.imgur.com/xx5RQdi.png",
+      "group": "Music",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:VissaTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "VissaTV.in@SD",
@@ -1195606,6 +1195831,23 @@
       "logo_url": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg",
       "poster_url": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg",
       "group": "Education",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:WahPunjabi.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "WahPunjabi.in@SD",
+      "type": "channel",
+      "title": "Wah Punjabi (720p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+      "group": "Music",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
