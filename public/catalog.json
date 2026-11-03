@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T21:52:54.421233+00:00",
+  "generated_at": "2026-11-03T07:04:29.620662+00:00",
   "source_count": 5,
-  "item_count": 35839,
+  "item_count": 35840,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30739
+    "channel": 30740
   },
   "sources": [
     {
@@ -23,7 +23,7 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29892
+      "count": 29893
     },
     {
       "name": "india_m3u",
@@ -1297,7 +1297,7 @@
       "overview": "The story follows the two gas station clerks whose routine night shift turns into a fight for survival. A government agent warns them about Mr. Frett, a terrifying creature that tracks and hunts people who show any signs of anxiety, stress, or panic. To stay alive, the characters must force themselves into a state of aggressive positivity and calm.",
       "release_date": null,
       "year": "2026",
-      "rating": 7.4,
+      "rating": 7.3,
       "vote_count": null,
       "genres": [
         "Horror"
@@ -358300,7 +358300,7 @@
         "lifestyle"
       ],
       "launched": null,
-      "website": "https://www.cardiotvsrc.ro/",
+      "website": null,
       "logo_url": "https://i.imgur.com/6Ab3KD6.png",
       "poster_url": "https://i.imgur.com/6Ab3KD6.png",
       "backdrop_url": null,
@@ -1019852,6 +1019852,32 @@
       }
     },
     {
+      "id": "iptv-org:Teveunica.do",
+      "source": "iptv-org",
+      "source_id": "Teveunica.do",
+      "type": "channel",
+      "title": "Teveunica",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "public"
+      ],
+      "launched": null,
+      "website": "https://www.signaltv.co/copy-8-of-news-1/teveunica",
+      "logo_url": "https://i.imgur.com/hDxAFhw.png",
+      "poster_url": "https://i.imgur.com/hDxAFhw.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:TeveVidaNetwork.us",
       "source": "iptv-org",
       "source_id": "TeveVidaNetwork.us",
@@ -1118084,20 +1118110,24 @@
       }
     },
     {
-      "id": "iptv-org:V2BEATTV.uk",
+      "id": "iptv-org:V2BEATTV.it",
       "source": "iptv-org",
-      "source_id": "V2BEATTV.uk",
+      "source_id": "V2BEATTV.it",
       "type": "channel",
       "title": "V2BEAT TV",
-      "alternative_names": [],
+      "alternative_names": [
+        "VIIB"
+      ],
       "network": null,
-      "owners": [],
-      "country": "UK",
+      "owners": [
+        "V2beat"
+      ],
+      "country": "IT",
       "categories": [
         "music"
       ],
-      "launched": null,
-      "website": "https://www.vibee.tv/",
+      "launched": "2012-01-01",
+      "website": "https://www.v2beat.live/",
       "logo_url": "https://i.imgur.com/PXGqyLn.png",
       "poster_url": "https://i.imgur.com/PXGqyLn.png",
       "backdrop_url": null,
