@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T19:42:46.671177+00:00",
+  "generated_at": "2026-11-04T06:47:48.506496+00:00",
   "source_count": 5,
-  "item_count": 35840,
+  "item_count": 35838,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30740
+    "channel": 30738
   },
   "sources": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 847
+      "count": 845
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -3392,7 +3392,7 @@
         "Maliq Johnson"
       ],
       "crew": [],
-      "runtime": "31 min",
+      "runtime": "30 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -542971,7 +542971,10 @@
       "source_id": "HBO.ro",
       "type": "channel",
       "title": "HBO",
-      "alternative_names": [],
+      "alternative_names": [
+        "HBO Romania",
+        "HBO România"
+      ],
       "network": null,
       "owners": [
         "Skydance Corporation"
@@ -996602,8 +996605,8 @@
       ],
       "launched": null,
       "website": "http://ttv11.vn/",
-      "logo_url": "https://tayninhtv.vn/static/images/logo.png",
-      "poster_url": "https://tayninhtv.vn/static/images/logo.png",
+      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
+      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1190795,23 +1190798,6 @@
       }
     },
     {
-      "id": "iptv-org-in:NHBollyGold.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "NHBollyGold.in@HD",
-      "type": "channel",
-      "title": "NH BollyGold (1080p)",
-      "logo_url": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
-      "poster_url": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:NHBollyRaga.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "NHBollyRaga.in@HD",
@@ -1193930,23 +1193916,6 @@
       "title": "Star Maa Movies HD (720p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarMovies.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarMovies.in@HD",
-      "type": "channel",
-      "title": "Star Movies (India) HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
       "group": "Movies",
       "language": null,
       "country": "India",
