@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T20:11:40.730785+00:00",
+  "generated_at": "2026-11-06T07:07:34.655624+00:00",
   "source_count": 5,
-  "item_count": 35855,
+  "item_count": 35856,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30755
+    "channel": 30756
   },
   "sources": [
     {
@@ -23,7 +23,7 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29910
+      "count": 29911
     },
     {
       "name": "india_m3u",
@@ -1163,48 +1163,6 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt32273171",
-      "source": "Cinemeta",
-      "source_id": "tt32273171",
-      "type": "movie",
-      "title": "The Death of Robin Hood",
-      "original_title": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "release_date": "2026-06-19T00:00:00.000Z",
-      "year": "2026",
-      "rating": 6.0,
-      "vote_count": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt32273171/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt32273171/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt32273171/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt32273171/img",
-      "detail_url": "https://www.imdb.com/title/tt32273171/",
-      "cast": [
-        "Hugh Jackman",
-        "Jodie Comer",
-        "Bill Skarsgård"
-      ],
-      "crew": [
-        {
-          "name": "Michael Sarnoski",
-          "job": "Director"
-        }
-      ],
-      "runtime": "123 min",
-      "country": "United States, United Kingdom, Ireland",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "cinemeta:movie:tt0094721",
       "source": "Cinemeta",
       "source_id": "tt0094721",
@@ -2121,6 +2079,46 @@
       }
     },
     {
+      "id": "cinemeta:movie:tt38589433",
+      "source": "Cinemeta",
+      "source_id": "tt38589433",
+      "type": "movie",
+      "title": "Never After Dark",
+      "original_title": "Never After Dark",
+      "overview": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
+      "release_date": "2026-03-13T00:00:00.000Z",
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Horror"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt38589433/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt38589433/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt38589433/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt38589433/img",
+      "detail_url": "https://www.imdb.com/title/tt38589433/",
+      "cast": [
+        "Moeka Hoshi",
+        "Kurumi Inagaki",
+        "Kento Kaku"
+      ],
+      "crew": [
+        {
+          "name": "Dave Boyle",
+          "job": "Director"
+        }
+      ],
+      "runtime": "104 min",
+      "country": "Japan",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:series:tt26598805",
       "source": "Cinemeta",
       "source_id": "tt26598805",
@@ -2276,7 +2274,7 @@
       "overview": "Prequel series to Friday the 13th, follows a doomed small town where camp counselors come to die.",
       "release_date": "2026-10-15T00:00:00.000Z",
       "year": "2026",
-      "rating": 7.6,
+      "rating": 7.8,
       "vote_count": null,
       "genres": [
         "Drama",
@@ -27391,7 +27389,8 @@
       "rating": 8.6,
       "vote_count": null,
       "genres": [
-        "Drama"
+        "Drama",
+        "Psychological"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151514-Y0d82Ah2ZOHX.jpg",
       "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151514-mwWSGTynCLkl.jpg",
@@ -377851,6 +377850,34 @@
       }
     },
     {
+      "id": "iptv-org:Chefilacutite.ro",
+      "source": "iptv-org",
+      "source_id": "Chefilacutite.ro",
+      "type": "channel",
+      "title": "Chefi la cutite",
+      "alternative_names": [
+        "Chefi la cuțite"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "cooking"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://assets.antenaplay.ro/2026/11/04/G8N7skUwdPOXMI5hwmDm.png",
+      "poster_url": "https://assets.antenaplay.ro/2026/11/04/G8N7skUwdPOXMI5hwmDm.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Chefiro.ro",
       "source": "iptv-org",
       "source_id": "Chefiro.ro",
@@ -472772,32 +472799,6 @@
       }
     },
     {
-      "id": "iptv-org:EstTVNeamt.ro",
-      "source": "iptv-org",
-      "source_id": "EstTVNeamt.ro",
-      "type": "channel",
-      "title": "Est TV Neamt",
-      "alternative_names": [],
-      "network": null,
-      "owners": [],
-      "country": "RO",
-      "categories": [
-        "general"
-      ],
-      "launched": null,
-      "website": null,
-      "logo_url": "https://i.imgur.com/Fa6MLWJ.png",
-      "poster_url": "https://i.imgur.com/Fa6MLWJ.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:Estudeemcasa.br",
       "source": "iptv-org",
       "source_id": "Estudeemcasa.br",
@@ -481839,8 +481840,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://www.tvchannellists.com/wiki/images/5/56/Exclusiv_DIGI_TV_1.png",
-      "poster_url": "https://www.tvchannellists.com/wiki/images/5/56/Exclusiv_DIGI_TV_1.png",
+      "logo_url": "https://i.imgur.com/1RcZYpu.png",
+      "poster_url": "https://i.imgur.com/1RcZYpu.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -481865,8 +481866,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://www.tvchannellists.com/wiki/images/6/62/Exclusiv_DIGI_TV_2.png",
-      "poster_url": "https://www.tvchannellists.com/wiki/images/6/62/Exclusiv_DIGI_TV_2.png",
+      "logo_url": "https://i.imgur.com/f3OnQk7.png",
+      "poster_url": "https://i.imgur.com/f3OnQk7.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -481891,8 +481892,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://www.tvchannellists.com/wiki/images/7/7e/Exclusiv_DIGI_TV_3.png",
-      "poster_url": "https://www.tvchannellists.com/wiki/images/7/7e/Exclusiv_DIGI_TV_3.png",
+      "logo_url": "https://i.imgur.com/D9JSbNU.png",
+      "poster_url": "https://i.imgur.com/D9JSbNU.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -517957,6 +517958,36 @@
       "website": "https://www.gemgroup.tv/",
       "logo_url": "https://i.imgur.com/eQkBb4G.png",
       "poster_url": "https://i.imgur.com/eQkBb4G.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:GemTV.in",
+      "source": "iptv-org",
+      "source_id": "GemTV.in",
+      "type": "channel",
+      "title": "Gem TV",
+      "alternative_names": [
+        "ஜெம் டிவி"
+      ],
+      "network": null,
+      "owners": [
+        "Gem Media Network Pvt. Ltd."
+      ],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": "2021-01-01",
+      "website": "https://gemlive.tv/",
+      "logo_url": "https://gemlive.tv/wp-content/uploads/2024/01/final-logo.png",
+      "poster_url": "https://gemlive.tv/wp-content/uploads/2024/01/final-logo.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -574232,8 +574263,8 @@
       ],
       "launched": null,
       "website": "http://tvimpact.live/",
-      "logo_url": "https://i.imgur.com/G5mNdpE.png",
-      "poster_url": "https://i.imgur.com/G5mNdpE.png",
+      "logo_url": "https://i.imgur.com/4JdnUAd.png",
+      "poster_url": "https://i.imgur.com/4JdnUAd.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -745850,8 +745881,8 @@
       ],
       "launched": "1998-11-15",
       "website": "http://www.nickelodeon.ro/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -749360,8 +749391,8 @@
       ],
       "launched": "2018-02-15",
       "website": "http://www.nicktoons.ro/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -907232,32 +907263,6 @@
       "website": null,
       "logo_url": "https://i.imgur.com/DNNWEhF.png",
       "poster_url": "https://i.imgur.com/DNNWEhF.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SCTV4K.vn",
-      "source": "iptv-org",
-      "source_id": "SCTV4K.vn",
-      "type": "channel",
-      "title": "SCTV4K",
-      "alternative_names": [],
-      "network": null,
-      "owners": [
-        "Saigontourist Cable Television Limited Liability Company"
-      ],
-      "country": "VN",
-      "categories": [],
-      "launched": "2015-01-01",
-      "website": "https://sctv.com.vn",
-      "logo_url": "https://i.imgur.com/eQVMAur.png",
-      "poster_url": "https://i.imgur.com/eQVMAur.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1118574,8 +1118579,8 @@
       ],
       "launched": "2012-01-01",
       "website": "https://www.v2beat.live/",
-      "logo_url": "https://www.vibee.tv/wp-content/uploads/2026/05/viib-v2beat-logo-white-300.png",
-      "poster_url": "https://www.vibee.tv/wp-content/uploads/2026/05/viib-v2beat-logo-white-300.png",
+      "logo_url": "https://i.imgur.com/PXGqyLn.png",
+      "poster_url": "https://i.imgur.com/PXGqyLn.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1127370,6 +1127375,32 @@
       }
     },
     {
+      "id": "iptv-org:ViasatKino.ro",
+      "source": "iptv-org",
+      "source_id": "ViasatKino.ro",
+      "type": "channel",
+      "title": "Viasat Kino",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "movies"
+      ],
+      "launched": "2025-05-07",
+      "website": "https://viasatkino.ro/",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:ViasatKino.ua",
       "source": "iptv-org",
       "source_id": "ViasatKino.ua",
@@ -1131022,7 +1131053,9 @@
       "source_id": "VinhLongTV1.vn",
       "type": "channel",
       "title": "Vinh Long TV 1",
-      "alternative_names": [],
+      "alternative_names": [
+        "THVL1"
+      ],
       "network": null,
       "owners": [],
       "country": "VN",
@@ -1183347,7 +1183380,7 @@
       "source": "iptv-org India M3U",
       "source_id": "AasthaKannada.in@SD",
       "type": "channel",
-      "title": "Aastha Kannada (480p)",
+      "title": "Aastha Kannada (576p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540",
       "group": "Religious",
@@ -1185557,7 +1185590,7 @@
       "source": "iptv-org India M3U",
       "source_id": "DDChandana.in@SD",
       "type": "channel",
-      "title": "DD Chandana (504p)",
+      "title": "DD Chandana (576p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png",
       "group": "General",
@@ -1185965,7 +1185998,7 @@
       "source": "iptv-org India M3U",
       "source_id": "DDSaptagiri.in@SD",
       "type": "channel",
-      "title": "DD Saptagiri (504p)",
+      "title": "DD Saptagiri (576p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png",
       "group": "General",
@@ -1193394,7 +1193427,7 @@
       "source": "iptv-org India M3U",
       "source_id": "SansadTV2.in@SD",
       "type": "channel",
-      "title": "Sansad TV 2",
+      "title": "Sansad TV 2 (576p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540",
       "group": "Legislative",
@@ -1195332,7 +1195365,7 @@
       "source": "iptv-org India M3U",
       "source_id": "ThePetCollective.us@India",
       "type": "channel",
-      "title": "The Pet Collective India",
+      "title": "The Pet Collective India (720p)",
       "logo_url": "https://i.imgur.com/yH7n2dF.png",
       "poster_url": "https://i.imgur.com/yH7n2dF.png",
       "group": "Family",
@@ -1196369,7 +1196402,7 @@
       "source": "iptv-org India M3U",
       "source_id": "WeatherSpy.in@SD",
       "type": "channel",
-      "title": "WeatherSpy (India)",
+      "title": "WeatherSpy (India) (720p)",
       "logo_url": "https://i.imgur.com/KIEKOt1.png",
       "poster_url": "https://i.imgur.com/KIEKOt1.png",
       "group": "Weather",
