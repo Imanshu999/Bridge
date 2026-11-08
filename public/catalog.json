@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T22:07:46.233421+00:00",
+  "generated_at": "2026-11-08T06:25:35.608773+00:00",
   "source_count": 5,
-  "item_count": 35877,
+  "item_count": 35869,
   "counts": {
     "movie": 49,
     "series": 50,
     "anime": 5000,
-    "channel": 30778
+    "channel": 30770
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29915
+      "count": 29921
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 863
+      "count": 849
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -2147,7 +2147,7 @@
         "Ntare Guma Mbaho Mwine"
       ],
       "crew": [],
-      "runtime": "51 min",
+      "runtime": "52 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -3251,6 +3251,41 @@
       }
     },
     {
+      "id": "cinemeta:series:tt42220724",
+      "source": "Cinemeta",
+      "source_id": "tt42220724",
+      "type": "series",
+      "title": "Minimum Wage",
+      "original_title": "Minimum Wage",
+      "overview": "Follows an overwhelmed group of teenagers who struggle to run a local pizzeria while juggling school, a manic boss, and their minimum wage salaries.",
+      "release_date": "2026-10-26T00:00:00.000Z",
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Comedy"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt42220724/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt42220724/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt42220724/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt42220724/img",
+      "detail_url": "https://www.imdb.com/title/tt42220724/",
+      "cast": [
+        "Randall Park",
+        "Grace Reiter",
+        "Julia DiCesare"
+      ],
+      "crew": [],
+      "runtime": "16 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:series:tt33332385",
       "source": "Cinemeta",
       "source_id": "tt33332385",
@@ -3866,43 +3901,6 @@
       ],
       "crew": [],
       "runtime": "44 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:series:tt4574334",
-      "source": "Cinemeta",
-      "source_id": "tt4574334",
-      "type": "series",
-      "title": "Stranger Things",
-      "original_title": "Stranger Things",
-      "overview": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
-      "release_date": "2016-07-15T00:00:00.000Z",
-      "year": "2016",
-      "rating": 8.6,
-      "vote_count": null,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt4574334/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt4574334/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt4574334/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt4574334/img",
-      "detail_url": "https://www.imdb.com/title/tt4574334/",
-      "cast": [
-        "Millie Bobby Brown",
-        "Finn Wolfhard",
-        "Winona Ryder"
-      ],
-      "crew": [],
-      "runtime": "65 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -305439,7 +305437,8 @@
       "network": null,
       "owners": [
         "BBC",
-        "Warner Bros. Discovery Sports Europe",
+        "Skydance Corporation",
+        "Sports Europe",
         "Sky plc"
       ],
       "country": "UK",
@@ -478382,7 +478381,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "NO",
       "categories": [
@@ -479234,7 +479233,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "DE",
       "categories": [
@@ -479262,7 +479261,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479290,7 +479289,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479325,7 +479324,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479360,7 +479359,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479395,7 +479394,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479430,7 +479429,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479465,7 +479464,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479500,7 +479499,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479535,7 +479534,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479570,7 +479569,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479624,7 +479623,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479763,7 +479762,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479791,7 +479790,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479819,7 +479818,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479847,7 +479846,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -479875,7 +479874,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery"
+        "Skydance Corporation"
       ],
       "country": "FR",
       "categories": [
@@ -575992,6 +575991,30 @@
       }
     },
     {
+      "id": "iptv-org:IndiHomeChannel907.id",
+      "source": "iptv-org",
+      "source_id": "IndiHomeChannel907.id",
+      "type": "channel",
+      "title": "IndiHome Channel 907",
+      "alternative_names": [],
+      "network": "IndiHome",
+      "owners": [],
+      "country": "ID",
+      "categories": [],
+      "launched": null,
+      "website": "https://www.telkomsel.com/indihome",
+      "logo_url": "https://i.imgur.com/RF6P3V2.png",
+      "poster_url": "https://i.imgur.com/RF6P3V2.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:IndiMusicTV.us",
       "source": "iptv-org",
       "source_id": "IndiMusicTV.us",
@@ -640056,6 +640079,30 @@
       }
     },
     {
+      "id": "iptv-org:LaSeptima.es",
+      "source": "iptv-org",
+      "source_id": "LaSeptima.es",
+      "type": "channel",
+      "title": "La Septima",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "ES",
+      "categories": [],
+      "launched": "2026-11-05",
+      "website": "https://laseptima.com/",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/8/8d/La_S%C3%A9ptima_2026_II.svg/revision/latest?cb=20261106050649",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/8/8d/La_S%C3%A9ptima_2026_II.svg/revision/latest?cb=20261106050649",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Laser101.sx",
       "source": "iptv-org",
       "source_id": "Laser101.sx",
@@ -641353,6 +641400,34 @@
       "website": "https://www.radionacional.com.uy/web/",
       "logo_url": "https://i.imgur.com/SsY81Tl.jpeg",
       "poster_url": "https://i.imgur.com/SsY81Tl.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:LaTremendaTV.pe",
+      "source": "iptv-org",
+      "source_id": "LaTremendaTV.pe",
+      "type": "channel",
+      "title": "La Tremenda TV",
+      "alternative_names": [
+        "La Tremenda"
+      ],
+      "network": "Caracol Comunicaciones",
+      "owners": [],
+      "country": "PE",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://latremenda.pe/",
+      "logo_url": "https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg",
+      "poster_url": "https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -669147,6 +669222,62 @@
       "website": "http://www.markiza.sk/",
       "logo_url": "https://i.imgur.com/B7KJNdm.png",
       "poster_url": "https://i.imgur.com/B7KJNdm.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:MarkizaPlus1.sk",
+      "source": "iptv-org",
+      "source_id": "MarkizaPlus1.sk",
+      "type": "channel",
+      "title": "Markiza +1",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "CME"
+      ],
+      "country": "SK",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://web02.antik.sk/assets/img/channels/e910de4c6891e918d2c52d6149fc9589.svg",
+      "poster_url": "https://web02.antik.sk/assets/img/channels/e910de4c6891e918d2c52d6149fc9589.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:MarkizaTNLive.sk",
+      "source": "iptv-org",
+      "source_id": "MarkizaTNLive.sk",
+      "type": "channel",
+      "title": "Markiza TN Live",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "CME"
+      ],
+      "country": "SK",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/4/4e/TNLive2026.svg/revision/latest?cb=20261015062138",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/4/4e/TNLive2026.svg/revision/latest?cb=20261015062138",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -749028,8 +749159,8 @@
       ],
       "launched": null,
       "website": "https://pluto.tv/live-tv/nicktoons-au/details",
-      "logo_url": null,
-      "poster_url": null,
+      "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1920px-Nicktoons_Logo_2023.svg.png",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1920px-Nicktoons_Logo_2023.svg.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -776843,8 +776974,8 @@
       ],
       "launched": "2009-08-23",
       "website": "https://vtvcab.vn",
-      "logo_url": "https://i.ibb.co/3mW7V802/IMG-2510.webp",
-      "poster_url": "https://i.ibb.co/3mW7V802/IMG-2510.webp",
+      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ON%20Football%20HD.png",
+      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ON%20Football%20HD.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -916765,6 +916896,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ShopOnTV.ro",
+      "source": "iptv-org",
+      "source_id": "ShopOnTV.ro",
+      "type": "channel",
+      "title": "Shop On TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "shop"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/9/9c/Shop_On_TV.svg/revision/latest?cb=20260124210444",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/9/9c/Shop_On_TV.svg/revision/latest?cb=20260124210444",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1097401,8 +1097558,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
-      "poster_url": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
+      "logo_url": "https://i.postimg.cc/BQpQRvFS/tv-rus-plus.png",
+      "poster_url": "https://i.postimg.cc/BQpQRvFS/tv-rus-plus.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1185375,23 +1185532,6 @@
       }
     },
     {
-      "id": "iptv-org-in:ColorsInfinity.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "ColorsInfinity.in@HD",
-      "type": "channel",
-      "title": "Colors Infinity HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:ColorsKannada.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "ColorsKannada.in@HD",
@@ -1186582,40 +1186722,6 @@
       }
     },
     {
-      "id": "iptv-org-in:DisneyInternationalHD.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DisneyInternationalHD.in@SD",
-      "type": "channel",
-      "title": "Disney International HD (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
-      "group": "Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DisneyJunior.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DisneyJunior.in@SD",
-      "type": "channel",
-      "title": "Disney Junior (India) (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-      "group": "Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:DivyaBhajan.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "DivyaBhajan.in@SD",
@@ -1187092,23 +1187198,6 @@
       }
     },
     {
-      "id": "iptv-org-in:EpicParivar.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EpicParivar.in@SD",
-      "type": "channel",
-      "title": "Epic Parivar (576p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:EpicTV.in@Digital",
       "source": "iptv-org India M3U",
       "source_id": "EpicTV.in@Digital",
@@ -1187385,7 +1187474,7 @@
       "source": "iptv-org India M3U",
       "source_id": "Eurosport.in@SD",
       "type": "channel",
-      "title": "Eurosport (720p)",
+      "title": "Eurosport (India) (720p)",
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
       "group": "Sports",
@@ -1187402,7 +1187491,7 @@
       "source": "iptv-org India M3U",
       "source_id": "Eurosport.in@HD",
       "type": "channel",
-      "title": "Eurosport HD (1080p)",
+      "title": "Eurosport (India) HD (1080p)",
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
       "group": "Sports",
@@ -1192179,7 +1192268,7 @@
       "source": "iptv-org India M3U",
       "source_id": "Pogo.in@SD",
       "type": "channel",
-      "title": "Pogo (576p)",
+      "title": "Pogo (720p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
       "group": "Animation;Kids",
@@ -1194419,23 +1194508,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonyEntertainmentTelevision.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyEntertainmentTelevision.in@SD",
-      "type": "channel",
-      "title": "Sony Entertainment Television (576p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonyEntertainmentTelevision.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "SonyEntertainmentTelevision.in@HD",
@@ -1194487,23 +1194559,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonyPix.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyPix.in@HD",
-      "type": "channel",
-      "title": "Sony Pix HD (1080p)",
-      "logo_url": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-      "poster_url": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonySAB.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonySAB.in@SD",
@@ -1194512,23 +1194567,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonySportsTen3Hindi.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonySportsTen3Hindi.in@SD",
-      "type": "channel",
-      "title": "Sony Sports Ten 3 Hindi (576p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1194657,23 +1194695,6 @@
       }
     },
     {
-      "id": "iptv-org-in:StarGold2.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarGold2.in@HD",
-      "type": "channel",
-      "title": "Star Gold 2 HD (1080p)",
-      "logo_url": "https://i.imgur.com/G0ZfzZr.png",
-      "poster_url": "https://i.imgur.com/G0ZfzZr.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:StarGold.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "StarGold.in@HD",
@@ -1194712,7 +1194733,7 @@
       "source": "iptv-org India M3U",
       "source_id": "StarJalsha.in@SD",
       "type": "channel",
-      "title": "Star Jalsha (576p)",
+      "title": "Star Jalsha (1080p) [Geo-blocked]",
       "logo_url": "https://i.imgur.com/IlufzR5.png",
       "poster_url": "https://i.imgur.com/IlufzR5.png",
       "group": "Entertainment",
@@ -1194732,23 +1194753,6 @@
       "title": "Star Jalsha HD (1080p)",
       "logo_url": "https://i.imgur.com/IlufzR5.png",
       "poster_url": "https://i.imgur.com/IlufzR5.png",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarKiran.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarKiran.in@SD",
-      "type": "channel",
-      "title": "Star Kiran (576p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
       "group": "Entertainment",
       "language": null,
       "country": "India",
@@ -1194835,23 +1194839,6 @@
       "logo_url": "https://i.imgur.com/ZT0u7AK.png",
       "poster_url": "https://i.imgur.com/ZT0u7AK.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarSports2.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarSports2.in@SD",
-      "type": "channel",
-      "title": "Star Sports 2 (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1195226,23 +1195213,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Superhitz.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Superhitz.in@SD",
-      "type": "channel",
-      "title": "Superhitz (576p)",
-      "logo_url": "https://i.imgur.com/aRNBvTU.png",
-      "poster_url": "https://i.imgur.com/aRNBvTU.png",
-      "group": "Undefined",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1195987,7 +1195957,7 @@
       "source": "iptv-org India M3U",
       "source_id": "Travelxp.in@HD",
       "type": "channel",
-      "title": "Travelxp HD (1080p)",
+      "title": "Travelxp HD (1080p) [Geo-blocked]",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
       "group": "Travel",
@@ -1196365,23 +1196335,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
       "group": "Entertainment;Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Unite8Sports2.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Unite8Sports2.in@SD",
-      "type": "channel",
-      "title": "Unite8 Sports 2 (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1197071,23 +1197024,6 @@
       }
     },
     {
-      "id": "iptv-org-in:ZeeBangla.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeBangla.in@SD",
-      "type": "channel",
-      "title": "Zee Bangla (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:ZeeBangla.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "ZeeBangla.in@HD",
@@ -1197504,23 +1197440,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540",
       "group": "News",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:ZeeTV.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeTV.in@SD",
-      "type": "channel",
-      "title": "Zee TV (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
