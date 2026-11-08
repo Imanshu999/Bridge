@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T13:47:48.934166+00:00",
+  "generated_at": "2026-11-08T22:20:55.070617+00:00",
   "source_count": 5,
   "item_count": 35869,
   "counts": {
@@ -322,6 +322,48 @@
       ],
       "runtime": "95 min",
       "country": "Germany, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt33764258",
+      "source": "Cinemeta",
+      "source_id": "tt33764258",
+      "type": "movie",
+      "title": "The Odyssey",
+      "original_title": "The Odyssey",
+      "overview": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+      "release_date": "2026-07-17T00:00:00.000Z",
+      "year": "2026",
+      "rating": 8.4,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt33764258/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt33764258/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt33764258/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt33764258/img",
+      "detail_url": "https://www.imdb.com/title/tt33764258/",
+      "cast": [
+        "Matt Damon",
+        "Tom Holland",
+        "Anne Hathaway"
+      ],
+      "crew": [
+        {
+          "name": "Christopher Nolan",
+          "job": "Director"
+        }
+      ],
+      "runtime": "173 min",
+      "country": "United Kingdom, United States, Canada, New Zealand, Iceland",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -2033,48 +2075,6 @@
       ],
       "runtime": "84 min",
       "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt27165187",
-      "source": "Cinemeta",
-      "source_id": "tt27165187",
-      "type": "movie",
-      "title": "The End of Oak Street",
-      "original_title": "The End of Oak Street",
-      "overview": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
-      "release_date": "2026-08-14T00:00:00.000Z",
-      "year": "2026",
-      "rating": 6.5,
-      "vote_count": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Mystery"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt27165187/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt27165187/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt27165187/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt27165187/img",
-      "detail_url": "https://www.imdb.com/title/tt27165187/",
-      "cast": [
-        "Anne Hathaway",
-        "Ewan McGregor",
-        "Maisy Stella"
-      ],
-      "crew": [
-        {
-          "name": "David Robert Mitchell",
-          "job": "Director"
-        }
-      ],
-      "runtime": "100 min",
-      "country": "United States, Canada, Australia",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -162151,7 +162151,7 @@
       "season": "FALL",
       "season_year": 2026,
       "episodes_count": null,
-      "episode_duration_minutes": null,
+      "episode_duration_minutes": 23,
       "reviews": [],
       "review_count": null,
       "cast": [],
