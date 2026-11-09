@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T22:20:55.070617+00:00",
+  "generated_at": "2026-11-09T06:58:42.685213+00:00",
   "source_count": 5,
-  "item_count": 35869,
+  "item_count": 35865,
   "counts": {
-    "movie": 49,
+    "movie": 48,
     "series": 50,
     "anime": 5000,
-    "channel": 30770
+    "channel": 30767
   },
   "sources": [
     {
       "name": "cinemeta_movies_series",
       "status": "ok",
-      "count": 99
+      "count": 98
     },
     {
       "name": "anime_anilist",
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29921
+      "count": 29922
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 849
+      "count": 845
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -322,48 +322,6 @@
       ],
       "runtime": "95 min",
       "country": "Germany, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt33764258",
-      "source": "Cinemeta",
-      "source_id": "tt33764258",
-      "type": "movie",
-      "title": "The Odyssey",
-      "original_title": "The Odyssey",
-      "overview": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
-      "release_date": "2026-07-17T00:00:00.000Z",
-      "year": "2026",
-      "rating": 8.4,
-      "vote_count": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt33764258/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt33764258/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt33764258/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt33764258/img",
-      "detail_url": "https://www.imdb.com/title/tt33764258/",
-      "cast": [
-        "Matt Damon",
-        "Tom Holland",
-        "Anne Hathaway"
-      ],
-      "crew": [
-        {
-          "name": "Christopher Nolan",
-          "job": "Director"
-        }
-      ],
-      "runtime": "173 min",
-      "country": "United Kingdom, United States, Canada, New Zealand, Iceland",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -318500,6 +318458,36 @@
       }
     },
     {
+      "id": "iptv-org:Bravo.ca",
+      "source": "iptv-org",
+      "source_id": "Bravo.ca",
+      "type": "channel",
+      "title": "Bravo",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Roger Sports & Media",
+        "NBCUniversal"
+      ],
+      "country": "CA",
+      "categories": [
+        "entertainment",
+        "lifestyle"
+      ],
+      "launched": "1997-10-17",
+      "website": "https://citytvplus.ca/brands/bravo",
+      "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/960px-Bravo_2024.svg.png",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/960px-Bravo_2024.svg.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Bravo.nz",
       "source": "iptv-org",
       "source_id": "Bravo.nz",
@@ -511708,7 +511696,7 @@
         "entertainment"
       ],
       "launched": "2011-10-31",
-      "website": "http://www.fxnowcanada.ca/",
+      "website": "https://citytvplus.ca/brands/fx",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
       "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
       "backdrop_url": null,
@@ -777591,8 +777579,8 @@
       ],
       "launched": "2004-12-01",
       "website": "https://vtvcab.vn",
-      "logo_url": "https://i.ibb.co/PG42cg8X/IMG-2526.webp",
-      "poster_url": "https://i.ibb.co/PG42cg8X/IMG-2526.webp",
+      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ON%20Sports%20HD.png",
+      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ON%20Sports%20HD.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1194493,23 +1194481,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonyBBCEarth.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyBBCEarth.in@HD",
-      "type": "channel",
-      "title": "Sony BBC Earth HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-      "group": "Documentary",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonyEntertainmentTelevision.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "SonyEntertainmentTelevision.in@HD",
@@ -1194714,23 +1194685,6 @@
       }
     },
     {
-      "id": "iptv-org-in:StarGoldSelect.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarGoldSelect.in@SD",
-      "type": "channel",
-      "title": "Star Gold Select (1080p)",
-      "logo_url": "https://i.imgur.com/U7eiuqv.png",
-      "poster_url": "https://i.imgur.com/U7eiuqv.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:StarJalsha.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "StarJalsha.in@SD",
@@ -1194806,23 +1194760,6 @@
       "title": "Star Movies (India) HD (1080p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarMoviesSelect.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarMoviesSelect.in@HD",
-      "type": "channel",
-      "title": "Star Movies Select HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
       "group": "Movies",
       "language": null,
       "country": "India",
@@ -1197119,23 +1197056,6 @@
       "logo_url": "https://i.imgur.com/QCRhS1n.png",
       "poster_url": "https://i.imgur.com/QCRhS1n.png",
       "group": "Classic",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:ZeeCinema.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeCinema.in@SD",
-      "type": "channel",
-      "title": "Zee Cinema (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Movies",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
