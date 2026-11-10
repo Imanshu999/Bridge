@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T22:37:24.020886+00:00",
+  "generated_at": "2026-11-10T07:35:37.430291+00:00",
   "source_count": 5,
-  "item_count": 35866,
+  "item_count": 35895,
   "counts": {
-    "movie": 49,
+    "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30767
+    "channel": 30795
   },
   "sources": [
     {
       "name": "cinemeta_movies_series",
       "status": "ok",
-      "count": 99
+      "count": 100
     },
     {
       "name": "anime_anilist",
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29922
+      "count": 29959
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 845
+      "count": 836
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -38,39 +38,40 @@
   ],
   "items": [
     {
-      "id": "cinemeta:movie:tt37287335",
+      "id": "cinemeta:movie:tt35538033",
       "source": "Cinemeta",
-      "source_id": "tt37287335",
+      "source_id": "tt35538033",
       "type": "movie",
-      "title": "Obsession",
-      "original_title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "release_date": "2026-05-15T00:00:00.000Z",
+      "title": "Resident Evil",
+      "original_title": "Resident Evil",
+      "overview": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+      "release_date": "2026-09-18T00:00:00.000Z",
       "year": "2026",
-      "rating": 7.8,
+      "rating": null,
       "vote_count": null,
       "genres": [
+        "Action",
         "Horror",
-        "Thriller"
+        "Sci-Fi"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt37287335/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt37287335/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt37287335/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt37287335/img",
-      "detail_url": "https://www.imdb.com/title/tt37287335/",
+      "poster_url": "https://images.metahub.space/poster/small/tt35538033/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt35538033/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt35538033/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt35538033/img",
+      "detail_url": "https://www.imdb.com/title/tt35538033/",
       "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson"
+        "Austin Abrams",
+        "Paul Walter Hauser",
+        "Zach Cherry"
       ],
       "crew": [
         {
-          "name": "Curry Barker",
+          "name": "Zach Cregger",
           "job": "Director"
         }
       ],
-      "runtime": "109 min",
-      "country": "United States",
+      "runtime": "94 min",
+      "country": "Germany, United States",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -121,6 +122,170 @@
       }
     },
     {
+      "id": "cinemeta:movie:tt0077651",
+      "source": "Cinemeta",
+      "source_id": "tt0077651",
+      "type": "movie",
+      "title": "Halloween",
+      "original_title": "Halloween",
+      "overview": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",
+      "release_date": "1978-10-27T00:00:00.000Z",
+      "year": "1978",
+      "rating": 7.7,
+      "vote_count": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt0077651/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0077651/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0077651/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0077651/img",
+      "detail_url": "https://www.imdb.com/title/tt0077651/",
+      "cast": [
+        "Donald Pleasence",
+        "Jamie Lee Curtis",
+        "Tony Moran"
+      ],
+      "crew": [
+        {
+          "name": "John Carpenter",
+          "job": "Director"
+        }
+      ],
+      "runtime": "91 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt34206385",
+      "source": "Cinemeta",
+      "source_id": "tt34206385",
+      "type": "movie",
+      "title": "Primetime",
+      "original_title": "Primetime",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+      "release_date": "2026-09-25T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.0,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt34206385/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt34206385/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt34206385/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt34206385/img",
+      "detail_url": "https://www.imdb.com/title/tt34206385/",
+      "cast": [
+        "Robert Pattinson",
+        "Merritt Wever",
+        "Anna Faris"
+      ],
+      "crew": [
+        {
+          "name": "Lance Oppenheim",
+          "job": "Director"
+        }
+      ],
+      "runtime": "110 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt37287335",
+      "source": "Cinemeta",
+      "source_id": "tt37287335",
+      "type": "movie",
+      "title": "Obsession",
+      "original_title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "release_date": "2026-05-15T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.8,
+      "vote_count": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt37287335/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt37287335/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt37287335/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt37287335/img",
+      "detail_url": "https://www.imdb.com/title/tt37287335/",
+      "cast": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson"
+      ],
+      "crew": [
+        {
+          "name": "Curry Barker",
+          "job": "Director"
+        }
+      ],
+      "runtime": "109 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt38515310",
+      "source": "Cinemeta",
+      "source_id": "tt38515310",
+      "type": "movie",
+      "title": "A Dog's Perfect Christmas",
+      "original_title": "A Dog's Perfect Christmas",
+      "overview": "A sage basset hound narrates how his family faces turmoil when Mrs. Goss falls into an induced coma, and a new Corgi pup helps unite the scattered household during their mother's absence.",
+      "release_date": null,
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt38515310/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt38515310/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt38515310/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt38515310/img",
+      "detail_url": "https://www.imdb.com/title/tt38515310/",
+      "cast": [
+        "Mary Steenburgen",
+        "Jennifer Tilly",
+        "Dennis Quaid"
+      ],
+      "crew": [
+        {
+          "name": "Cathryn Michon",
+          "job": "Director"
+        }
+      ],
+      "runtime": "102 min",
+      "country": "Canada",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:movie:tt32261958",
       "source": "Cinemeta",
       "source_id": "tt32261958",
@@ -163,38 +328,288 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt0077651",
+      "id": "cinemeta:movie:tt0107688",
       "source": "Cinemeta",
-      "source_id": "tt0077651",
+      "source_id": "tt0107688",
       "type": "movie",
-      "title": "Halloween",
-      "original_title": "Halloween",
-      "overview": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",
-      "release_date": "1978-10-27T00:00:00.000Z",
-      "year": "1978",
-      "rating": 7.7,
+      "title": "The Nightmare Before Christmas",
+      "original_title": "The Nightmare Before Christmas",
+      "overview": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
+      "release_date": "1993-10-29T00:00:00.000Z",
+      "year": "1993",
+      "rating": 7.9,
       "vote_count": null,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Animation",
+        "Adventure",
+        "Family"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0077651/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0077651/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0077651/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0077651/img",
-      "detail_url": "https://www.imdb.com/title/tt0077651/",
+      "poster_url": "https://images.metahub.space/poster/small/tt0107688/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0107688/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0107688/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0107688/img",
+      "detail_url": "https://www.imdb.com/title/tt0107688/",
       "cast": [
-        "Donald Pleasence",
-        "Jamie Lee Curtis",
-        "Tony Moran"
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O&apos;Hara"
       ],
       "crew": [
         {
-          "name": "John Carpenter",
+          "name": "Henry Selick",
           "job": "Director"
         }
       ],
-      "runtime": "91 min",
+      "runtime": "76 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt22084616",
+      "source": "Cinemeta",
+      "source_id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "original_title": "Spider-Man: Brand New Day",
+      "overview": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+      "release_date": "2026-07-31T00:00:00.000Z",
+      "year": "2026",
+      "rating": 8.0,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt22084616/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt22084616/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt22084616/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt22084616/img",
+      "detail_url": "https://www.imdb.com/title/tt22084616/",
+      "cast": [
+        "Tom Holland",
+        "Zendaya",
+        "Mark Ruffalo"
+      ],
+      "crew": [
+        {
+          "name": "Destin Daniel Cretton",
+          "job": "Director"
+        }
+      ],
+      "runtime": "145 min",
+      "country": "United States, Canada, United Kingdom, Germany",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt14173636",
+      "source": "Cinemeta",
+      "source_id": "tt14173636",
+      "type": "movie",
+      "title": "The Invite",
+      "original_title": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "release_date": "2026-07-10T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.5,
+      "vote_count": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt14173636/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt14173636/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt14173636/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt14173636/img",
+      "detail_url": "https://www.imdb.com/title/tt14173636/",
+      "cast": [
+        "Seth Rogen",
+        "Olivia Wilde",
+        "Penélope Cruz"
+      ],
+      "crew": [
+        {
+          "name": "Olivia Wilde",
+          "job": "Director"
+        }
+      ],
+      "runtime": "107 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt23289160",
+      "source": "Cinemeta",
+      "source_id": "tt23289160",
+      "type": "movie",
+      "title": "Godzilla Minus One",
+      "original_title": "Godzilla Minus One",
+      "overview": "A kamikaze pilot plagued by survivor's guilt seeks redemption when a giant monster he failed to kill is transformed by radiation from atomic bomb tests and lays siege to post-war Japan.",
+      "release_date": "2023-12-01T00:00:00.000Z",
+      "year": "2023",
+      "rating": 7.6,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt23289160/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt23289160/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt23289160/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt23289160/img",
+      "detail_url": "https://www.imdb.com/title/tt23289160/",
+      "cast": [
+        "Minami Hamabe",
+        "Ryûnosuke Kamiki",
+        "Sakura Andô"
+      ],
+      "crew": [
+        {
+          "name": "Takashi Yamazaki",
+          "job": "Director"
+        }
+      ],
+      "runtime": "125 min",
+      "country": "Japan",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt0117571",
+      "source": "Cinemeta",
+      "source_id": "tt0117571",
+      "type": "movie",
+      "title": "Scream",
+      "original_title": "Scream",
+      "overview": "In the small town of Woodsboro, California, a masked killer known as Ghostface begins murdering high school students, and a group of friends must use their knowledge of horror movies to unmask the killer.",
+      "release_date": "1996-12-20T00:00:00.000Z",
+      "year": "1996",
+      "rating": 7.4,
+      "vote_count": null,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt0117571/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0117571/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0117571/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0117571/img",
+      "detail_url": "https://www.imdb.com/title/tt0117571/",
+      "cast": [
+        "Neve Campbell",
+        "Courteney Cox",
+        "David Arquette"
+      ],
+      "crew": [
+        {
+          "name": "Wes Craven",
+          "job": "Director"
+        }
+      ],
+      "runtime": "112 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt13609648",
+      "source": "Cinemeta",
+      "source_id": "tt13609648",
+      "type": "movie",
+      "title": "Sense and Sensibility",
+      "original_title": "Sense and Sensibility",
+      "overview": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
+      "release_date": "2026-10-16T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.2,
+      "vote_count": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt13609648/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt13609648/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt13609648/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt13609648/img",
+      "detail_url": "https://www.imdb.com/title/tt13609648/",
+      "cast": [
+        "Daisy Edgar-Jones",
+        "Esmé Creed-Miles",
+        "Caitríona Balfe"
+      ],
+      "crew": [
+        {
+          "name": "Georgia Oakley",
+          "job": "Director"
+        }
+      ],
+      "runtime": "132 min",
+      "country": "United Kingdom, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt0080761",
+      "source": "Cinemeta",
+      "source_id": "tt0080761",
+      "type": "movie",
+      "title": "Friday the 13th",
+      "original_title": "Friday the 13th",
+      "overview": "A group of teenage camp counselors attempt to re-open an abandoned summer camp with a tragic past, but they are stalked by a mysterious, relentless killer.",
+      "release_date": "1980-05-09T00:00:00.000Z",
+      "year": "1980",
+      "rating": 6.3,
+      "vote_count": null,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt0080761/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0080761/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0080761/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0080761/img",
+      "detail_url": "https://www.imdb.com/title/tt0080761/",
+      "cast": [
+        "Betsy Palmer",
+        "Adrienne King",
+        "Jeannine Taylor"
+      ],
+      "crew": [
+        {
+          "name": "Sean S. Cunningham",
+          "job": "Director"
+        }
+      ],
+      "runtime": "95 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -288,535 +703,43 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt35538033",
+      "id": "cinemeta:movie:tt12042730",
       "source": "Cinemeta",
-      "source_id": "tt35538033",
+      "source_id": "tt12042730",
       "type": "movie",
-      "title": "Resident Evil",
-      "original_title": "Resident Evil",
-      "overview": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
-      "release_date": "2026-09-18T00:00:00.000Z",
+      "title": "Project Hail Mary",
+      "original_title": "Project Hail Mary",
+      "overview": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+      "release_date": "2026-03-20T00:00:00.000Z",
       "year": "2026",
-      "rating": null,
+      "rating": 8.2,
       "vote_count": null,
       "genres": [
-        "Action",
-        "Horror",
+        "Adventure",
+        "Comedy",
         "Sci-Fi"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt35538033/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt35538033/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt35538033/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt35538033/img",
-      "detail_url": "https://www.imdb.com/title/tt35538033/",
+      "poster_url": "https://images.metahub.space/poster/small/tt12042730/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt12042730/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt12042730/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt12042730/img",
+      "detail_url": "https://www.imdb.com/title/tt12042730/",
       "cast": [
-        "Austin Abrams",
-        "Paul Walter Hauser",
-        "Zach Cherry"
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz"
       ],
       "crew": [
         {
-          "name": "Zach Cregger",
+          "name": "Phil Lord",
           "job": "Director"
-        }
-      ],
-      "runtime": "94 min",
-      "country": "Germany, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0107688",
-      "source": "Cinemeta",
-      "source_id": "tt0107688",
-      "type": "movie",
-      "title": "The Nightmare Before Christmas",
-      "original_title": "The Nightmare Before Christmas",
-      "overview": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
-      "release_date": "1993-10-29T00:00:00.000Z",
-      "year": "1993",
-      "rating": 7.9,
-      "vote_count": null,
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Family"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0107688/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0107688/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0107688/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0107688/img",
-      "detail_url": "https://www.imdb.com/title/tt0107688/",
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O&apos;Hara"
-      ],
-      "crew": [
+        },
         {
-          "name": "Henry Selick",
-          "job": "Director"
-        }
-      ],
-      "runtime": "76 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt13609648",
-      "source": "Cinemeta",
-      "source_id": "tt13609648",
-      "type": "movie",
-      "title": "Sense and Sensibility",
-      "original_title": "Sense and Sensibility",
-      "overview": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
-      "release_date": "2026-10-16T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.2,
-      "vote_count": null,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt13609648/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt13609648/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt13609648/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt13609648/img",
-      "detail_url": "https://www.imdb.com/title/tt13609648/",
-      "cast": [
-        "Daisy Edgar-Jones",
-        "Esmé Creed-Miles",
-        "Caitríona Balfe"
-      ],
-      "crew": [
-        {
-          "name": "Georgia Oakley",
-          "job": "Director"
-        }
-      ],
-      "runtime": "132 min",
-      "country": "United Kingdom, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt32358390",
-      "source": "Cinemeta",
-      "source_id": "tt32358390",
-      "type": "movie",
-      "title": "The Cycle",
-      "original_title": "The Cycle",
-      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-      "release_date": null,
-      "year": "2026",
-      "rating": null,
-      "vote_count": null,
-      "genres": [
-        "Crime",
-        "Horror",
-        "Thriller"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt32358390/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt32358390/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt32358390/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt32358390/img",
-      "detail_url": "https://www.imdb.com/title/tt32358390/",
-      "cast": [
-        "Deborah Ann Woll",
-        "Jeffrey Donovan",
-        "Gretchen Corbett"
-      ],
-      "crew": [
-        {
-          "name": "Jordan Downey",
-          "job": "Director"
-        }
-      ],
-      "runtime": "111 min",
-      "country": "United Kingdom",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt26581740",
-      "source": "Cinemeta",
-      "source_id": "tt26581740",
-      "type": "movie",
-      "title": "Weapons",
-      "original_title": "Weapons",
-      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-      "release_date": "2025-08-08T00:00:00.000Z",
-      "year": "2025",
-      "rating": 7.4,
-      "vote_count": null,
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt26581740/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt26581740/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt26581740/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt26581740/img",
-      "detail_url": "https://www.imdb.com/title/tt26581740/",
-      "cast": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich"
-      ],
-      "crew": [
-        {
-          "name": "Zach Cregger",
-          "job": "Director"
-        }
-      ],
-      "runtime": "128 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt14173636",
-      "source": "Cinemeta",
-      "source_id": "tt14173636",
-      "type": "movie",
-      "title": "The Invite",
-      "original_title": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-      "release_date": "2026-07-10T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.5,
-      "vote_count": null,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt14173636/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt14173636/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt14173636/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt14173636/img",
-      "detail_url": "https://www.imdb.com/title/tt14173636/",
-      "cast": [
-        "Seth Rogen",
-        "Olivia Wilde",
-        "Penélope Cruz"
-      ],
-      "crew": [
-        {
-          "name": "Olivia Wilde",
-          "job": "Director"
-        }
-      ],
-      "runtime": "107 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt37281055",
-      "source": "Cinemeta",
-      "source_id": "tt37281055",
-      "type": "movie",
-      "title": "Buddy",
-      "original_title": "Buddy",
-      "overview": "A brave girl and her friends must escape a kids television show.",
-      "release_date": "2026-08-28T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.1,
-      "vote_count": null,
-      "genres": [
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt37281055/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt37281055/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt37281055/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt37281055/img",
-      "detail_url": "https://www.imdb.com/title/tt37281055/",
-      "cast": [
-        "Cristin Milioti",
-        "Delaney Quinn",
-        "Topher Grace"
-      ],
-      "crew": [
-        {
-          "name": "Casper Kelly",
-          "job": "Director"
-        }
-      ],
-      "runtime": "96 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0117571",
-      "source": "Cinemeta",
-      "source_id": "tt0117571",
-      "type": "movie",
-      "title": "Scream",
-      "original_title": "Scream",
-      "overview": "In the small town of Woodsboro, California, a masked killer known as Ghostface begins murdering high school students, and a group of friends must use their knowledge of horror movies to unmask the killer.",
-      "release_date": "1996-12-20T00:00:00.000Z",
-      "year": "1996",
-      "rating": 7.4,
-      "vote_count": null,
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0117571/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0117571/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0117571/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0117571/img",
-      "detail_url": "https://www.imdb.com/title/tt0117571/",
-      "cast": [
-        "Neve Campbell",
-        "Courteney Cox",
-        "David Arquette"
-      ],
-      "crew": [
-        {
-          "name": "Wes Craven",
-          "job": "Director"
-        }
-      ],
-      "runtime": "112 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt22084616",
-      "source": "Cinemeta",
-      "source_id": "tt22084616",
-      "type": "movie",
-      "title": "Spider-Man: Brand New Day",
-      "original_title": "Spider-Man: Brand New Day",
-      "overview": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-      "release_date": "2026-07-31T00:00:00.000Z",
-      "year": "2026",
-      "rating": 8.0,
-      "vote_count": null,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt22084616/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt22084616/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt22084616/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt22084616/img",
-      "detail_url": "https://www.imdb.com/title/tt22084616/",
-      "cast": [
-        "Tom Holland",
-        "Zendaya",
-        "Mark Ruffalo"
-      ],
-      "crew": [
-        {
-          "name": "Destin Daniel Cretton",
-          "job": "Director"
-        }
-      ],
-      "runtime": "145 min",
-      "country": "United States, Canada, United Kingdom, Germany",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt12590266",
-      "source": "Cinemeta",
-      "source_id": "tt12590266",
-      "type": "movie",
-      "title": "I See Ice",
-      "original_title": "I See Ice",
-      "overview": "George Bright is a props man in an ice ballet company, and a keen amateur photographer who accidentally snaps crooks at work. Comic complications ensue....",
-      "release_date": null,
-      "year": "1938",
-      "rating": 8.3,
-      "vote_count": null,
-      "genres": [
-        "Comedy"
-      ],
-      "poster_url": "https://live.metahub.space/poster/small/tt12590266/img",
-      "backdrop_url": "https://live.metahub.space/background/medium/tt12590266/img",
-      "banner_url": "https://live.metahub.space/background/medium/tt12590266/img",
-      "logo_url": "https://live.metahub.space/logo/medium/tt12590266/img",
-      "detail_url": "https://www.imdb.com/title/tt12590266/",
-      "cast": [
-        "George Formby",
-        "Kay Walsh",
-        "Betty Stockfeld"
-      ],
-      "crew": [
-        {
-          "name": "Anthony Kimmins",
-          "job": "Director"
-        }
-      ],
-      "runtime": "84 min",
-      "country": "Japan, United States, Poland",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0080761",
-      "source": "Cinemeta",
-      "source_id": "tt0080761",
-      "type": "movie",
-      "title": "Friday the 13th",
-      "original_title": "Friday the 13th",
-      "overview": "A group of teenage camp counselors attempt to re-open an abandoned summer camp with a tragic past, but they are stalked by a mysterious, relentless killer.",
-      "release_date": "1980-05-09T00:00:00.000Z",
-      "year": "1980",
-      "rating": 6.3,
-      "vote_count": null,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0080761/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0080761/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0080761/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0080761/img",
-      "detail_url": "https://www.imdb.com/title/tt0080761/",
-      "cast": [
-        "Betsy Palmer",
-        "Adrienne King",
-        "Jeannine Taylor"
-      ],
-      "crew": [
-        {
-          "name": "Sean S. Cunningham",
-          "job": "Director"
-        }
-      ],
-      "runtime": "95 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt27369017",
-      "source": "Cinemeta",
-      "source_id": "tt27369017",
-      "type": "movie",
-      "title": "Hope",
-      "original_title": "Hope",
-      "overview": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
-      "release_date": "2026-09-09T00:00:00.000Z",
-      "year": "2026",
-      "rating": 6.9,
-      "vote_count": null,
-      "genres": [
-        "Action",
-        "Drama",
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt27369017/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt27369017/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt27369017/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt27369017/img",
-      "detail_url": "https://www.imdb.com/title/tt27369017/",
-      "cast": [
-        "Hwang Jung-min",
-        "Zo In-sung",
-        "Hoyeon"
-      ],
-      "crew": [
-        {
-          "name": "Na Hong-jin",
+          "name": "Christopher Miller",
           "job": "Director"
         }
       ],
       "runtime": "157 min",
-      "country": "South Korea",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt34206385",
-      "source": "Cinemeta",
-      "source_id": "tt34206385",
-      "type": "movie",
-      "title": "Primetime",
-      "original_title": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-      "release_date": "2026-09-25T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.0,
-      "vote_count": null,
-      "genres": [
-        "Action",
-        "Biography",
-        "Crime"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt34206385/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt34206385/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt34206385/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt34206385/img",
-      "detail_url": "https://www.imdb.com/title/tt34206385/",
-      "cast": [
-        "Robert Pattinson",
-        "Merritt Wever",
-        "Anna Faris"
-      ],
-      "crew": [
-        {
-          "name": "Lance Oppenheim",
-          "job": "Director"
-        }
-      ],
-      "runtime": "110 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -867,6 +790,89 @@
       }
     },
     {
+      "id": "cinemeta:movie:tt35856037",
+      "source": "Cinemeta",
+      "source_id": "tt35856037",
+      "type": "movie",
+      "title": "Your Mother Your Mother Your Mother",
+      "original_title": "Your Mother Your Mother Your Mother",
+      "overview": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel.",
+      "release_date": "2026-09-25T00:00:00.000Z",
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt35856037/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt35856037/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt35856037/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt35856037/img",
+      "detail_url": "https://www.imdb.com/title/tt35856037/",
+      "cast": [
+        "Giancarlo Esposito",
+        "Mahershala Ali",
+        "John Cho"
+      ],
+      "crew": [
+        {
+          "name": "Bassam Tariq",
+          "job": "Director"
+        }
+      ],
+      "runtime": "112 min",
+      "country": "United Kingdom, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt37803364",
+      "source": "Cinemeta",
+      "source_id": "tt37803364",
+      "type": "movie",
+      "title": "Possible Love",
+      "original_title": "Possible Love",
+      "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+      "release_date": "2026-11-06T00:00:00.000Z",
+      "year": "2026",
+      "rating": 8.0,
+      "vote_count": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt37803364/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt37803364/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt37803364/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt37803364/img",
+      "detail_url": "https://www.imdb.com/title/tt37803364/",
+      "cast": [
+        "Jeon Do-yeon",
+        "Sul Kyung-gu",
+        "Zo In-sung"
+      ],
+      "crew": [
+        {
+          "name": "Lee Chang-dong",
+          "job": "Director"
+        }
+      ],
+      "runtime": "165 min",
+      "country": "South Korea, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:movie:tt37969426",
       "source": "Cinemeta",
       "source_id": "tt37969426",
@@ -909,135 +915,6 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt35672862",
-      "source": "Cinemeta",
-      "source_id": "tt35672862",
-      "type": "movie",
-      "title": "Hokum",
-      "original_title": "Hokum",
-      "overview": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
-      "release_date": "2026-05-01T00:00:00.000Z",
-      "year": "2026",
-      "rating": 6.6,
-      "vote_count": null,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt35672862/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt35672862/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt35672862/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt35672862/img",
-      "detail_url": "https://www.imdb.com/title/tt35672862/",
-      "cast": [
-        "Adam Scott",
-        "Peter Coonan",
-        "David Wilmot"
-      ],
-      "crew": [
-        {
-          "name": "Damian McCarthy",
-          "job": "Director"
-        }
-      ],
-      "runtime": "108 min",
-      "country": "Ireland, United Arab Emirates",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt12042730",
-      "source": "Cinemeta",
-      "source_id": "tt12042730",
-      "type": "movie",
-      "title": "Project Hail Mary",
-      "original_title": "Project Hail Mary",
-      "overview": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
-      "release_date": "2026-03-20T00:00:00.000Z",
-      "year": "2026",
-      "rating": 8.2,
-      "vote_count": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Sci-Fi"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt12042730/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt12042730/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt12042730/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt12042730/img",
-      "detail_url": "https://www.imdb.com/title/tt12042730/",
-      "cast": [
-        "Ryan Gosling",
-        "Sandra Hüller",
-        "James Ortiz"
-      ],
-      "crew": [
-        {
-          "name": "Phil Lord",
-          "job": "Director"
-        },
-        {
-          "name": "Christopher Miller",
-          "job": "Director"
-        }
-      ],
-      "runtime": "157 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt6262770",
-      "source": "Cinemeta",
-      "source_id": "tt6262770",
-      "type": "movie",
-      "title": "Tenzing",
-      "original_title": "Tenzing",
-      "overview": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
-      "release_date": "2026-10-16T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.4,
-      "vote_count": null,
-      "genres": [
-        "Adventure",
-        "Biography",
-        "Drama"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt6262770/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt6262770/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt6262770/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt6262770/img",
-      "detail_url": "https://www.imdb.com/title/tt6262770/",
-      "cast": [
-        "Genden Phuntsok",
-        "Tom Hiddleston",
-        "Willem Dafoe"
-      ],
-      "crew": [
-        {
-          "name": "Jennifer Peedom",
-          "job": "Director"
-        }
-      ],
-      "runtime": "126 min",
-      "country": "United Kingdom, Australia, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "cinemeta:movie:tt0327597",
       "source": "Cinemeta",
       "source_id": "tt0327597",
@@ -1072,6 +949,48 @@
       ],
       "runtime": "100 min",
       "country": "United States, Canada, United Kingdom",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt15047880",
+      "source": "Cinemeta",
+      "source_id": "tt15047880",
+      "type": "movie",
+      "title": "Disclosure Day",
+      "original_title": "Disclosure Day",
+      "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+      "release_date": "2026-06-12T00:00:00.000Z",
+      "year": "2026",
+      "rating": 6.4,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt15047880/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt15047880/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt15047880/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt15047880/img",
+      "detail_url": "https://www.imdb.com/title/tt15047880/",
+      "cast": [
+        "Emily Blunt",
+        "Josh O&apos;Connor",
+        "Colin Firth"
+      ],
+      "crew": [
+        {
+          "name": "Steven Spielberg",
+          "job": "Director"
+        }
+      ],
+      "runtime": "146 min",
+      "country": "United States, Canada, New Zealand, Japan",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -1208,6 +1127,48 @@
       }
     },
     {
+      "id": "cinemeta:movie:tt27369017",
+      "source": "Cinemeta",
+      "source_id": "tt27369017",
+      "type": "movie",
+      "title": "Hope",
+      "original_title": "Hope",
+      "overview": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
+      "release_date": "2026-09-09T00:00:00.000Z",
+      "year": "2026",
+      "rating": 6.9,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt27369017/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt27369017/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt27369017/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt27369017/img",
+      "detail_url": "https://www.imdb.com/title/tt27369017/",
+      "cast": [
+        "Hwang Jung-min",
+        "Zo In-sung",
+        "Hoyeon"
+      ],
+      "crew": [
+        {
+          "name": "Na Hong-jin",
+          "job": "Director"
+        }
+      ],
+      "runtime": "157 min",
+      "country": "South Korea",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:movie:tt0087332",
       "source": "Cinemeta",
       "source_id": "tt0087332",
@@ -1250,40 +1211,82 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt15047880",
+      "id": "cinemeta:movie:tt36983905",
       "source": "Cinemeta",
-      "source_id": "tt15047880",
+      "source_id": "tt36983905",
       "type": "movie",
-      "title": "Disclosure Day",
-      "original_title": "Disclosure Day",
-      "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
-      "release_date": "2026-06-12T00:00:00.000Z",
+      "title": "The Uprising",
+      "original_title": "The Uprising",
+      "overview": "Based on the true story of the uprising that inspired the legend of Robin Hood, Andrew Garfield stars as the leader of a rebellion against the tyranny of King Richard II in a fight for justice.",
+      "release_date": "2026-09-11T00:00:00.000Z",
       "year": "2026",
-      "rating": 6.4,
+      "rating": null,
       "vote_count": null,
       "genres": [
         "Action",
-        "Mystery",
-        "Sci-Fi"
+        "Drama",
+        "History"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt15047880/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt15047880/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt15047880/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt15047880/img",
-      "detail_url": "https://www.imdb.com/title/tt15047880/",
+      "poster_url": "https://images.metahub.space/poster/small/tt36983905/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt36983905/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt36983905/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt36983905/img",
+      "detail_url": "https://www.imdb.com/title/tt36983905/",
       "cast": [
-        "Emily Blunt",
-        "Josh O&apos;Connor",
-        "Colin Firth"
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane"
       ],
       "crew": [
         {
-          "name": "Steven Spielberg",
+          "name": "Paul Greengrass",
           "job": "Director"
         }
       ],
-      "runtime": "146 min",
-      "country": "United States, Canada, New Zealand, Japan",
+      "runtime": "128 min",
+      "country": "United Kingdom, Germany, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt32358390",
+      "source": "Cinemeta",
+      "source_id": "tt32358390",
+      "type": "movie",
+      "title": "The Cycle",
+      "original_title": "The Cycle",
+      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+      "release_date": null,
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt32358390/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt32358390/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt32358390/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt32358390/img",
+      "detail_url": "https://www.imdb.com/title/tt32358390/",
+      "cast": [
+        "Deborah Ann Woll",
+        "Jeffrey Donovan",
+        "Gretchen Corbett"
+      ],
+      "crew": [
+        {
+          "name": "Jordan Downey",
+          "job": "Director"
+        }
+      ],
+      "runtime": "111 min",
+      "country": "United Kingdom",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -1374,6 +1377,170 @@
       }
     },
     {
+      "id": "cinemeta:movie:tt27165187",
+      "source": "Cinemeta",
+      "source_id": "tt27165187",
+      "type": "movie",
+      "title": "The End of Oak Street",
+      "original_title": "The End of Oak Street",
+      "overview": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+      "release_date": "2026-08-14T00:00:00.000Z",
+      "year": "2026",
+      "rating": 6.5,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt27165187/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt27165187/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt27165187/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt27165187/img",
+      "detail_url": "https://www.imdb.com/title/tt27165187/",
+      "cast": [
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Maisy Stella"
+      ],
+      "crew": [
+        {
+          "name": "David Robert Mitchell",
+          "job": "Director"
+        }
+      ],
+      "runtime": "100 min",
+      "country": "United States, Canada, Australia",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt37281055",
+      "source": "Cinemeta",
+      "source_id": "tt37281055",
+      "type": "movie",
+      "title": "Buddy",
+      "original_title": "Buddy",
+      "overview": "A brave girl and her friends must escape a kids television show.",
+      "release_date": "2026-08-28T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.1,
+      "vote_count": null,
+      "genres": [
+        "Horror"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt37281055/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt37281055/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt37281055/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt37281055/img",
+      "detail_url": "https://www.imdb.com/title/tt37281055/",
+      "cast": [
+        "Cristin Milioti",
+        "Delaney Quinn",
+        "Topher Grace"
+      ],
+      "crew": [
+        {
+          "name": "Casper Kelly",
+          "job": "Director"
+        }
+      ],
+      "runtime": "96 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt0252503",
+      "source": "Cinemeta",
+      "source_id": "tt0252503",
+      "type": "movie",
+      "title": "Heist",
+      "original_title": "Heist",
+      "overview": "A career jewel thief finds himself at tense odds with his longtime partner, a crime boss who sends his nephew to keep watch.",
+      "release_date": "2001-11-09T00:00:00.000Z",
+      "year": "2001",
+      "rating": 6.5,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt0252503/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0252503/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0252503/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0252503/img",
+      "detail_url": "https://www.imdb.com/title/tt0252503/",
+      "cast": [
+        "Gene Hackman",
+        "Rebecca Pidgeon",
+        "Danny DeVito"
+      ],
+      "crew": [
+        {
+          "name": "David Mamet",
+          "job": "Director"
+        }
+      ],
+      "runtime": "107 min",
+      "country": "Canada, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt0111161",
+      "source": "Cinemeta",
+      "source_id": "tt0111161",
+      "type": "movie",
+      "title": "The Shawshank Redemption",
+      "original_title": "The Shawshank Redemption",
+      "overview": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption.",
+      "release_date": "1994-10-14T00:00:00.000Z",
+      "year": "1994",
+      "rating": 9.3,
+      "vote_count": null,
+      "genres": [
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt0111161/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0111161/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0111161/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0111161/img",
+      "detail_url": "https://www.imdb.com/title/tt0111161/",
+      "cast": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ],
+      "crew": [
+        {
+          "name": "Frank Darabont",
+          "job": "Director"
+        }
+      ],
+      "runtime": "142 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:movie:tt32588798",
       "source": "Cinemeta",
       "source_id": "tt32588798",
@@ -1408,52 +1575,6 @@
       ],
       "runtime": "130 min",
       "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt36583977",
-      "source": "Cinemeta",
-      "source_id": "tt36583977",
-      "type": "movie",
-      "title": "Forgotten Island",
-      "original_title": "Forgotten Island",
-      "overview": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
-      "release_date": "2026-09-25T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.7,
-      "vote_count": null,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt36583977/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt36583977/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt36583977/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt36583977/img",
-      "detail_url": "https://www.imdb.com/title/tt36583977/",
-      "cast": [
-        "Dave Franco",
-        "Jenny Slate",
-        "Manny Jacinto"
-      ],
-      "crew": [
-        {
-          "name": "Joel Crawford",
-          "job": "Director"
-        },
-        {
-          "name": "Januel P. Mercado",
-          "job": "Director"
-        }
-      ],
-      "runtime": "109 min",
-      "country": "United States, Japan",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -1546,39 +1667,160 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt0081505",
+      "id": "cinemeta:movie:tt26581740",
       "source": "Cinemeta",
-      "source_id": "tt0081505",
+      "source_id": "tt26581740",
       "type": "movie",
-      "title": "The Shining",
-      "original_title": "The Shining",
-      "overview": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
-      "release_date": "1980-06-13T00:00:00.000Z",
-      "year": "1980",
-      "rating": 8.4,
+      "title": "Weapons",
+      "original_title": "Weapons",
+      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "release_date": "2025-08-08T00:00:00.000Z",
+      "year": "2025",
+      "rating": 7.4,
       "vote_count": null,
       "genres": [
-        "Drama",
-        "Horror"
+        "Horror",
+        "Mystery"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0081505/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0081505/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0081505/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0081505/img",
-      "detail_url": "https://www.imdb.com/title/tt0081505/",
+      "poster_url": "https://images.metahub.space/poster/small/tt26581740/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt26581740/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt26581740/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt26581740/img",
+      "detail_url": "https://www.imdb.com/title/tt26581740/",
       "cast": [
-        "Jack Nicholson",
-        "Shelley Duvall",
-        "Danny Lloyd"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich"
       ],
       "crew": [
         {
-          "name": "Stanley Kubrick",
+          "name": "Zach Cregger",
           "job": "Director"
         }
       ],
-      "runtime": "144 min",
-      "country": "United Kingdom, United States",
+      "runtime": "128 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt27543632",
+      "source": "Cinemeta",
+      "source_id": "tt27543632",
+      "type": "movie",
+      "title": "The Housemaid",
+      "original_title": "The Housemaid",
+      "overview": "Millie a struggling young woman becomes live-in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+      "release_date": "2025-12-19T00:00:00.000Z",
+      "year": "2025",
+      "rating": 6.7,
+      "vote_count": null,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt27543632/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt27543632/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt27543632/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt27543632/img",
+      "detail_url": "https://www.imdb.com/title/tt27543632/",
+      "cast": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar"
+      ],
+      "crew": [
+        {
+          "name": "Paul Feig",
+          "job": "Director"
+        }
+      ],
+      "runtime": "131 min",
+      "country": "United States, Canada",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt6262770",
+      "source": "Cinemeta",
+      "source_id": "tt6262770",
+      "type": "movie",
+      "title": "Tenzing",
+      "original_title": "Tenzing",
+      "overview": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
+      "release_date": "2026-10-16T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.4,
+      "vote_count": null,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt6262770/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt6262770/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt6262770/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt6262770/img",
+      "detail_url": "https://www.imdb.com/title/tt6262770/",
+      "cast": [
+        "Genden Phuntsok",
+        "Tom Hiddleston",
+        "Willem Dafoe"
+      ],
+      "crew": [
+        {
+          "name": "Jennifer Peedom",
+          "job": "Director"
+        }
+      ],
+      "runtime": "126 min",
+      "country": "United Kingdom, Australia, United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt12590266",
+      "source": "Cinemeta",
+      "source_id": "tt12590266",
+      "type": "movie",
+      "title": "Cyberpunk: Edgerunners",
+      "original_title": "Cyberpunk: Edgerunners",
+      "overview": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
+      "release_date": "2022-09-13T00:00:00.000Z",
+      "year": "2022",
+      "rating": 8.3,
+      "vote_count": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt12590266/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt12590266/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt12590266/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt12590266/img",
+      "detail_url": "https://www.imdb.com/title/tt12590266/",
+      "cast": [
+        "Kentarô Tone",
+        "Koki Uchiyama",
+        "Momoka Terasawa"
+      ],
+      "crew": [],
+      "runtime": "27 min",
+      "country": "Japan, United States, Poland",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -1629,37 +1871,35 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt31193180",
+      "id": "cinemeta:movie:tt27041231",
       "source": "Cinemeta",
-      "source_id": "tt31193180",
+      "source_id": "tt27041231",
       "type": "movie",
-      "title": "Sinners",
-      "original_title": "Sinners",
-      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "release_date": "2025-04-18T00:00:00.000Z",
-      "year": "2025",
-      "rating": 7.5,
+      "title": "Musk",
+      "original_title": "Musk",
+      "overview": "A thorough and unvarnished analysis of Elon Musk, a technology billionaire who serves as the CEO of Tesla, SpaceX, and Twitter.",
+      "release_date": "2026-10-16T00:00:00.000Z",
+      "year": "2026",
+      "rating": null,
       "vote_count": null,
       "genres": [
-        "Horror"
+        "Documentary"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt31193180/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt31193180/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt31193180/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt31193180/img",
-      "detail_url": "https://www.imdb.com/title/tt31193180/",
+      "poster_url": "https://images.metahub.space/poster/small/tt27041231/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt27041231/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt27041231/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt27041231/img",
+      "detail_url": "https://www.imdb.com/title/tt27041231/",
       "cast": [
-        "Michael B. Jordan",
-        "Jack O&apos;Connell",
-        "Hailee Steinfeld"
+        "Elon Musk"
       ],
       "crew": [
         {
-          "name": "Ryan Coogler",
+          "name": "Alex Gibney",
           "job": "Director"
         }
       ],
-      "runtime": "138 min",
+      "runtime": "235 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -1700,6 +1940,48 @@
         }
       ],
       "runtime": "98 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt1392170",
+      "source": "Cinemeta",
+      "source_id": "tt1392170",
+      "type": "movie",
+      "title": "The Hunger Games",
+      "original_title": "The Hunger Games",
+      "overview": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+      "release_date": "2012-03-23T00:00:00.000Z",
+      "year": "2012",
+      "rating": 7.2,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt1392170/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt1392170/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt1392170/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt1392170/img",
+      "detail_url": "https://www.imdb.com/title/tt1392170/",
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth"
+      ],
+      "crew": [
+        {
+          "name": "Gary Ross",
+          "job": "Director"
+        }
+      ],
+      "runtime": "142 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -1793,285 +2075,37 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt1457767",
+      "id": "cinemeta:movie:tt31193180",
       "source": "Cinemeta",
-      "source_id": "tt1457767",
+      "source_id": "tt31193180",
       "type": "movie",
-      "title": "The Conjuring",
-      "original_title": "The Conjuring",
-      "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
-      "release_date": "2013-07-19T00:00:00.000Z",
-      "year": "2013",
+      "title": "Sinners",
+      "original_title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "release_date": "2025-04-18T00:00:00.000Z",
+      "year": "2025",
       "rating": 7.5,
       "vote_count": null,
       "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt1457767/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt1457767/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt1457767/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt1457767/img",
-      "detail_url": "https://www.imdb.com/title/tt1457767/",
-      "cast": [
-        "Patrick Wilson",
-        "Vera Farmiga",
-        "Ron Livingston"
-      ],
-      "crew": [
-        {
-          "name": "James Wan",
-          "job": "Director"
-        }
-      ],
-      "runtime": "112 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt27543632",
-      "source": "Cinemeta",
-      "source_id": "tt27543632",
-      "type": "movie",
-      "title": "The Housemaid",
-      "original_title": "The Housemaid",
-      "overview": "Millie a struggling young woman becomes live-in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
-      "release_date": "2025-12-19T00:00:00.000Z",
-      "year": "2025",
-      "rating": 6.7,
-      "vote_count": null,
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt27543632/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt27543632/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt27543632/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt27543632/img",
-      "detail_url": "https://www.imdb.com/title/tt27543632/",
-      "cast": [
-        "Sydney Sweeney",
-        "Amanda Seyfried",
-        "Brandon Sklenar"
-      ],
-      "crew": [
-        {
-          "name": "Paul Feig",
-          "job": "Director"
-        }
-      ],
-      "runtime": "131 min",
-      "country": "United States, Canada",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0073629",
-      "source": "Cinemeta",
-      "source_id": "tt0073629",
-      "type": "movie",
-      "title": "The Rocky Horror Picture Show",
-      "original_title": "The Rocky Horror Picture Show",
-      "overview": "A rain-soaked couple take refuge in the castle of a transvestite mad scientist from outer space who is about to unveil his greatest creation.",
-      "release_date": "1975-09-29T00:00:00.000Z",
-      "year": "1975",
-      "rating": 7.4,
-      "vote_count": null,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Musical"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0073629/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0073629/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0073629/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0073629/img",
-      "detail_url": "https://www.imdb.com/title/tt0073629/",
-      "cast": [
-        "Tim Curry",
-        "Susan Sarandon",
-        "Barry Bostwick"
-      ],
-      "crew": [
-        {
-          "name": "Jim Sharman",
-          "job": "Director"
-        }
-      ],
-      "runtime": "100 min",
-      "country": "United Kingdom, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt1396484",
-      "source": "Cinemeta",
-      "source_id": "tt1396484",
-      "type": "movie",
-      "title": "It",
-      "original_title": "It",
-      "overview": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
-      "release_date": "2017-09-08T00:00:00.000Z",
-      "year": "2017",
-      "rating": 7.3,
-      "vote_count": null,
-      "genres": [
         "Horror"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt1396484/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt1396484/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt1396484/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt1396484/img",
-      "detail_url": "https://www.imdb.com/title/tt1396484/",
+      "poster_url": "https://images.metahub.space/poster/small/tt31193180/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt31193180/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt31193180/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt31193180/img",
+      "detail_url": "https://www.imdb.com/title/tt31193180/",
       "cast": [
-        "Bill Skarsgård",
-        "Jaeden Martell",
-        "Finn Wolfhard"
+        "Michael B. Jordan",
+        "Jack O&apos;Connell",
+        "Hailee Steinfeld"
       ],
       "crew": [
         {
-          "name": "Andy Muschietti",
+          "name": "Ryan Coogler",
           "job": "Director"
         }
       ],
-      "runtime": "135 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0111161",
-      "source": "Cinemeta",
-      "source_id": "tt0111161",
-      "type": "movie",
-      "title": "The Shawshank Redemption",
-      "original_title": "The Shawshank Redemption",
-      "overview": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption.",
-      "release_date": "1994-10-14T00:00:00.000Z",
-      "year": "1994",
-      "rating": 9.3,
-      "vote_count": null,
-      "genres": [
-        "Drama"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0111161/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0111161/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0111161/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0111161/img",
-      "detail_url": "https://www.imdb.com/title/tt0111161/",
-      "cast": [
-        "Tim Robbins",
-        "Morgan Freeman",
-        "Bob Gunton"
-      ],
-      "crew": [
-        {
-          "name": "Frank Darabont",
-          "job": "Director"
-        }
-      ],
-      "runtime": "142 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt38589433",
-      "source": "Cinemeta",
-      "source_id": "tt38589433",
-      "type": "movie",
-      "title": "Never After Dark",
-      "original_title": "Never After Dark",
-      "overview": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
-      "release_date": "2026-03-13T00:00:00.000Z",
-      "year": "2026",
-      "rating": null,
-      "vote_count": null,
-      "genres": [
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt38589433/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt38589433/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt38589433/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt38589433/img",
-      "detail_url": "https://www.imdb.com/title/tt38589433/",
-      "cast": [
-        "Moeka Hoshi",
-        "Kurumi Inagaki",
-        "Kento Kaku"
-      ],
-      "crew": [
-        {
-          "name": "Dave Boyle",
-          "job": "Director"
-        }
-      ],
-      "runtime": "104 min",
-      "country": "Japan",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0173886",
-      "source": "Cinemeta",
-      "source_id": "tt0173886",
-      "type": "movie",
-      "title": "Halloweentown",
-      "original_title": "Halloweentown",
-      "overview": "When a young girl living with her secret witch mother learns she too is a witch, she must help her witch grandmother save Halloweentown from evil forces.",
-      "release_date": "1998-10-17T00:00:00.000Z",
-      "year": "1998",
-      "rating": 6.5,
-      "vote_count": null,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Family"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0173886/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0173886/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0173886/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0173886/img",
-      "detail_url": "https://www.imdb.com/title/tt0173886/",
-      "cast": [
-        "Debbie Reynolds",
-        "Kimberly J. Brown",
-        "Judith Hoag"
-      ],
-      "crew": [
-        {
-          "name": "Duwayne Dunham",
-          "job": "Director"
-        }
-      ],
-      "runtime": "84 min",
+      "runtime": "138 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -3766,28 +3800,29 @@
       "type": "series",
       "title": "Cyberpunk: Edgerunners",
       "original_title": "Cyberpunk: Edgerunners",
-      "overview": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
-      "release_date": "2022-09-13T00:00:00.000Z",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "release_date": null,
       "year": "2022",
       "rating": 8.3,
       "vote_count": null,
       "genres": [
         "Animation",
-        "Action",
-        "Adventure"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crime"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt12590266/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt12590266/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt12590266/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt12590266/img",
+      "poster_url": "https://live.metahub.space/poster/small/tt12590266/img",
+      "backdrop_url": "https://live.metahub.space/background/medium/tt12590266/img",
+      "banner_url": "https://live.metahub.space/background/medium/tt12590266/img",
+      "logo_url": "https://live.metahub.space/logo/medium/tt12590266/img",
       "detail_url": "https://www.imdb.com/title/tt12590266/",
       "cast": [
-        "Kentarô Tone",
         "Koki Uchiyama",
-        "Momoka Terasawa"
+        "Momoka Terasawa",
+        "Akari Kito"
       ],
       "crew": [],
-      "runtime": "27 min",
+      "runtime": null,
       "country": "Japan, United States, Poland",
       "reviews": [],
       "review_count": null,
@@ -210587,6 +210622,34 @@
       "website": "https://riofriotv.com/",
       "logo_url": "https://i.imgur.com/EBtgnxR.png",
       "poster_url": "https://i.imgur.com/EBtgnxR.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:360Tennis.vn",
+      "source": "iptv-org",
+      "source_id": "360Tennis.vn",
+      "type": "channel",
+      "title": "360 Tennis",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Viettel Group"
+      ],
+      "country": "VN",
+      "categories": [
+        "sports"
+      ],
+      "launched": "2026-01-15",
+      "website": null,
+      "logo_url": "https://i.ibb.co/JRXXyTMJ/IMG-2894.png",
+      "poster_url": "https://i.ibb.co/JRXXyTMJ/IMG-2894.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -442207,7 +442270,9 @@
       "title": "DNews",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Grupo Werthein"
+      ],
       "country": "US",
       "categories": [
         "news"
@@ -480063,6 +480128,32 @@
       "website": "https://eurotvph.com/",
       "logo_url": "https://i.imgur.com/MxK2f5g.png",
       "poster_url": "https://i.imgur.com/MxK2f5g.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:EurovisionSport.uk",
+      "source": "iptv-org",
+      "source_id": "EurovisionSport.uk",
+      "type": "channel",
+      "title": "Eurovision Sport",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "UK",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": "https://eurovisionsport.com/en/home",
+      "logo_url": "https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png",
+      "poster_url": "https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -550148,8 +550239,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
-      "poster_url": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+      "logo_url": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
+      "poster_url": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -688049,6 +688140,36 @@
       }
     },
     {
+      "id": "iptv-org:MiMusicaeningles.us",
+      "source": "iptv-org",
+      "source_id": "MiMusicaeningles.us",
+      "type": "channel",
+      "title": "Mi Musica en ingles",
+      "alternative_names": [
+        "Mi Música en Inglés"
+      ],
+      "network": null,
+      "owners": [
+        "Latin Entertainment Group"
+      ],
+      "country": "US",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://www.latingroup.us/mmei.html",
+      "logo_url": "https://i.imgur.com/2qtAFCy.png",
+      "poster_url": "https://i.imgur.com/2qtAFCy.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:MiMusicaHits.us",
       "source": "iptv-org",
       "source_id": "MiMusicaHits.us",
@@ -688109,6 +688230,36 @@
       }
     },
     {
+      "id": "iptv-org:MiMusicaPeru.pe",
+      "source": "iptv-org",
+      "source_id": "MiMusicaPeru.pe",
+      "type": "channel",
+      "title": "Mi Musica Peru",
+      "alternative_names": [
+        "Mi Música Perú"
+      ],
+      "network": null,
+      "owners": [
+        "Latin Entertainment Group"
+      ],
+      "country": "PE",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://www.latingroup.us/mmp.html",
+      "logo_url": "https://i.imgur.com/wAGju8T.png",
+      "poster_url": "https://i.imgur.com/wAGju8T.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:MiMusicaPopular.us",
       "source": "iptv-org",
       "source_id": "MiMusicaPopular.us",
@@ -688159,6 +688310,36 @@
       "website": "https://www.latingroup.us/mmr.html",
       "logo_url": "https://i.imgur.com/MMb9u4u.png",
       "poster_url": "https://i.imgur.com/MMb9u4u.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:MiMusicaRegional.us",
+      "source": "iptv-org",
+      "source_id": "MiMusicaRegional.us",
+      "type": "channel",
+      "title": "Mi Musica Regional",
+      "alternative_names": [
+        "Mi Música Regional"
+      ],
+      "network": null,
+      "owners": [
+        "Latin Entertainment Group"
+      ],
+      "country": "US",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://www.latingroup.us/mmr",
+      "logo_url": "https://i.imgur.com/5n2IE7Q.png",
+      "poster_url": "https://i.imgur.com/5n2IE7Q.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -755422,6 +755603,34 @@
       }
     },
     {
+      "id": "iptv-org:Noticias247.pr",
+      "source": "iptv-org",
+      "source_id": "Noticias247.pr",
+      "type": "channel",
+      "title": "Noticias 24/7",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Liberman Media Group"
+      ],
+      "country": "PR",
+      "categories": [
+        "news"
+      ],
+      "launched": "2026-07-28",
+      "website": null,
+      "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWpDxgTtdMqFoaqrbPA_Zg59_AsU3DnsP3QqKF5p25OgtbY75W876jTBAWB5RxPfdwLFOroJemOUORPIv9etJu_7JwarSGvVYV2PM7ei7RBTRdhKVoZZix98bpphv36qyMaG1bslDenIiM8YJiUJI-LpwFI3xxTM8Sh19I-Mwx3lvYQAUaefmCVaLJTc8/s705/Logo%20247%20-%20TeleOnce.png",
+      "poster_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWpDxgTtdMqFoaqrbPA_Zg59_AsU3DnsP3QqKF5p25OgtbY75W876jTBAWB5RxPfdwLFOroJemOUORPIv9etJu_7JwarSGvVYV2PM7ei7RBTRdhKVoZZix98bpphv36qyMaG1bslDenIiM8YJiUJI-LpwFI3xxTM8Sh19I-Mwx3lvYQAUaefmCVaLJTc8/s705/Logo%20247%20-%20TeleOnce.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:NoticiasCaracolEnVivo.co",
       "source": "iptv-org",
       "source_id": "NoticiasCaracolEnVivo.co",
@@ -761556,7 +761765,7 @@
       ],
       "network": null,
       "owners": [
-        "Acción Multimedios"
+        "Grupo Vierci"
       ],
       "country": "PY",
       "categories": [
@@ -775285,7 +775494,9 @@
         "OnDirecTV Sur"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Grupo Werthein"
+      ],
       "country": "US",
       "categories": [],
       "launched": null,
@@ -903524,7 +903735,7 @@
       "categories": [
         "general"
       ],
-      "launched": null,
+      "launched": "1982-12-31",
       "website": "https://www.sbc.sc/",
       "logo_url": "https://i.ibb.co/mHPRXwX/SBC1-237x100.png",
       "poster_url": "https://i.ibb.co/mHPRXwX/SBC1-237x100.png",
@@ -903552,7 +903763,7 @@
       "categories": [
         "general"
       ],
-      "launched": null,
+      "launched": "2017-12-06",
       "website": "https://www.sbc.sc/",
       "logo_url": "https://i.ibb.co/Wcwtfqf/SBC2-236x100.png",
       "poster_url": "https://i.ibb.co/Wcwtfqf/SBC2-236x100.png",
@@ -903580,7 +903791,7 @@
       "categories": [
         "entertainment"
       ],
-      "launched": null,
+      "launched": "2017-12-06",
       "website": "https://www.sbc.sc/",
       "logo_url": "https://i.ibb.co/yPJHn4w/Art-work-sbc-channel3.png",
       "poster_url": "https://i.ibb.co/yPJHn4w/Art-work-sbc-channel3.png",
@@ -953704,6 +953915,34 @@
       }
     },
     {
+      "id": "iptv-org:Sport1.sk",
+      "source": "iptv-org",
+      "source_id": "Sport1.sk",
+      "type": "channel",
+      "title": "Sport 1",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Central Europe Kft."
+      ],
+      "country": "SK",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Sport1_CEE_%282020-present%29.svg",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Sport1_CEE_%282020-present%29.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Sport1.ua",
       "source": "iptv-org",
       "source_id": "Sport1.ua",
@@ -954024,6 +954263,34 @@
       "website": "https://sport1.maariv.co.il/",
       "logo_url": "https://i.imgur.com/Headxmx.png",
       "poster_url": "https://i.imgur.com/Headxmx.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Sport2.sk",
+      "source": "iptv-org",
+      "source_id": "Sport2.sk",
+      "type": "channel",
+      "title": "Sport 2",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Central Europe Kft."
+      ],
+      "country": "SK",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/tvfanon6528/images/f/ff/Sport_2_%282020-.n.v.%29.png",
+      "poster_url": "https://static.wikia.nocookie.net/tvfanon6528/images/f/ff/Sport_2_%282020-.n.v.%29.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1029791,6 +1030058,33 @@
       }
     },
     {
+      "id": "iptv-org:TigoInformativo.py",
+      "source": "iptv-org",
+      "source_id": "TigoInformativo.py",
+      "type": "channel",
+      "title": "Tigo Informativo",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Millicom",
+        "Colombia Móvil S.A. E.S.P."
+      ],
+      "country": "PY",
+      "categories": [],
+      "launched": null,
+      "website": "https://www.tigo.com.py/",
+      "logo_url": "https://i.imgur.com/H7kgv0O.png",
+      "poster_url": "https://i.imgur.com/H7kgv0O.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:TigoMusic.co",
       "source": "iptv-org",
       "source_id": "TigoMusic.co",
@@ -1038855,6 +1039149,34 @@
       "website": null,
       "logo_url": "https://i.imgur.com/zxyYP7y.png",
       "poster_url": "https://i.imgur.com/zxyYP7y.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:TomSingsTV.us",
+      "source": "iptv-org",
+      "source_id": "TomSingsTV.us",
+      "type": "channel",
+      "title": "Tom Sings TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Tom Sings Group"
+      ],
+      "country": "US",
+      "categories": [
+        "kids"
+      ],
+      "launched": "2026-11-08",
+      "website": "https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4",
+      "logo_url": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
+      "poster_url": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1111969,6 +1112291,32 @@
       }
     },
     {
+      "id": "iptv-org:UneArmenia.co",
+      "source": "iptv-org",
+      "source_id": "UneArmenia.co",
+      "type": "channel",
+      "title": "Une Armenia",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "UNE EPM Telecomunicaciones"
+      ],
+      "country": "CO",
+      "categories": [],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/DWQ339k.png",
+      "poster_url": "https://i.imgur.com/DWQ339k.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Unearth.fr",
       "source": "iptv-org",
       "source_id": "Unearth.fr",
@@ -1111983,6 +1112331,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/PUacVoP.jpg",
       "poster_url": "https://i.imgur.com/PUacVoP.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:UneManizales.co",
+      "source": "iptv-org",
+      "source_id": "UneManizales.co",
+      "type": "channel",
+      "title": "Une Manizales",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "UNE EPM Telecomunicaciones"
+      ],
+      "country": "CO",
+      "categories": [],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/DWQ339k.png",
+      "poster_url": "https://i.imgur.com/DWQ339k.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1131262,8 +1131636,10 @@
       "alternative_names": [
         "THVL1"
       ],
-      "network": null,
-      "owners": [],
+      "network": "Vinh Long TV",
+      "owners": [
+        "Vinh Long Newspaper and Radio Television"
+      ],
       "country": "VN",
       "categories": [
         "news",
@@ -1131289,8 +1131665,10 @@
       "type": "channel",
       "title": "Vinh Long TV 2",
       "alternative_names": [],
-      "network": null,
-      "owners": [],
+      "network": "Vinh Long TV",
+      "owners": [
+        "Vinh Long Newspaper and Radio Television"
+      ],
       "country": "VN",
       "categories": [
         "culture",
@@ -1131318,8 +1131696,10 @@
       "alternative_names": [
         "THVL3"
       ],
-      "network": null,
-      "owners": [],
+      "network": "Vinh Long TV",
+      "owners": [
+        "Vinh Long Newspaper and Radio Television"
+      ],
       "country": "VN",
       "categories": [
         "movies",
@@ -1131347,8 +1131727,10 @@
       "alternative_names": [
         "THVL4"
       ],
-      "network": null,
-      "owners": [],
+      "network": "Vinh Long TV",
+      "owners": [
+        "Vinh Long Newspaper and Radio Television"
+      ],
       "country": "VN",
       "categories": [
         "culture",
@@ -1132487,8 +1132869,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://i.imgur.com/xx5RQdi.png",
-      "poster_url": "https://i.imgur.com/xx5RQdi.png",
+      "logo_url": "https://i.imgur.com/lxR5FKh.png",
+      "poster_url": "https://i.imgur.com/lxR5FKh.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1173015,6 +1173397,756 @@
       }
     },
     {
+      "id": "iptv-org:Zal1.ru",
+      "source": "iptv-org",
+      "source_id": "Zal1.ru",
+      "type": "channel",
+      "title": "Zal 1",
+      "alternative_names": [
+        "Шерлок Холмс (Зал 1)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal10.ru",
+      "source": "iptv-org",
+      "source_id": "Zal10.ru",
+      "type": "channel",
+      "title": "Zal 10",
+      "alternative_names": [
+        "Советские мультфильмы (Зал 10)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "kids"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal11.ru",
+      "source": "iptv-org",
+      "source_id": "Zal11.ru",
+      "type": "channel",
+      "title": "Zal 11",
+      "alternative_names": [
+        "Смешарики (Зал 11)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "kids"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal12.ru",
+      "source": "iptv-org",
+      "source_id": "Zal12.ru",
+      "type": "channel",
+      "title": "Zal 12",
+      "alternative_names": [
+        "Комедии (Зал 12)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "comedy"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal13.ru",
+      "source": "iptv-org",
+      "source_id": "Zal13.ru",
+      "type": "channel",
+      "title": "Zal 13",
+      "alternative_names": [
+        "Жизнь в деревне (Зал 13)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "outdoor"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal14.ru",
+      "source": "iptv-org",
+      "source_id": "Zal14.ru",
+      "type": "channel",
+      "title": "Zal 14",
+      "alternative_names": [
+        "Мажор (Зал 14)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal15.ru",
+      "source": "iptv-org",
+      "source_id": "Zal15.ru",
+      "type": "channel",
+      "title": "Zal 15",
+      "alternative_names": [
+        "В поисках ерша (Зал 15)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "outdoor"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal16.ru",
+      "source": "iptv-org",
+      "source_id": "Zal16.ru",
+      "type": "channel",
+      "title": "Zal 16",
+      "alternative_names": [
+        "Знаки судьбы (Зал 16)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal17.ru",
+      "source": "iptv-org",
+      "source_id": "Zal17.ru",
+      "type": "channel",
+      "title": "Zal 17",
+      "alternative_names": [
+        "Боевики (Зал 17)"
+      ],
+      "network": null,
+      "owners": [
+        "National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal18.ru",
+      "source": "iptv-org",
+      "source_id": "Zal18.ru",
+      "type": "channel",
+      "title": "Zal 18",
+      "alternative_names": [
+        "Простоквашино (Зал 18)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "kids"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal19.ru",
+      "source": "iptv-org",
+      "source_id": "Zal19.ru",
+      "type": "channel",
+      "title": "Zal 19",
+      "alternative_names": [
+        "Мент в законе (Зал 19)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal2.ru",
+      "source": "iptv-org",
+      "source_id": "Zal2.ru",
+      "type": "channel",
+      "title": "Zal 2",
+      "alternative_names": [
+        "Постучись в мою дверь (Зал 2)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal20.ru",
+      "source": "iptv-org",
+      "source_id": "Zal20.ru",
+      "type": "channel",
+      "title": "Zal 20",
+      "alternative_names": [
+        "Исторический (Зал 20)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal21.ru",
+      "source": "iptv-org",
+      "source_id": "Zal21.ru",
+      "type": "channel",
+      "title": "Zal 21",
+      "alternative_names": [
+        "Склифосовский (Зал 21)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal22.ru",
+      "source": "iptv-org",
+      "source_id": "Zal22.ru",
+      "type": "channel",
+      "title": "Zal 22",
+      "alternative_names": [
+        "Сельский детектив (Зал 22)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal23.ru",
+      "source": "iptv-org",
+      "source_id": "Zal23.ru",
+      "type": "channel",
+      "title": "Zal 23",
+      "alternative_names": [
+        "Советские фильмы (Зал 23)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal24.ru",
+      "source": "iptv-org",
+      "source_id": "Zal24.ru",
+      "type": "channel",
+      "title": "Zal 24",
+      "alternative_names": [
+        "По полям — по горам (Зал 24)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal25.ru",
+      "source": "iptv-org",
+      "source_id": "Zal25.ru",
+      "type": "channel",
+      "title": "Zal 25",
+      "alternative_names": [
+        "Советский детектив (Зал 25)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal27.ru",
+      "source": "iptv-org",
+      "source_id": "Zal27.ru",
+      "type": "channel",
+      "title": "Zal 27",
+      "alternative_names": [
+        "Улицы разбитых фонарей (Зал 27)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal3.ru",
+      "source": "iptv-org",
+      "source_id": "Zal3.ru",
+      "type": "channel",
+      "title": "Zal 3",
+      "alternative_names": [
+        "Ментовские войны (Зал 3)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal4.ru",
+      "source": "iptv-org",
+      "source_id": "Zal4.ru",
+      "type": "channel",
+      "title": "Zal 4",
+      "alternative_names": [
+        "Мелодрамы (Зал 4)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal5.ru",
+      "source": "iptv-org",
+      "source_id": "Zal5.ru",
+      "type": "channel",
+      "title": "Zal 5",
+      "alternative_names": [
+        "Солдаты (Зал 5)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal6.ru",
+      "source": "iptv-org",
+      "source_id": "Zal6.ru",
+      "type": "channel",
+      "title": "Zal 6",
+      "alternative_names": [
+        "Некрасивая подружка (Зал 6)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal7.ru",
+      "source": "iptv-org",
+      "source_id": "Zal7.ru",
+      "type": "channel",
+      "title": "Zal 7",
+      "alternative_names": [
+        "Летающие звери (Зал 7)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "kids"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Zal8.ru",
+      "source": "iptv-org",
+      "source_id": "Zal8.ru",
+      "type": "channel",
+      "title": "Zal 8",
+      "alternative_names": [
+        "Агент национальной безопасности (Зал 8)"
+      ],
+      "network": null,
+      "owners": [
+        "JSC National satellite company"
+      ],
+      "country": "RU",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": "https://www.tricolor.ru/",
+      "logo_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "poster_url": "https://www.tricolor.ru/frontend-2023/img/svg/logo.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:ZalaegerszegiTV.hu",
       "source": "iptv-org",
       "source_id": "ZalaegerszegiTV.hu",
@@ -1186896,159 +1188028,6 @@
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya4.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya4.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 4 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya5.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya5.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 5 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya6.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya6.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 6 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya7.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya7.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 7 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya8.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya8.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 8 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya9.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya9.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 9 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya10.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya10.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 10 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya11.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya11.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 11 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:EVidya12.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "EVidya12.in@SD",
-      "type": "channel",
-      "title": "E-Vidya 12 (576p)",
-      "logo_url": "https://i.imgur.com/0sz6t9F.png",
-      "poster_url": "https://i.imgur.com/0sz6t9F.png",
-      "group": "Education",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
