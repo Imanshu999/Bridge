@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T19:56:57.762021+00:00",
+  "generated_at": "2026-11-11T06:52:48.627744+00:00",
   "source_count": 5,
-  "item_count": 35895,
+  "item_count": 35888,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30795
+    "channel": 30788
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29959
+      "count": 29964
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 836
+      "count": 824
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -114,48 +114,6 @@
       ],
       "runtime": "94 min",
       "country": "Germany, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0107120",
-      "source": "Cinemeta",
-      "source_id": "tt0107120",
-      "type": "movie",
-      "title": "Hocus Pocus",
-      "original_title": "Hocus Pocus",
-      "overview": "A teenage boy named Max and his little sister move to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century.",
-      "release_date": "1993-07-16T00:00:00.000Z",
-      "year": "1993",
-      "rating": 6.9,
-      "vote_count": null,
-      "genres": [
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0107120/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0107120/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0107120/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0107120/img",
-      "detail_url": "https://www.imdb.com/title/tt0107120/",
-      "cast": [
-        "Bette Midler",
-        "Sarah Jessica Parker",
-        "Kathy Najimy"
-      ],
-      "crew": [
-        {
-          "name": "Kenny Ortega",
-          "job": "Director"
-        }
-      ],
-      "runtime": "96 min",
-      "country": "United States",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -361,48 +319,6 @@
         }
       ],
       "runtime": "117 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0107688",
-      "source": "Cinemeta",
-      "source_id": "tt0107688",
-      "type": "movie",
-      "title": "The Nightmare Before Christmas",
-      "original_title": "The Nightmare Before Christmas",
-      "overview": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
-      "release_date": "1993-10-29T00:00:00.000Z",
-      "year": "1993",
-      "rating": 7.9,
-      "vote_count": null,
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Family"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0107688/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0107688/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0107688/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0107688/img",
-      "detail_url": "https://www.imdb.com/title/tt0107688/",
-      "cast": [
-        "Danny Elfman",
-        "Chris Sarandon",
-        "Catherine O&apos;Hara"
-      ],
-      "crew": [
-        {
-          "name": "Henry Selick",
-          "job": "Director"
-        }
-      ],
-      "runtime": "76 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -1337,88 +1253,6 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt1502407",
-      "source": "Cinemeta",
-      "source_id": "tt1502407",
-      "type": "movie",
-      "title": "Halloween",
-      "original_title": "Halloween",
-      "overview": "Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
-      "release_date": "2018-10-19T00:00:00.000Z",
-      "year": "2018",
-      "rating": 6.5,
-      "vote_count": null,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt1502407/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt1502407/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt1502407/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt1502407/img",
-      "detail_url": "https://www.imdb.com/title/tt1502407/",
-      "cast": [
-        "Jamie Lee Curtis",
-        "Judy Greer",
-        "Andi Matichak"
-      ],
-      "crew": [
-        {
-          "name": "David Gordon Green",
-          "job": "Director"
-        }
-      ],
-      "runtime": "106 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:movie:tt0087800",
-      "source": "Cinemeta",
-      "source_id": "tt0087800",
-      "type": "movie",
-      "title": "A Nightmare on Elm Street",
-      "original_title": "A Nightmare on Elm Street",
-      "overview": "Teenager Nancy Thompson must uncover the dark truth concealed by her parents after she and her friends become targets of the spirit of a serial killer with a bladed glove in their dreams, in which if they die, it kills them in rea...",
-      "release_date": "1984-11-16T00:00:00.000Z",
-      "year": "1984",
-      "rating": 7.4,
-      "vote_count": null,
-      "genres": [
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0087800/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0087800/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0087800/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0087800/img",
-      "detail_url": "https://www.imdb.com/title/tt0087800/",
-      "cast": [
-        "Heather Langenkamp",
-        "Johnny Depp",
-        "Robert Englund"
-      ],
-      "crew": [
-        {
-          "name": "Wes Craven",
-          "job": "Director"
-        }
-      ],
-      "runtime": "91 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "cinemeta:movie:tt27165187",
       "source": "Cinemeta",
       "source_id": "tt27165187",
@@ -1796,33 +1630,30 @@
       "source": "Cinemeta",
       "source_id": "tt12590266",
       "type": "movie",
-      "title": "I See Ice",
-      "original_title": "I See Ice",
-      "overview": "George Bright is a props man in an ice ballet company, and a keen amateur photographer who accidentally snaps crooks at work. Comic complications ensue....",
-      "release_date": null,
-      "year": "1938",
+      "title": "Cyberpunk: Edgerunners",
+      "original_title": "Cyberpunk: Edgerunners",
+      "overview": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
+      "release_date": "2022-09-13T00:00:00.000Z",
+      "year": "2022",
       "rating": 8.3,
       "vote_count": null,
       "genres": [
-        "Comedy"
+        "Animation",
+        "Action",
+        "Adventure"
       ],
-      "poster_url": "https://live.metahub.space/poster/small/tt12590266/img",
-      "backdrop_url": "https://live.metahub.space/background/medium/tt12590266/img",
-      "banner_url": "https://live.metahub.space/background/medium/tt12590266/img",
-      "logo_url": "https://live.metahub.space/logo/medium/tt12590266/img",
+      "poster_url": "https://images.metahub.space/poster/small/tt12590266/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt12590266/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt12590266/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt12590266/img",
       "detail_url": "https://www.imdb.com/title/tt12590266/",
       "cast": [
-        "George Formby",
-        "Kay Walsh",
-        "Betty Stockfeld"
+        "Kentarô Tone",
+        "Koki Uchiyama",
+        "Momoka Terasawa"
       ],
-      "crew": [
-        {
-          "name": "Anthony Kimmins",
-          "job": "Director"
-        }
-      ],
-      "runtime": "84 min",
+      "crew": [],
+      "runtime": "27 min",
       "country": "Japan, United States, Poland",
       "reviews": [],
       "review_count": null,
@@ -2036,48 +1867,6 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt0162661",
-      "source": "Cinemeta",
-      "source_id": "tt0162661",
-      "type": "movie",
-      "title": "Sleepy Hollow",
-      "original_title": "Sleepy Hollow",
-      "overview": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people; the culprit is legendary apparition The Headless Horseman.",
-      "release_date": "1999-11-19T00:00:00.000Z",
-      "year": "1999",
-      "rating": 7.3,
-      "vote_count": null,
-      "genres": [
-        "Fantasy",
-        "Horror",
-        "Mystery"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt0162661/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt0162661/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt0162661/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt0162661/img",
-      "detail_url": "https://www.imdb.com/title/tt0162661/",
-      "cast": [
-        "Johnny Depp",
-        "Christina Ricci",
-        "Miranda Richardson"
-      ],
-      "crew": [
-        {
-          "name": "Tim Burton",
-          "job": "Director"
-        }
-      ],
-      "runtime": "105 min",
-      "country": "United Kingdom, Germany, United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "cinemeta:movie:tt31193180",
       "source": "Cinemeta",
       "source_id": "tt31193180",
@@ -2110,6 +1899,219 @@
       ],
       "runtime": "138 min",
       "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt0816692",
+      "source": "Cinemeta",
+      "source_id": "tt0816692",
+      "type": "movie",
+      "title": "Interstellar",
+      "original_title": "Interstellar",
+      "overview": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+      "release_date": "2014-11-07T00:00:00.000Z",
+      "year": "2014",
+      "rating": 8.7,
+      "vote_count": null,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt0816692/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt0816692/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt0816692/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt0816692/img",
+      "detail_url": "https://www.imdb.com/title/tt0816692/",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "crew": [
+        {
+          "name": "Christopher Nolan",
+          "job": "Director"
+        }
+      ],
+      "runtime": "169 min",
+      "country": "United States, United Kingdom, Canada",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt1457767",
+      "source": "Cinemeta",
+      "source_id": "tt1457767",
+      "type": "movie",
+      "title": "The Conjuring",
+      "original_title": "The Conjuring",
+      "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "release_date": "2013-07-19T00:00:00.000Z",
+      "year": "2013",
+      "rating": 7.5,
+      "vote_count": null,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt1457767/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt1457767/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt1457767/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt1457767/img",
+      "detail_url": "https://www.imdb.com/title/tt1457767/",
+      "cast": [
+        "Patrick Wilson",
+        "Vera Farmiga",
+        "Ron Livingston"
+      ],
+      "crew": [
+        {
+          "name": "James Wan",
+          "job": "Director"
+        }
+      ],
+      "runtime": "112 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt36583977",
+      "source": "Cinemeta",
+      "source_id": "tt36583977",
+      "type": "movie",
+      "title": "Forgotten Island",
+      "original_title": "Forgotten Island",
+      "overview": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
+      "release_date": "2026-09-25T00:00:00.000Z",
+      "year": "2026",
+      "rating": 7.7,
+      "vote_count": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt36583977/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt36583977/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt36583977/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt36583977/img",
+      "detail_url": "https://www.imdb.com/title/tt36583977/",
+      "cast": [
+        "Dave Franco",
+        "Jenny Slate",
+        "Manny Jacinto"
+      ],
+      "crew": [
+        {
+          "name": "Joel Crawford",
+          "job": "Director"
+        },
+        {
+          "name": "Januel P. Mercado",
+          "job": "Director"
+        }
+      ],
+      "runtime": "109 min",
+      "country": "United States, Japan",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt31349844",
+      "source": "Cinemeta",
+      "source_id": "tt31349844",
+      "type": "movie",
+      "title": "Runner",
+      "original_title": "Runner",
+      "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+      "release_date": "2026-09-11T00:00:00.000Z",
+      "year": "2026",
+      "rating": 6.2,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt31349844/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt31349844/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt31349844/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt31349844/img",
+      "detail_url": "https://www.imdb.com/title/tt31349844/",
+      "cast": [
+        "Alan Ritchson",
+        "Owen Wilson",
+        "Rodrigo Santoro"
+      ],
+      "crew": [
+        {
+          "name": "Scott Waugh",
+          "job": "Director"
+        }
+      ],
+      "runtime": "97 min",
+      "country": "Australia, United States, United Kingdom",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt1160419",
+      "source": "Cinemeta",
+      "source_id": "tt1160419",
+      "type": "movie",
+      "title": "Dune",
+      "original_title": "Dune",
+      "overview": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+      "release_date": "2021-10-22T00:00:00.000Z",
+      "year": "2021",
+      "rating": 8.0,
+      "vote_count": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt1160419/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt1160419/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt1160419/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt1160419/img",
+      "detail_url": "https://www.imdb.com/title/tt1160419/",
+      "cast": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Zendaya"
+      ],
+      "crew": [
+        {
+          "name": "Denis Villeneuve",
+          "job": "Director"
+        }
+      ],
+      "runtime": "155 min",
+      "country": "Canada, United States",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -3872,28 +3874,29 @@
       "type": "series",
       "title": "Cyberpunk: Edgerunners",
       "original_title": "Cyberpunk: Edgerunners",
-      "overview": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
-      "release_date": "2022-09-13T00:00:00.000Z",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "release_date": null,
       "year": "2022",
       "rating": 8.3,
       "vote_count": null,
       "genres": [
         "Animation",
-        "Action",
-        "Adventure"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crime"
       ],
-      "poster_url": "https://images.metahub.space/poster/small/tt12590266/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt12590266/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt12590266/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt12590266/img",
+      "poster_url": "https://live.metahub.space/poster/small/tt12590266/img",
+      "backdrop_url": "https://live.metahub.space/background/medium/tt12590266/img",
+      "banner_url": "https://live.metahub.space/background/medium/tt12590266/img",
+      "logo_url": "https://live.metahub.space/logo/medium/tt12590266/img",
       "detail_url": "https://www.imdb.com/title/tt12590266/",
       "cast": [
-        "Kentarô Tone",
         "Koki Uchiyama",
-        "Momoka Terasawa"
+        "Momoka Terasawa",
+        "Akari Kito"
       ],
       "crew": [],
-      "runtime": "27 min",
+      "runtime": null,
       "country": "Japan, United States, Poland",
       "reviews": [],
       "review_count": null,
@@ -75022,7 +75025,7 @@
       "season": "FALL",
       "season_year": 2026,
       "episodes_count": 1,
-      "episode_duration_minutes": null,
+      "episode_duration_minutes": 129,
       "reviews": [],
       "review_count": null,
       "cast": [],
@@ -115675,7 +115678,8 @@
         "Action",
         "Adventure",
         "Fantasy",
-        "Mecha"
+        "Mecha",
+        "Sci-Fi"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21275-4XQkE1bTJvTk.png",
       "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21275-OWIrDGBJqPju.jpg",
@@ -199199,6 +199203,7 @@
       "vote_count": null,
       "genres": [
         "Comedy",
+        "Ecchi",
         "Mahou Shoujo",
         "Sci-Fi"
       ],
@@ -255358,7 +255363,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery EMEA"
+        "Skydance EMEA"
       ],
       "country": "UK",
       "categories": [
@@ -435420,7 +435425,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery Inc."
+        "Skydance EMEA"
       ],
       "country": "US",
       "categories": [
@@ -576793,6 +576798,34 @@
       }
     },
     {
+      "id": "iptv-org:InfoHD.ro",
+      "source": "iptv-org",
+      "source_id": "InfoHD.ro",
+      "type": "channel",
+      "title": "Info HD",
+      "alternative_names": [
+        "Info HD Deva"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://www.replicahd.ro/",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/e/ec/Info_TV_Deva.png/revision/latest?cb=20241109152015",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/e/ec/Info_TV_Deva.png/revision/latest?cb=20241109152015",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:InfokanalDomruGid.ru",
       "source": "iptv-org",
       "source_id": "InfokanalDomruGid.ru",
@@ -580157,7 +580190,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery EMEA"
+        "Skydance EMEA"
       ],
       "country": "SE",
       "categories": [
@@ -697798,7 +697831,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Antonio J. Vierci"
+        "Grupo Vierci"
       ],
       "country": "PY",
       "categories": [
@@ -758170,7 +758203,9 @@
       "title": "Nova TV Progreso",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Javier Petrocelli"
+      ],
       "country": "UY",
       "categories": [
         "general"
@@ -777248,6 +777283,35 @@
       }
     },
     {
+      "id": "iptv-org:ONInfoTV.vn",
+      "source": "iptv-org",
+      "source_id": "ONInfoTV.vn",
+      "type": "channel",
+      "title": "ON Info TV",
+      "alternative_names": [],
+      "network": "VTVcab",
+      "owners": [
+        "Vietnam Cable Television Corporation Joint Stock Company"
+      ],
+      "country": "VN",
+      "categories": [
+        "business",
+        "entertainment"
+      ],
+      "launched": "2007-03-06",
+      "website": "https://vtvcab.vn",
+      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png",
+      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:OnkarNews.in",
       "source": "iptv-org",
       "source_id": "OnkarNews.in",
@@ -777670,6 +777734,32 @@
       "website": "https://vtvcab.vn",
       "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png",
       "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:OnPatrolLive.us",
+      "source": "iptv-org",
+      "source_id": "OnPatrolLive.us",
+      "type": "channel",
+      "title": "On Patrol: Live",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "US",
+      "categories": [
+        "series"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/OAThfQx.png",
+      "poster_url": "https://i.imgur.com/OAThfQx.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -778173,6 +778263,32 @@
       "website": "https://www.on-eg.com/",
       "logo_url": "https://i.imgur.com/ISOQdOJ.png",
       "poster_url": "https://i.imgur.com/ISOQdOJ.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ONTrendingTV.vn",
+      "source": "iptv-org",
+      "source_id": "ONTrendingTV.vn",
+      "type": "channel",
+      "title": "ON Trending TV",
+      "alternative_names": [],
+      "network": "VTVcab",
+      "owners": [
+        "Vietnam Cable Television Corporation Joint Stock Company"
+      ],
+      "country": "VN",
+      "categories": [],
+      "launched": "2010-10-09",
+      "website": "https://vtvcab.vn",
+      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png",
+      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -865606,6 +865722,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/IqebTlK.png",
       "poster_url": "https://i.imgur.com/IqebTlK.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ReelzFamousInfamous.us",
+      "source": "iptv-org",
+      "source_id": "ReelzFamousInfamous.us",
+      "type": "channel",
+      "title": "Reelz Famous & Infamous",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "US",
+      "categories": [
+        "documentary"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/czrTtNK.png",
+      "poster_url": "https://i.imgur.com/czrTtNK.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1033746,7 +1033888,7 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Warner Bros. Discovery Inc."
+        "Skydance EMEA"
       ],
       "country": "US",
       "categories": [
@@ -1046239,39 +1046381,6 @@
       }
     },
     {
-      "id": "iptv-org:TraVinhTV.vn",
-      "source": "iptv-org",
-      "source_id": "TraVinhTV.vn",
-      "type": "channel",
-      "title": "Tra Vinh TV",
-      "alternative_names": [
-        "THVL5"
-      ],
-      "network": "Vinh Long TV",
-      "owners": [
-        "Vinh Long Newspaper and Radio Television"
-      ],
-      "country": "VN",
-      "categories": [
-        "culture",
-        "entertainment",
-        "music",
-        "news"
-      ],
-      "launched": null,
-      "website": "https://www.thvli.vn/live/thvl5-hd",
-      "logo_url": "https://i.imgur.com/F12VdKO.png",
-      "poster_url": "https://i.imgur.com/F12VdKO.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:TravisCountyTV.us",
       "source": "iptv-org",
       "source_id": "TravisCountyTV.us",
@@ -1056442,6 +1056551,35 @@
       }
     },
     {
+      "id": "iptv-org:TV1.ro",
+      "source": "iptv-org",
+      "source_id": "TV1.ro",
+      "type": "channel",
+      "title": "TV1",
+      "alternative_names": [
+        "TV1 Satu Mare",
+        "TV1SM"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://tv1sm.ro/",
+      "logo_url": "https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg",
+      "poster_url": "https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:TV1.rw",
       "source": "iptv-org",
       "source_id": "TV1.rw",
@@ -1066233,7 +1066371,9 @@
       "title": "TV Aire",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Blas Antonio Sachelaridi"
+      ],
       "country": "PY",
       "categories": [
         "general"
@@ -1077660,7 +1077800,7 @@
       ],
       "network": null,
       "owners": [
-        "TVFlorida SRL"
+        "Fabricio Álvarez"
       ],
       "country": "UY",
       "categories": [
@@ -1099616,7 +1099756,9 @@
         "TVS Encarnación"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Tony Godoy"
+      ],
       "country": "PY",
       "categories": [
         "general"
@@ -1185259,40 +1185401,6 @@
       }
     },
     {
-      "id": "iptv-org-in:AnimalPlanet.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "AnimalPlanet.in@SD",
-      "type": "channel",
-      "title": "Animal Planet (India) (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-      "group": "Documentary",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:AnimalPlanet.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "AnimalPlanet.in@HD",
-      "type": "channel",
-      "title": "Animal Planet (India) HD (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-      "group": "Documentary",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:AnimaxAsia.sg@India",
       "source": "iptv-org India M3U",
       "source_id": "AnimaxAsia.sg@India",
@@ -1185331,7 +1185439,7 @@
       "source": "iptv-org India M3U",
       "source_id": "AnmolTV.in@SD",
       "type": "channel",
-      "title": "Anmol TV (720p)",
+      "title": "Anmol TV (576p)",
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
       "group": "Entertainment",
@@ -1186219,23 +1186327,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:CartoonNetwork.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "CartoonNetwork.in@SD",
-      "type": "channel",
-      "title": "Cartoon Network (India) (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",
-      "group": "Animation;Kids",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1187758,23 +1187849,6 @@
       }
     },
     {
-      "id": "iptv-org-in:DiscoveryChannel.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryChannel.in@SD",
-      "type": "channel",
-      "title": "Discovery Channel (India) (720p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:DiscoveryChannel.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "DiscoveryChannel.in@HD",
@@ -1187783,57 +1187857,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DiscoveryKids.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryKids.in@SD",
-      "type": "channel",
-      "title": "Discovery Kids (720p)",
-      "logo_url": "https://i.imgur.com/0iNQvoL.png",
-      "poster_url": "https://i.imgur.com/0iNQvoL.png",
-      "group": "Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DiscoveryScience.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryScience.in@SD",
-      "type": "channel",
-      "title": "Discovery Science (720p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-      "group": "Science",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DiscoveryTurbo.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryTurbo.in@SD",
-      "type": "channel",
-      "title": "Discovery Turbo (India) (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
-      "group": "Auto",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1188463,23 +1188486,6 @@
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Eurosport.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Eurosport.in@SD",
-      "type": "channel",
-      "title": "Eurosport (India) (720p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1189242,8 +1189248,8 @@
       "source_id": "HindiHits.in@SD",
       "type": "channel",
       "title": "Hindi Hits (1080p)",
-      "logo_url": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
-      "poster_url": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+      "logo_url": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
+      "poster_url": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
       "group": "Music",
       "language": null,
       "country": "India",
@@ -1189823,23 +1189829,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
       "group": "Music",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:InvestigationDiscovery.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "InvestigationDiscovery.in@SD",
-      "type": "channel",
-      "title": "Investigation Discovery (India) (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-      "group": "Documentary",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1193270,7 +1193259,7 @@
       "source": "iptv-org India M3U",
       "source_id": "Pogo.in@SD",
       "type": "channel",
-      "title": "Pogo (720p)",
+      "title": "Pogo (576p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
       "group": "Animation;Kids",
@@ -1195544,23 +1195533,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonySAB.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonySAB.in@SD",
-      "type": "channel",
-      "title": "Sony SAB (720p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonyWah.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyWah.in@SD",
@@ -1196768,40 +1196740,6 @@
       }
     },
     {
-      "id": "iptv-org-in:TLC.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "TLC.in@SD",
-      "type": "channel",
-      "title": "TLC (India) (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-      "group": "Lifestyle",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:TLC.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "TLC.in@HD",
-      "type": "channel",
-      "title": "TLC (India) HD (720p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-      "group": "Lifestyle",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:TNPNews.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "TNPNews.in@SD",
@@ -1197555,8 +1197493,8 @@
       "source_id": "VisionBeats.in@SD",
       "type": "channel",
       "title": "Vision Beats (720p)",
-      "logo_url": "https://i.imgur.com/xx5RQdi.png",
-      "poster_url": "https://i.imgur.com/xx5RQdi.png",
+      "logo_url": "https://i.imgur.com/lxR5FKh.png",
+      "poster_url": "https://i.imgur.com/lxR5FKh.png",
       "group": "Music",
       "language": null,
       "country": "India",
