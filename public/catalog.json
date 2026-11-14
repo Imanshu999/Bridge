@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T18:23:47.635179+00:00",
+  "generated_at": "2026-11-14T22:41:42.649377+00:00",
   "source_count": 5,
   "item_count": 35913,
   "counts": {
@@ -2906,7 +2906,7 @@
         "Lee Jong-suk"
       ],
       "crew": [],
-      "runtime": "55 min",
+      "runtime": "53 min",
       "country": "South Korea",
       "reviews": [],
       "review_count": null,
@@ -168207,8 +168207,8 @@
         "Fantasy"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
-      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
-      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-4qPKsW5SXLzC.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-4qPKsW5SXLzC.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/203275",
       "format": "ONA",
