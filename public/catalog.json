@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T19:58:46.639719+00:00",
+  "generated_at": "2026-11-14T06:51:47.369734+00:00",
   "source_count": 5,
-  "item_count": 35893,
+  "item_count": 35913,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30793
+    "channel": 30813
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29964
+      "count": 29988
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 829
+      "count": 825
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -1772,7 +1772,7 @@
           "job": "Director"
         }
       ],
-      "runtime": "97 min",
+      "runtime": "98 min",
       "country": "Australia, United States, United Kingdom",
       "reviews": [],
       "review_count": null,
@@ -79638,8 +79638,8 @@
         "Slice of Life"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-      "backdrop_url": null,
-      "banner_url": null,
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213805-DKKoBepaY2bj.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213805-DKKoBepaY2bj.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/213805",
       "format": "TV",
@@ -124491,15 +124491,17 @@
       "title": "False Memory (2026)",
       "original_title": "记忆管理局 (2026)",
       "romaji_title": "Jiyi Guanli Ju (2026)",
-      "overview": "In order to return to the past, Guan Chao searches for the \"Burning Stone\", the energy source that can activate the Time Gun, but unexpectedly falls into the Memory Administration Bureau. To return to reality, Guan Chao teams up with memory administrators such as Fang Tang and Bai Zhong to recover the BUG Beings in the memory layers level by level. As the battles conclude one after another, what Guan Chao must face is... (Source: Bilibili, translated)",
+      "overview": "In his desperate quest to return to the past, Guan Chao scours the world for \"Pyrolite\" — the energy source capable of powering the Time Gun. But his search takes an unexpected turn when he accidentally falls into the Memory Bureau. To find his way back to reality, Guan Chao must join forces with memory administrators Fangtang, Bai Zhong, and others, clearing BUG beings layer by layer through the strata of memory. Yet as battle after battle draws to a close, what awaits him is far more than corrupted data… The deepest truth buried within memory itself is beginning to stir. (Source: Bilibili TV)",
       "release_date": null,
       "year": 2026,
       "rating": 8.7,
       "vote_count": null,
       "genres": [
         "Action",
+        "Drama",
         "Mystery",
-        "Psychological"
+        "Psychological",
+        "Sci-Fi"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141953-S3RozQSOxzrw.png",
       "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141953-5o87aOKuZf8c.jpg",
@@ -124511,7 +124513,7 @@
       "season": null,
       "season_year": null,
       "episodes_count": 7,
-      "episode_duration_minutes": 25,
+      "episode_duration_minutes": 29,
       "reviews": [],
       "review_count": null,
       "cast": [],
@@ -126336,7 +126338,7 @@
       "source_id": 99807,
       "type": "anime",
       "title": "22/7 (nanabun no nijyuuni)",
-      "original_title": "22/7 （ナナブンノニジュウニ）",
+      "original_title": "22/7 (ナナブンノニジュウニ)",
       "romaji_title": "22/7",
       "overview": "One day, Miu Takigawa suddenly receives a letter notifying her that she has been chosen as a member of a brand-new project. Half in disbelief, she heads over to the location stated on the letter. There, she finds seven other girls summoned there in the same fashion. The girls behold a giant, top-secret facility. They stand in bewilderment as they are told: \"You are going to debut for a major record label as an idol group.\" A new kind of idol, never-before-seen, is about to be born here… (Source: Aniplex of America)",
       "release_date": null,
@@ -256585,6 +256587,32 @@
       }
     },
     {
+      "id": "iptv-org:AnjaliTV.in",
+      "source": "iptv-org",
+      "source_id": "AnjaliTV.in",
+      "type": "channel",
+      "title": "Anjali TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://play-lh.googleusercontent.com/VWNeFRQ9uppvZmcO_qVulTHYC8hXd92d3D9Yqbx_UrlTl4trL9AxwmqCrsXmGfN8VS9A_T185BwdVY5O-TTQly4=w1200",
+      "poster_url": "https://play-lh.googleusercontent.com/VWNeFRQ9uppvZmcO_qVulTHYC8hXd92d3D9Yqbx_UrlTl4trL9AxwmqCrsXmGfN8VS9A_T185BwdVY5O-TTQly4=w1200",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:AnjanTV.in",
       "source": "iptv-org",
       "source_id": "AnjanTV.in",
@@ -264315,6 +264343,32 @@
       }
     },
     {
+      "id": "iptv-org:ArenaSport6BH.ba",
+      "source": "iptv-org",
+      "source_id": "ArenaSport6BH.ba",
+      "type": "channel",
+      "title": "Arena Sport 6 BH",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "BA",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Arena_Sport_6_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Arena_Sport_6_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:ArenaSport7.hr",
       "source": "iptv-org",
       "source_id": "ArenaSport7.hr",
@@ -264395,6 +264449,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ArenaSport7BH.ba",
+      "source": "iptv-org",
+      "source_id": "ArenaSport7BH.ba",
+      "type": "channel",
+      "title": "Arena Sport 7 BH",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "BA",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Arena_Sport_7_%282021%2C_short%29.svg/revision/latest?cb=20221111214150",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Arena_Sport_7_%282021%2C_short%29.svg/revision/latest?cb=20221111214150",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -264660,6 +264740,58 @@
       "website": null,
       "logo_url": "https://i.imgur.com/gpqemLf.png",
       "poster_url": "https://i.imgur.com/gpqemLf.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ArenaSportPremium4BH.ba",
+      "source": "iptv-org",
+      "source_id": "ArenaSportPremium4BH.ba",
+      "type": "channel",
+      "title": "Arena Sport Premium 4 BH",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "BA",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/9/93/Arena_Sport_4_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619134612",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/9/93/Arena_Sport_4_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619134612",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ArenaSportPremium5BH.ba",
+      "source": "iptv-org",
+      "source_id": "ArenaSportPremium5BH.ba",
+      "type": "channel",
+      "title": "Arena Sport Premium 5 BH",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "BA",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/de/Arena_Sport_5_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619135051",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/d/de/Arena_Sport_5_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619135051",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -271085,7 +271217,9 @@
       "title": "Asonga TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Teodoro Nguema Obiang Mangue"
+      ],
       "country": "GQ",
       "categories": [
         "general"
@@ -282763,6 +282897,32 @@
       "website": "https://www.aysen.tv/",
       "logo_url": "https://i.imgur.com/DmdBf9S.png",
       "poster_url": "https://i.imgur.com/DmdBf9S.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:AyushNextCommunicationNetwork.in",
+      "source": "iptv-org",
+      "source_id": "AyushNextCommunicationNetwork.in",
+      "type": "channel",
+      "title": "Ayush Next Communication Network",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "lifestyle"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/g68oamL.jpeg",
+      "poster_url": "https://i.imgur.com/g68oamL.jpeg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -306633,6 +306793,32 @@
       }
     },
     {
+      "id": "iptv-org:BhaktiPlay.in",
+      "source": "iptv-org",
+      "source_id": "BhaktiPlay.in",
+      "type": "channel",
+      "title": "Bhakti Play",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": "https://bhaktiplay.com/",
+      "logo_url": "https://bhaktiplay.com/images/icons/logo.png",
+      "poster_url": "https://bhaktiplay.com/images/icons/logo.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:BhaktiSagar.in",
       "source": "iptv-org",
       "source_id": "BhaktiSagar.in",
@@ -315650,6 +315836,32 @@
       "website": "https://www.isgmedia.com/channels.php?channel=bollywood-hd",
       "logo_url": "https://i.imgur.com/scDKOLS.png",
       "poster_url": "https://i.imgur.com/scDKOLS.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:BollywoodMasala.in",
+      "source": "iptv-org",
+      "source_id": "BollywoodMasala.in",
+      "type": "channel",
+      "title": "Bollywood Masala",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -373263,13 +373475,15 @@
         "Na Lololo"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Fiji Television"
+      ],
       "country": "FJ",
       "categories": [
         "general"
       ],
-      "launched": null,
-      "website": "http://fijione.tv/fiji-tv-to-launch-channel-2/",
+      "launched": "2022-08-01",
+      "website": "https://fijionenews.com.fj/",
       "logo_url": "https://i.imgur.com/damLvxH.png",
       "poster_url": "https://i.imgur.com/damLvxH.png",
       "backdrop_url": null,
@@ -491186,7 +491400,7 @@
       "categories": [
         "music"
       ],
-      "launched": null,
+      "launched": "2020-11-06",
       "website": "https://www.fbcnews.com.fj/",
       "logo_url": "https://i.imgur.com/udKqFZ6.png",
       "poster_url": "https://i.imgur.com/udKqFZ6.png",
@@ -491214,7 +491428,7 @@
       "categories": [
         "sports"
       ],
-      "launched": null,
+      "launched": "2018-06-22",
       "website": "https://www.fbcnews.com.fj/",
       "logo_url": "https://i.imgur.com/l953wkT.png",
       "poster_url": "https://i.imgur.com/l953wkT.png",
@@ -497983,7 +498197,9 @@
       "title": "Flash TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Louis B. Kamanzi"
+      ],
       "country": "RW",
       "categories": [
         "general"
@@ -519622,6 +519838,32 @@
       }
     },
     {
+      "id": "iptv-org:GhaintPunjab.in",
+      "source": "iptv-org",
+      "source_id": "GhaintPunjab.in",
+      "type": "channel",
+      "title": "Ghaint Punjab",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Ghaint_Punjab.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Ghaint_Punjab.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:GHAMTV.pe",
       "source": "iptv-org",
       "source_id": "GHAMTV.pe",
@@ -536922,6 +537164,32 @@
       }
     },
     {
+      "id": "iptv-org:GurbaniTV.in",
+      "source": "iptv-org",
+      "source_id": "GurbaniTV.in",
+      "type": "channel",
+      "title": "Gurbani TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://assets.about.me/background/users/g/u/r/gurbanitvonline_1534502847_269.jpg",
+      "poster_url": "https://assets.about.me/background/users/g/u/r/gurbanitvonline_1534502847_269.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:GuriaTV.ge",
       "source": "iptv-org",
       "source_id": "GuriaTV.ge",
@@ -537516,7 +537784,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "GF",
       "categories": [
@@ -558512,7 +558780,7 @@
       "categories": [
         "religious"
       ],
-      "launched": null,
+      "launched": "2017-11-01",
       "website": null,
       "logo_url": "https://i.imgur.com/aUq8Un5.png",
       "poster_url": "https://i.imgur.com/aUq8Un5.png",
@@ -583018,7 +583286,9 @@
       "title": "Ishusho TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Ishusho Ltd."
+      ],
       "country": "RW",
       "categories": [
         "culture",
@@ -587127,12 +587397,14 @@
       "title": "Izuba TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "ADECCO"
+      ],
       "country": "RW",
       "categories": [
         "general"
       ],
-      "launched": null,
+      "launched": "2018-01-11",
       "website": "https://www.izubaradiotv.rw/",
       "logo_url": "https://i.imgur.com/cRA1CuG.png",
       "poster_url": "https://i.imgur.com/cRA1CuG.png",
@@ -593750,6 +594022,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/qNNiXVA.jpeg",
       "poster_url": "https://i.imgur.com/qNNiXVA.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:JJTVNews.in",
+      "source": "iptv-org",
+      "source_id": "JJTVNews.in",
+      "type": "channel",
+      "title": "JJ TV News",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": "https://jjtvnews.in/",
+      "logo_url": "https://i.imgur.com/9RAWj2f.jpeg",
+      "poster_url": "https://i.imgur.com/9RAWj2f.jpeg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -615009,6 +615307,37 @@
       "website": "http://kinokazka.tv/",
       "logo_url": "https://i.imgur.com/y6SWpsX.png",
       "poster_url": "https://i.imgur.com/y6SWpsX.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Kinokniga.ru",
+      "source": "iptv-org",
+      "source_id": "Kinokniga.ru",
+      "type": "channel",
+      "title": "Kinokniga",
+      "alternative_names": [
+        "Кинокнига"
+      ],
+      "network": null,
+      "owners": [
+        "Red Media",
+        "Gazprom Media"
+      ],
+      "country": "RU",
+      "categories": [
+        "movies"
+      ],
+      "launched": "2026-11-01",
+      "website": "https://www.nastroykino.ru/kinokniga",
+      "logo_url": "https://cdn2.red-media.ru/wp-content/uploads/2026/11/kinokniga-catalog-2026.png",
+      "poster_url": "https://cdn2.red-media.ru/wp-content/uploads/2026/11/kinokniga-catalog-2026.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -636566,6 +636895,32 @@
       }
     },
     {
+      "id": "iptv-org:LakshyaTV.in",
+      "source": "iptv-org",
+      "source_id": "LakshyaTV.in",
+      "type": "channel",
+      "title": "Lakshya TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Lakshya_TV.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Lakshya_TV.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:LakuMall.my",
       "source": "iptv-org",
       "source_id": "LakuMall.my",
@@ -652748,7 +653103,9 @@
       "title": "Local Now",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Allen Media Group"
+      ],
       "country": "US",
       "categories": [
         "news"
@@ -663200,7 +663557,7 @@
       "categories": [
         "sports"
       ],
-      "launched": null,
+      "launched": "2021-11-13",
       "website": "https://rba.co.rw/",
       "logo_url": "https://i.imgur.com/Le7ZxXn.png",
       "poster_url": "https://i.imgur.com/Le7ZxXn.png",
@@ -669779,7 +670136,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "MQ",
       "categories": [
@@ -673883,7 +674240,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "YT",
       "categories": [
@@ -735708,63 +736065,6 @@
       }
     },
     {
-      "id": "iptv-org:NewChannel.ca",
-      "source": "iptv-org",
-      "source_id": "NewChannel.ca",
-      "type": "channel",
-      "title": "New Channel",
-      "alternative_names": [],
-      "network": null,
-      "owners": [
-        "Canada Love"
-      ],
-      "country": "CA",
-      "categories": [
-        "music",
-        "kids"
-      ],
-      "launched": null,
-      "website": "https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4",
-      "logo_url": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
-      "poster_url": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:NewChannelPop.ca",
-      "source": "iptv-org",
-      "source_id": "NewChannelPop.ca",
-      "type": "channel",
-      "title": "New Channel Pop!",
-      "alternative_names": [],
-      "network": null,
-      "owners": [
-        "Canada Love"
-      ],
-      "country": "CA",
-      "categories": [
-        "kids"
-      ],
-      "launched": "2026-09-23",
-      "website": "https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85",
-      "logo_url": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
-      "poster_url": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:NewcomerTV.ch",
       "source": "iptv-org",
       "source_id": "NewcomerTV.ch",
@@ -756287,7 +756587,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "NC",
       "categories": [
@@ -770929,6 +771229,32 @@
       }
     },
     {
+      "id": "iptv-org:OggyandtheCockroaches.us",
+      "source": "iptv-org",
+      "source_id": "OggyandtheCockroaches.us",
+      "type": "channel",
+      "title": "Oggy and the Cockroaches",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "US",
+      "categories": [
+        "kids"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Oggy_and_the_Cockroaches_Logo.webp",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Oggy_and_the_Cockroaches_Logo.webp",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:OggyeasBaratasTontas.us",
       "source": "iptv-org",
       "source_id": "OggyeasBaratasTontas.us",
@@ -777236,7 +777562,7 @@
       "type": "channel",
       "title": "ON Football",
       "alternative_names": [],
-      "network": null,
+      "network": "ON Sports",
       "owners": [
         "Vietnam Cable Television Corporation Joint Stock Company"
       ],
@@ -777264,7 +777590,7 @@
       "type": "channel",
       "title": "ON Golf",
       "alternative_names": [],
-      "network": null,
+      "network": "ON Sports",
       "owners": [
         "Vietnam Cable Television Corporation Joint Stock Company"
       ],
@@ -777276,6 +777602,36 @@
       "website": "https://vtvcab.vn",
       "logo_url": "https://i.ibb.co/NbTq5Z6/IMG-2511.webp",
       "poster_url": "https://i.ibb.co/NbTq5Z6/IMG-2511.webp",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ONHomeShopping.vn",
+      "source": "iptv-org",
+      "source_id": "ONHomeShopping.vn",
+      "type": "channel",
+      "title": "ON Home Shopping",
+      "alternative_names": [
+        "VTV Huyndai Homeshopping"
+      ],
+      "network": null,
+      "owners": [
+        "Vietnam Cable Television Corporation Joint Stock Company"
+      ],
+      "country": "VN",
+      "categories": [
+        "shop"
+      ],
+      "launched": "2016-01-11",
+      "website": "https://vtvcab.vn",
+      "logo_url": "https://i.imgur.com/g6it2z6.png",
+      "poster_url": "https://i.imgur.com/g6it2z6.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -777906,7 +778262,7 @@
       "type": "channel",
       "title": "ON Sports",
       "alternative_names": [],
-      "network": null,
+      "network": "ON Sports",
       "owners": [
         "Vietnam Cable Television Corporation Joint Stock Company"
       ],
@@ -777934,7 +778290,7 @@
       "type": "channel",
       "title": "ON Sports News",
       "alternative_names": [],
-      "network": null,
+      "network": "ON Sports",
       "owners": [
         "Vietnam Cable Television Corporation Joint Stock Company"
       ],
@@ -777962,7 +778318,7 @@
       "type": "channel",
       "title": "ON Sports+",
       "alternative_names": [],
-      "network": null,
+      "network": "ON Sports",
       "owners": [
         "Vietnam Cable Television Corporation Joint Stock Company"
       ],
@@ -778584,6 +778940,35 @@
       "website": "https://onuaonline.com/",
       "logo_url": "https://i.imgur.com/ep0WP6Y.jpg",
       "poster_url": "https://i.imgur.com/ep0WP6Y.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ONVFamily.vn",
+      "source": "iptv-org",
+      "source_id": "ONVFamily.vn",
+      "type": "channel",
+      "title": "ON V Family",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Vietnam Cable Television Corporation Joint Stock Company"
+      ],
+      "country": "VN",
+      "categories": [
+        "entertainment",
+        "family"
+      ],
+      "launched": "2015-04-20",
+      "website": "https://vtvcab.vn",
+      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png",
+      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -789799,9 +790184,13 @@
       "source_id": "ParliamentofFiji.fj",
       "type": "channel",
       "title": "Parliament of Fiji",
-      "alternative_names": [],
+      "alternative_names": [
+        "Parliament Channel"
+      ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Parliament of the Republic of Fiji"
+      ],
       "country": "FJ",
       "categories": [
         "legislative"
@@ -790572,6 +790961,32 @@
       "website": "http://www.parvana.ge/",
       "logo_url": "https://i.imgur.com/e2Ydpp9.jpeg",
       "poster_url": "https://i.imgur.com/e2Ydpp9.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ParvasiTV.in",
+      "source": "iptv-org",
+      "source_id": "ParvasiTV.in",
+      "type": "channel",
+      "title": "Parvasi TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/ajzsbi.png",
+      "poster_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/ajzsbi.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -798120,6 +798535,35 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:PickleballNow.in",
+      "source": "iptv-org",
+      "source_id": "PickleballNow.in",
+      "type": "channel",
+      "title": "Pickleball Now",
+      "alternative_names": [],
+      "network": "Times Network",
+      "owners": [
+        "The Times Group",
+        "Bennett Coleman and Company Limited (BCCL)"
+      ],
+      "country": "IN",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": "https://pickleballnow.in/",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -826141,7 +826585,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "PF",
       "categories": [
@@ -868901,7 +869345,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "RE",
       "categories": [
@@ -896903,7 +897347,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "PM",
       "categories": [
@@ -900195,6 +900639,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/TW0ZzxN.png",
       "poster_url": "https://i.imgur.com/TW0ZzxN.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SanjhaTV.in",
+      "source": "iptv-org",
+      "source_id": "SanjhaTV.in",
+      "type": "channel",
+      "title": "Sanjha TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": "https://sanjhatv.com/",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fb64ab576dd7ed93942eaf11c3282afc.jpg",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fb64ab576dd7ed93942eaf11c3282afc.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -920952,6 +921422,32 @@
       }
     },
     {
+      "id": "iptv-org:SikhRatnavali.in",
+      "source": "iptv-org",
+      "source_id": "SikhRatnavali.in",
+      "type": "channel",
+      "title": "Sikh Ratnavali",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9b43911f42d41a830545872837ac58a2.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9b43911f42d41a830545872837ac58a2.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:SikhSpiritualCentreRexdale.ca",
       "source": "iptv-org",
       "source_id": "SikhSpiritualCentreRexdale.ca",
@@ -923669,6 +924165,32 @@
       "website": "https://sitvhn.com/",
       "logo_url": "https://i.imgur.com/w5aKt2l.png",
       "poster_url": "https://i.imgur.com/w5aKt2l.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SivanTempleTV.in",
+      "source": "iptv-org",
+      "source_id": "SivanTempleTV.in",
+      "type": "channel",
+      "title": "Sivan Temple TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": "https://www.sivantv.com/",
+      "logo_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/ohxtzi.png",
+      "poster_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/ohxtzi.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -939543,6 +940065,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/LEih5UL.png",
       "poster_url": "https://i.imgur.com/LEih5UL.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SkyVoices.it",
+      "source": "iptv-org",
+      "source_id": "SkyVoices.it",
+      "type": "channel",
+      "title": "Sky Voices",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Comcast Corporation"
+      ],
+      "country": "IT",
+      "categories": [],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0c/Sky_Voices.svg/revision/latest?cb=20261020235003",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/0/0c/Sky_Voices.svg/revision/latest?cb=20261020235003",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -986414,6 +986962,32 @@
       }
     },
     {
+      "id": "iptv-org:SuperTennisPlus.it",
+      "source": "iptv-org",
+      "source_id": "SuperTennisPlus.it",
+      "type": "channel",
+      "title": "SuperTennis+",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IT",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://mediaverse.supertennix.hiway.media/image/2026/06/03/6a1fed26/supertennis-logo.png?webp&q=100&size=495x-",
+      "poster_url": "https://mediaverse.supertennix.hiway.media/image/2026/06/03/6a1fed26/supertennis-logo.png?webp&q=100&size=495x-",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:SuperToons.bg",
       "source": "iptv-org",
       "source_id": "SuperToons.bg",
@@ -1008226,6 +1008800,36 @@
       }
     },
     {
+      "id": "iptv-org:TeleMag.ru",
+      "source": "iptv-org",
+      "source_id": "TeleMag.ru",
+      "type": "channel",
+      "title": "TeleMag",
+      "alternative_names": [
+        "ТелеМаг"
+      ],
+      "network": null,
+      "owners": [
+        "Semeynyy magazin"
+      ],
+      "country": "RU",
+      "categories": [
+        "shop"
+      ],
+      "launched": null,
+      "website": "https://telemag.ru/",
+      "logo_url": "https://s.rbk.ru/v1_companies_s3/media/trademarks/09d87d0a-0495-4e4e-aa3b-19ef69a98227.jpg",
+      "poster_url": "https://s.rbk.ru/v1_companies_s3/media/trademarks/09d87d0a-0495-4e4e-aa3b-19ef69a98227.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Telemagino.ca",
       "source": "iptv-org",
       "source_id": "Telemagino.ca",
@@ -1023875,6 +1024479,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:TheBonus.in",
+      "source": "iptv-org",
+      "source_id": "TheBonus.in",
+      "type": "channel",
+      "title": "The Bonus",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "business"
+      ],
+      "launched": null,
+      "website": "https://www.amarujalabonus.com/",
+      "logo_url": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bonus-1792417058870.jpg",
+      "poster_url": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bonus-1792417058870.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1078380,7 +1079010,9 @@
       "title": "TVGE",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Gobierno de Guinea Ecuatorial"
+      ],
       "country": "GQ",
       "categories": [
         "general"
@@ -1078406,7 +1079038,9 @@
       "title": "TVGE Internacional",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Gobierno de Guinea Ecuatorial"
+      ],
       "country": "GQ",
       "categories": [
         "general"
@@ -1130530,6 +1131164,32 @@
       }
     },
     {
+      "id": "iptv-org:ViiMEDIA.in",
+      "source": "iptv-org",
+      "source_id": "ViiMEDIA.in",
+      "type": "channel",
+      "title": "Vii MEDIA",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://viimediatv.com/",
+      "logo_url": "https://yt3.googleusercontent.com/UYTVPDOHTs9b-v1h2pAUHC_e8I_QRTUITTutft_5hOGC2YLL2-jtgD0xaSWZGOfWjmXKjL3AexE=s1200",
+      "poster_url": "https://yt3.googleusercontent.com/UYTVPDOHTs9b-v1h2pAUHC_e8I_QRTUITTutft_5hOGC2YLL2-jtgD0xaSWZGOfWjmXKjL3AexE=s1200",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:VijaySuper.in",
       "source": "iptv-org",
       "source_id": "VijaySuper.in",
@@ -1143460,7 +1144120,7 @@
       ],
       "network": null,
       "owners": [
-        "France Televisions"
+        "France Télévisions"
       ],
       "country": "WF",
       "categories": [
@@ -1170364,7 +1171024,9 @@
       "title": "Yongwe TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Harerimana Joseph"
+      ],
       "country": "RW",
       "categories": [
         "general"
@@ -1189928,23 +1190590,6 @@
       }
     },
     {
-      "id": "iptv-org-in:JalshaMovies.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "JalshaMovies.in@HD",
-      "type": "channel",
-      "title": "Jalsha Movies HD (1080p)",
-      "logo_url": "https://i.imgur.com/25eWjX2.png",
-      "poster_url": "https://i.imgur.com/25eWjX2.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:JanTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "JanTV.in@SD",
@@ -1195623,23 +1196268,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonyMax1.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyMax1.in@SD",
-      "type": "channel",
-      "title": "Sony Max 1 (720p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonyPal.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyPal.in@SD",
@@ -1195868,23 +1196496,6 @@
       "title": "Star Sports 2 Telugu HD (576p)",
       "logo_url": "https://i.imgur.com/m7DvvqF.png",
       "poster_url": "https://i.imgur.com/m7DvvqF.png",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarSportsSelect2.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarSportsSelect2.in@HD",
-      "type": "channel",
-      "title": "Star Sports Select 2 HD (720p)",
-      "logo_url": "https://i.imgur.com/FtRT73R.png",
-      "poster_url": "https://i.imgur.com/FtRT73R.png",
       "group": "Sports",
       "language": null,
       "country": "India",
@@ -1198020,28 +1198631,11 @@
       }
     },
     {
-      "id": "iptv-org-in:ZeeAction.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeAction.in@SD",
-      "type": "channel",
-      "title": "Zee Action (576p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:ZeeBangla.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "ZeeBangla.in@HD",
       "type": "channel",
-      "title": "Zee Bangla HD (1080p)",
+      "title": "Zee Bangla HD (720p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
       "group": "Entertainment",
