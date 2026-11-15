@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T22:41:42.649377+00:00",
+  "generated_at": "2026-11-15T06:54:33.265365+00:00",
   "source_count": 5,
-  "item_count": 35913,
+  "item_count": 35923,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30813
+    "channel": 30823
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29988
+      "count": 30000
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 825
+      "count": 823
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -1252,33 +1252,30 @@
       "source": "Cinemeta",
       "source_id": "tt12590266",
       "type": "movie",
-      "title": "I See Ice",
-      "original_title": "I See Ice",
-      "overview": "George Bright is a props man in an ice ballet company, and a keen amateur photographer who accidentally snaps crooks at work. Comic complications ensue....",
-      "release_date": null,
-      "year": "1938",
+      "title": "Cyberpunk: Edgerunners",
+      "original_title": "Cyberpunk: Edgerunners",
+      "overview": "A Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
+      "release_date": "2022-09-13T00:00:00.000Z",
+      "year": "2022",
       "rating": 8.3,
       "vote_count": null,
       "genres": [
-        "Comedy"
+        "Animation",
+        "Action",
+        "Adventure"
       ],
-      "poster_url": "https://live.metahub.space/poster/small/tt12590266/img",
-      "backdrop_url": "https://live.metahub.space/background/medium/tt12590266/img",
-      "banner_url": "https://live.metahub.space/background/medium/tt12590266/img",
-      "logo_url": "https://live.metahub.space/logo/medium/tt12590266/img",
+      "poster_url": "https://images.metahub.space/poster/small/tt12590266/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt12590266/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt12590266/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt12590266/img",
       "detail_url": "https://www.imdb.com/title/tt12590266/",
       "cast": [
-        "George Formby",
-        "Kay Walsh",
-        "Betty Stockfeld"
+        "Kentarô Tone",
+        "Koki Uchiyama",
+        "Momoka Terasawa"
       ],
-      "crew": [
-        {
-          "name": "Anthony Kimmins",
-          "job": "Director"
-        }
-      ],
-      "runtime": "84 min",
+      "crew": [],
+      "runtime": "27 min",
       "country": "Japan, United States, Poland",
       "reviews": [],
       "review_count": null,
@@ -2869,7 +2866,7 @@
         "Martin Starr"
       ],
       "crew": [],
-      "runtime": "40 min",
+      "runtime": "41 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -3053,7 +3050,7 @@
         "Robert Aramayo"
       ],
       "crew": [],
-      "runtime": "69 min",
+      "runtime": "68 min",
       "country": "United States, New Zealand, Canada",
       "reviews": [],
       "review_count": null,
@@ -112736,7 +112733,7 @@
       "type": "anime",
       "title": "Mobile Suit Gundam: The 08th MS Team",
       "original_title": "機動戦士ガンダム 第08MS小隊",
-      "romaji_title": "Kidou Senshi Gundam: Dai 08 MS Shotai",
+      "romaji_title": "Kidou Senshi Gundam: Dai 08 MS Shoutai",
       "overview": "UC 0079 - After the success of Operation Odessa, more and more Earth Federation soldiers are sent to earth to free it from the hands of the Principality of Zeon. As Zeonic troops retreat to unknown parts of the world, it's up to the Earth Federation Ground Force to find them and exterminate them. Ensign Shiro Amada is made leader of the 08th MS Team, leading a team of Ground Type Gundams into battle. His mission: to distract the enemy and find a mysterious new Zeon weapon. But can he complete it when he falls in love with a Zeon pilot, named Aina Sahalin? (Source: Otakufreakmk2, copyedited by Kolokotronis)",
       "release_date": null,
       "year": 1996,
@@ -270175,6 +270172,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:AsianetCinema.in",
+      "source": "iptv-org",
+      "source_id": "AsianetCinema.in",
+      "type": "channel",
+      "title": "Asianet Cinema",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png",
+      "poster_url": "https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -453967,6 +453990,32 @@
       }
     },
     {
+      "id": "iptv-org:EBCLifelongLearning.kh",
+      "source": "iptv-org",
+      "source_id": "EBCLifelongLearning.kh",
+      "type": "channel",
+      "title": "EBC Lifelong Learning",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "KH",
+      "categories": [
+        "education"
+      ],
+      "launched": null,
+      "website": "https://ebc.edu.kh/",
+      "logo_url": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+      "poster_url": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:EBCMovie.tw",
       "source": "iptv-org",
       "source_id": "EBCMovie.tw",
@@ -460066,6 +460115,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Elec2rakTV.th",
+      "source": "iptv-org",
+      "source_id": "Elec2rakTV.th",
+      "type": "channel",
+      "title": "Elec2rak TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "TH",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://www.elec2rak.com/",
+      "logo_url": "https://www.elec2rak.com/images/icon-512-dark.png",
+      "poster_url": "https://www.elec2rak.com/images/icon-512-dark.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -502093,6 +502168,58 @@
       "website": "https://antenaplay.ro/live/formula-1-live",
       "logo_url": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
       "poster_url": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Formula2AntenaPlay.ro",
+      "source": "iptv-org",
+      "source_id": "Formula2AntenaPlay.ro",
+      "type": "channel",
+      "title": "Formula 2 AntenaPlay",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": "https://antenaplay.ro/live",
+      "logo_url": "https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png",
+      "poster_url": "https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:FormulaAcademyAntenaPlay.ro",
+      "source": "iptv-org",
+      "source_id": "FormulaAcademyAntenaPlay.ro",
+      "type": "channel",
+      "title": "Formula Academy AntenaPlay",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": "https://antenaplay.ro/live",
+      "logo_url": "https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png",
+      "poster_url": "https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -550506,8 +550633,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
-      "poster_url": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
+      "logo_url": "https://i.imgur.com/J565WH1.png",
+      "poster_url": "https://i.imgur.com/J565WH1.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -728380,6 +728507,32 @@
       }
     },
     {
+      "id": "iptv-org:NBAAntenaPlay.ro",
+      "source": "iptv-org",
+      "source_id": "NBAAntenaPlay.ro",
+      "type": "channel",
+      "title": "NBA AntenaPlay",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": "https://antenaplay.ro/live",
+      "logo_url": "https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png",
+      "poster_url": "https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:NBALeaguePass.us",
       "source": "iptv-org",
       "source_id": "NBALeaguePass.us",
@@ -759294,6 +759447,32 @@
       }
     },
     {
+      "id": "iptv-org:NovosilkyTV.ua",
+      "source": "iptv-org",
+      "source_id": "NovosilkyTV.ua",
+      "type": "channel",
+      "title": "Novosilky TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "UA",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.postimg.cc/13kpSHfR/91d432dd-b9c5-40de-a711-7e8c7349abae.jpg",
+      "poster_url": "https://i.postimg.cc/13kpSHfR/91d432dd-b9c5-40de-a711-7e8c7349abae.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:NovoTempo.br",
       "source": "iptv-org",
       "source_id": "NovoTempo.br",
@@ -778960,7 +779139,7 @@
       "source": "iptv-org",
       "source_id": "ONVFamily.vn",
       "type": "channel",
-      "title": "ON V Family",
+      "title": "ON VFamily",
       "alternative_names": [],
       "network": null,
       "owners": [
@@ -868100,6 +868279,34 @@
       }
     },
     {
+      "id": "iptv-org:RepublicBusiness.in",
+      "source": "iptv-org",
+      "source_id": "RepublicBusiness.in",
+      "type": "channel",
+      "title": "Republic Business",
+      "alternative_names": [],
+      "network": "Republic Media",
+      "owners": [
+        "ARG Outlier Media Pvt. Ltd."
+      ],
+      "country": "IN",
+      "categories": [
+        "business"
+      ],
+      "launched": "2026-11-02",
+      "website": null,
+      "logo_url": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+      "poster_url": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:RepublicKannada.in",
       "source": "iptv-org",
       "source_id": "RepublicKannada.in",
@@ -875208,7 +875415,14 @@
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
-      "epg_sources": [],
+      "epg_sources": [
+        {
+          "site": "content.astro.com.my",
+          "site_name": "ROCK X Stream",
+          "language": "en",
+          "sources": []
+        }
+      ],
       "playback": {
         "available": false,
         "provider": null
@@ -897651,6 +897865,34 @@
       "website": "https://www.sakti.tv/",
       "logo_url": "https://i.imgur.com/IDNjMfQ.png",
       "poster_url": "https://i.imgur.com/IDNjMfQ.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SakuranboTV.jp",
+      "source": "iptv-org",
+      "source_id": "SakuranboTV.jp",
+      "type": "channel",
+      "title": "Sakuranbo TV",
+      "alternative_names": [
+        "さくらんぼテレビ"
+      ],
+      "network": "FNN/FNS",
+      "owners": [],
+      "country": "JP",
+      "categories": [
+        "general"
+      ],
+      "launched": "1997-04-01",
+      "website": "https://www.sakuranbo.co.jp/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -941782,6 +942024,38 @@
       }
     },
     {
+      "id": "iptv-org:SmashRadioTT.tt",
+      "source": "iptv-org",
+      "source_id": "SmashRadioTT.tt",
+      "type": "channel",
+      "title": "Smash Radio TT",
+      "alternative_names": [
+        "Smash Radio Live",
+        "Smash Radio WebTV"
+      ],
+      "network": null,
+      "owners": [
+        "Arnold Lindow"
+      ],
+      "country": "TT",
+      "categories": [
+        "music",
+        "entertainment"
+      ],
+      "launched": "2020-01-01",
+      "website": "https://www.smashradiott.com",
+      "logo_url": "https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png",
+      "poster_url": "https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:SmashTV.mt",
       "source": "iptv-org",
       "source_id": "SmashTV.mt",
@@ -944253,8 +944527,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": null,
-      "poster_url": null,
+      "logo_url": "https://i.imgur.com/92Eld4A.jpeg",
+      "poster_url": "https://i.imgur.com/92Eld4A.jpeg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -945815,6 +946089,34 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:SongTV.us",
+      "source": "iptv-org",
+      "source_id": "SongTV.us",
+      "type": "channel",
+      "title": "Song TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Mobibase"
+      ],
+      "country": "US",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://www.mobibase.com/",
+      "logo_url": "https://static.mobiletv.mobibase.com/html/logo/hd/channel_ld_495.png",
+      "poster_url": "https://static.mobiletv.mobibase.com/html/logo/hd/channel_ld_495.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1172249,6 +1172551,34 @@
       }
     },
     {
+      "id": "iptv-org:YTSYamagataTV.jp",
+      "source": "iptv-org",
+      "source_id": "YTSYamagataTV.jp",
+      "type": "channel",
+      "title": "YTS Yamagata TV",
+      "alternative_names": [
+        "YTS山形テレビ"
+      ],
+      "network": "ANN/TV Asahi Network",
+      "owners": [],
+      "country": "JP",
+      "categories": [
+        "general"
+      ],
+      "launched": "1970-04-01",
+      "website": "https://www.yts.co.jp/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:YTV.bw",
       "source": "iptv-org",
       "source_id": "YTV.bw",
@@ -1185870,23 +1186200,6 @@
       }
     },
     {
-      "id": "iptv-org-in:AmarUjala.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "AmarUjala.in@SD",
-      "type": "channel",
-      "title": "AmarUjala (1080p)",
-      "logo_url": "https://i.imgur.com/ndQ8LZp.png",
-      "poster_url": "https://i.imgur.com/ndQ8LZp.png",
-      "group": "News",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:AMNTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "AMNTV.in@SD",
@@ -1186302,23 +1186615,6 @@
       "title": "Asianet Suvarna News (720p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540",
-      "group": "News",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:AsomLive24.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "AsomLive24.in@SD",
-      "type": "channel",
-      "title": "Asom Live 24 (576p)",
-      "logo_url": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
-      "poster_url": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
       "group": "News",
       "language": null,
       "country": "India",
