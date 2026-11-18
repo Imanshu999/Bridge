@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T21:10:43.911134+00:00",
+  "generated_at": "2026-11-18T07:48:54.941067+00:00",
   "source_count": 5,
-  "item_count": 35920,
+  "item_count": 35923,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30820
+    "channel": 30823
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29997
+      "count": 30004
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 823
+      "count": 819
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -1250,44 +1250,6 @@
       }
     },
     {
-      "id": "cinemeta:movie:tt27041231",
-      "source": "Cinemeta",
-      "source_id": "tt27041231",
-      "type": "movie",
-      "title": "Musk",
-      "original_title": "Musk",
-      "overview": "A thorough and unvarnished analysis of Elon Musk, a technology billionaire who serves as the CEO of Tesla, SpaceX, and Twitter.",
-      "release_date": "2026-10-16T00:00:00.000Z",
-      "year": "2026",
-      "rating": null,
-      "vote_count": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt27041231/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt27041231/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt27041231/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt27041231/img",
-      "detail_url": "https://www.imdb.com/title/tt27041231/",
-      "cast": [
-        "Elon Musk"
-      ],
-      "crew": [
-        {
-          "name": "Alex Gibney",
-          "job": "Director"
-        }
-      ],
-      "runtime": "238 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "cinemeta:movie:tt34384900",
       "source": "Cinemeta",
       "source_id": "tt34384900",
@@ -2117,6 +2079,48 @@
       ],
       "runtime": "123 min",
       "country": "United States, United Kingdom, Ireland",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:movie:tt29567915",
+      "source": "Cinemeta",
+      "source_id": "tt29567915",
+      "type": "movie",
+      "title": "Nuremberg",
+      "original_title": "Nuremberg",
+      "overview": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+      "release_date": "2025-11-07T00:00:00.000Z",
+      "year": "2025",
+      "rating": 7.3,
+      "vote_count": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt29567915/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt29567915/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt29567915/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt29567915/img",
+      "detail_url": "https://www.imdb.com/title/tt29567915/",
+      "cast": [
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon"
+      ],
+      "crew": [
+        {
+          "name": "James Vanderbilt",
+          "job": "Director"
+        }
+      ],
+      "runtime": "149 min",
+      "country": "United States, Hungary",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -5024,7 +5028,7 @@
       "title": "ERASED",
       "original_title": "僕だけがいない街",
       "romaji_title": "Boku dake ga Inai Machi",
-      "overview": "Satoru Fujinuma is a 29 year old manga artist struggling to make a name for himself following his debut. But, that was not the only thing in his life that Satoru was feeling frustrated about… He has a unique supernatural ability of being forced to prevent deaths and catastrophes by being sent back in time before the incident occurred, repeating time until the accident is prevented. One day, he gets involved in an accident that has him framed as a murderer. Desperate to save the victim, he sends himself back in time only to find himself as a grade-schooler one month before fellow classmate Kayo Hinazuki went missing. Satoru now embarks on a new quest: to save Kayo and solve the mystery behind her disappearance.",
+      "overview": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls \"Revival,\" to save many lives. However, when he is wrongfully accused of murdering someone close to him, Satoru is sent back to the past once again, but this time to 1988, 18 years in the past. Soon, he realizes that the murder may be connected to the abduction and killing of one of his classmates, the solitary and mysterious Kayo Hinazuki, that took place when he was a child. This is his chance to make things right. Boku dake ga Inai Machi follows Satoru in his mission to uncover what truly transpired 18 years ago and prevent the death of his classmate while protecting those he cares about in the present. (Source: MAL Rewrite)",
       "release_date": null,
       "year": 2016,
       "rating": 8.1,
@@ -48588,7 +48592,7 @@
       "title": "Tokyo Magnitude 8.0",
       "original_title": "東京マグニチュード8.0",
       "romaji_title": "Tokyo Magnitude 8.0",
-      "overview": "The premise of the project is the 70% possibility that a magnitude 7.0 earthquake will occur in Tokyo in the next 30 years. The anime depicts what would happen if an 8.0 earthquake took place. The story centers on Mirai, a middle school freshman girl who goes to Tokyo&rsquo;s artificial Odaiba Island for a robot exhibition with her brother Yuuki at the start of summer vacation. A powerful tremor emanates from an ocean trench, the famed Tokyo Tower and Rainbow Bridge crumble and fall, and the landscape of Tokyo changes in an instant. With the help of a motorcycle delivery woman named Mari who they meet on Odaiba, Mirai and Yuuki strive to head back to their Setagaya home in western Tokyo.",
+      "overview": "Middle school student Mirai Onozawa is dissatisfied with her family circumstances and, in a moment of frustration, wishes to tear everything apart. Unfortunately, these destructive thoughts seem to come true in the form of a magnitude 8.0 earthquake just a few moments later. When summer vacation begins, Mirai reluctantly takes her younger brother Yuuki to Odaiba, where a robot exhibition that he wanted to go to is being held. However, while they are in the exhibition center, the fury of a major earthquake shakes the Kanto region; helpless, both kids witness the devastating power of this natural disaster as it brings the city to its knees. In its aftermath, they stumble upon Mari Kusakabe, a motorcyclist and single mother who decides to help the young siblings. Aiming to return to their homes and reunite with their families, the group sets off on a long and hard journey through the decimated city. (Source: MAL Rewrite)",
       "release_date": null,
       "year": 2009,
       "rating": 7.7,
@@ -97977,7 +97981,7 @@
         "Action",
         "Comedy"
       ],
-      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204363-rDHWhXs48Ygl.jpg",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204363-MtBgHE8uhEpJ.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "logo_url": null,
@@ -98498,8 +98502,8 @@
         "Supernatural"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167486-EVz4sqKjf7W4.jpg",
-      "backdrop_url": null,
-      "banner_url": null,
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167486-oguMeOjEWu3L.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167486-oguMeOjEWu3L.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/167486",
       "format": "OVA",
@@ -109616,8 +109620,8 @@
         "Fantasy"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
-      "backdrop_url": null,
-      "banner_url": null,
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204389-PFtzs8KcRzCz.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204389-PFtzs8KcRzCz.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/204389",
       "format": "ONA",
@@ -195940,10 +195944,10 @@
       "source": "AniList",
       "source_id": 187316,
       "type": "anime",
-      "title": "Gensou Suikoden",
+      "title": "Suikoden",
       "original_title": "幻想水滸伝",
       "romaji_title": "Gensou Suikoden",
-      "overview": "Two young boys... the hero, Riliu, and his best friend Jowy, were members of a youth brigade of their home nation, the Highland Kingdom - a powerful military nation located in the north-east of the Dunan region. The two of them looked up at the same starry skies, slept in the same tent, and believed in the same future. Once the fighting was over, and the night ended, their daily lives were sure to return. Contrary to their hopes, the two boys become swept up in the whirlpool of fate, guided by the flames of war. The powerless boys reached for, and grasped immense power. As the 108 stars shine brightly in the murky horizon, the boys step forward, each with their own beliefs for an answer-less question. (Source: Official Website, translated) Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.",
+      "overview": "Riliu and Jowy have always fought side by side, dreaming of a future beyond the battlefield. But when war engulfs the Highland Kingdom, the childhood friends are swept into a struggle far greater than themselves. As the 108 Stars of Destiny begin to gather, the boys must face a conflict that will challenge their beliefs and put their friendship to the test. (Source: Crunchyroll) Note: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.",
       "release_date": null,
       "year": 2026,
       "rating": 5.8,
@@ -213853,6 +213857,34 @@
       "website": "http://www.sport5.co.il/",
       "logo_url": "https://i.imgur.com/0yr3yvd.png",
       "poster_url": "https://i.imgur.com/0yr3yvd.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:5Max.il",
+      "source": "iptv-org",
+      "source_id": "5Max.il",
+      "type": "channel",
+      "title": "5Max",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ],
+      "country": "IL",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.postimg.cc/XNmh01pH/5sport-max-il.png",
+      "poster_url": "https://i.postimg.cc/XNmh01pH/5sport-max-il.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -348510,6 +348542,34 @@
       }
     },
     {
+      "id": "iptv-org:CanalGuapa.py",
+      "source": "iptv-org",
+      "source_id": "CanalGuapa.py",
+      "type": "channel",
+      "title": "Canal Guapa",
+      "alternative_names": [
+        "Guapa"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "PY",
+      "categories": [
+        "lifestyle"
+      ],
+      "launched": null,
+      "website": "https://canalguapa.tv/",
+      "logo_url": "https://canalguapa.tv/guapa-isologo.png",
+      "poster_url": "https://canalguapa.tv/guapa-isologo.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:CanalGuiaABE.bo",
       "source": "iptv-org",
       "source_id": "CanalGuiaABE.bo",
@@ -356228,6 +356288,34 @@
       "website": null,
       "logo_url": "https://i.imgur.com/VZcdWCf.jpeg",
       "poster_url": "https://i.imgur.com/VZcdWCf.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:CanalX2.do",
+      "source": "iptv-org",
+      "source_id": "CanalX2.do",
+      "type": "channel",
+      "title": "Canal X 2",
+      "alternative_names": [
+        "Canal X HD"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/NHxIu1p.png",
+      "poster_url": "https://i.imgur.com/NHxIu1p.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -661761,8 +661849,8 @@
       ],
       "launched": "1998-03-05",
       "website": "https://www.6play.fr/m6",
-      "logo_url": null,
-      "poster_url": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/6/68/M6music-95cde0867d.svg/revision/latest?cb=20200412210630",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/6/68/M6music-95cde0867d.svg/revision/latest?cb=20200412210630",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -679679,6 +679767,30 @@
       "website": null,
       "logo_url": null,
       "poster_url": null,
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:MediavisionTV.in",
+      "source": "iptv-org",
+      "source_id": "MediavisionTV.in",
+      "type": "channel",
+      "title": "Mediavision TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://iptv.mediavisionlive.in/image/Media-Vision-TV.png",
+      "poster_url": "https://iptv.mediavisionlive.in/image/Media-Vision-TV.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -756836,6 +756948,36 @@
       }
     },
     {
+      "id": "iptv-org:Nova.me",
+      "source": "iptv-org",
+      "source_id": "Nova.me",
+      "type": "channel",
+      "title": "Nova",
+      "alternative_names": [
+        "Nova M"
+      ],
+      "network": null,
+      "owners": [
+        "Nova M d.o.o."
+      ],
+      "country": "ME",
+      "categories": [
+        "general"
+      ],
+      "launched": "2018-10-09",
+      "website": "https://novam.tv/",
+      "logo_url": "https://i.imgur.com/VOISNZc.png",
+      "poster_url": "https://i.imgur.com/VOISNZc.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Nova.rs",
       "source": "iptv-org",
       "source_id": "Nova.rs",
@@ -758436,43 +758578,6 @@
         {
           "site": "tvprofil.com",
           "site_name": "TV NOVA Pula",
-          "language": "hr",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:NovaTV.me",
-      "source": "iptv-org",
-      "source_id": "NovaTV.me",
-      "type": "channel",
-      "title": "Nova",
-      "alternative_names": [
-        "Nova M"
-      ],
-      "network": null,
-      "owners": [
-        "Nova M d.o.o."
-      ],
-      "country": "ME",
-      "categories": [
-        "general"
-      ],
-      "launched": "2018-10-09",
-      "website": "https://novam.tv/",
-      "logo_url": "https://i.imgur.com/VOISNZc.png",
-      "poster_url": "https://i.imgur.com/VOISNZc.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "tvprofil.com",
-          "site_name": "Nova M",
           "language": "hr",
           "sources": []
         }
@@ -842967,6 +843072,35 @@
       }
     },
     {
+      "id": "iptv-org:QudsunaTV.ps",
+      "source": "iptv-org",
+      "source_id": "QudsunaTV.ps",
+      "type": "channel",
+      "title": "Qudsuna TV",
+      "alternative_names": [
+        "قناة قدسنا المرئية",
+        " قدسنا"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "PS",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://qudsunatv.com/",
+      "logo_url": "https://drive.google.com/file/d/1LEl-AhX5HZmP05kfBk4fwSmtJyPjVT3x/view?usp=drive_link",
+      "poster_url": "https://drive.google.com/file/d/1LEl-AhX5HZmP05kfBk4fwSmtJyPjVT3x/view?usp=drive_link",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:QueensUnitedTV.us",
       "source": "iptv-org",
       "source_id": "QueensUnitedTV.us",
@@ -847059,6 +847193,32 @@
       "website": "http://radioclasicapotosi.com/",
       "logo_url": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
       "poster_url": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:RADIOCLUBDJTV.pl",
+      "source": "iptv-org",
+      "source_id": "RADIOCLUBDJTV.pl",
+      "type": "channel",
+      "title": "RADIO CLUB DJ TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "PL",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://radioclubdj.pro/studio/logo.png",
+      "poster_url": "https://radioclubdj.pro/studio/logo.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -864631,6 +864791,36 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:RedeImpactoGospelTV.br",
+      "source": "iptv-org",
+      "source_id": "RedeImpactoGospelTV.br",
+      "type": "channel",
+      "title": "Rede Impacto Gospel TV",
+      "alternative_names": [
+        "TV Impacto Gospel"
+      ],
+      "network": "Rede Impacto Gospel",
+      "owners": [
+        "Delson Silva"
+      ],
+      "country": "BR",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": "https://redeimpactogospel.com/",
+      "logo_url": "https://redeimpactogospel.com/assets/logo-512.png",
+      "poster_url": "https://redeimpactogospel.com/assets/logo-512.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -888831,7 +889021,9 @@
       "title": "RTV Canal 57",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Mundo Cable"
+      ],
       "country": "SV",
       "categories": [
         "general"
@@ -1002599,7 +1002791,9 @@
       "source_id": "Tele1.sv",
       "type": "channel",
       "title": "Tele1",
-      "alternative_names": [],
+      "alternative_names": [
+        "Tele Uno"
+      ],
       "network": null,
       "owners": [
         "Grupo de Medios Uno"
@@ -1003651,6 +1003845,34 @@
       "website": null,
       "logo_url": "https://i.imgur.com/PvbEeCo.jpeg",
       "poster_url": "https://i.imgur.com/PvbEeCo.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:TeleAndes.co",
+      "source": "iptv-org",
+      "source_id": "TeleAndes.co",
+      "type": "channel",
+      "title": "TeleAndes",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Interwir S.A.S."
+      ],
+      "country": "CO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://teleandes.co/",
+      "logo_url": "https://i.imgur.com/0kZrwD3.png",
+      "poster_url": "https://i.imgur.com/0kZrwD3.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1009194,7 +1009416,7 @@
         "culture"
       ],
       "launched": "2001-04-19",
-      "website": null,
+      "website": "https://telemante.io/",
       "logo_url": "https://i.imgur.com/q19REuC.png",
       "poster_url": "https://i.imgur.com/q19REuC.png",
       "backdrop_url": null,
@@ -1035706,7 +1035928,9 @@
       "source_id": "TMCPalau.pw",
       "type": "channel",
       "title": "TMC Palau",
-      "alternative_names": [],
+      "alternative_names": [
+        "TMC 38"
+      ],
       "network": null,
       "owners": [
         "Talungab Media Company"
@@ -1040182,34 +1040406,6 @@
       "website": null,
       "logo_url": "https://i.imgur.com/zxyYP7y.png",
       "poster_url": "https://i.imgur.com/zxyYP7y.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:TomSingsTV.us",
-      "source": "iptv-org",
-      "source_id": "TomSingsTV.us",
-      "type": "channel",
-      "title": "Tom Sings TV",
-      "alternative_names": [],
-      "network": null,
-      "owners": [
-        "Tom Sings Group"
-      ],
-      "country": "US",
-      "categories": [
-        "kids"
-      ],
-      "launched": "2026-11-08",
-      "website": "https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4",
-      "logo_url": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
-      "poster_url": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1174026,7 +1174222,8 @@
       "alternative_names": [],
       "network": null,
       "owners": [
-        "Groupe CANAL+"
+        "Groupe CANAL+",
+        "Zacu Entertainment"
       ],
       "country": "RW",
       "categories": [
@@ -1186501,23 +1186698,6 @@
       }
     },
     {
-      "id": "iptv-org-in:AryanTVNational.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "AryanTVNational.in@SD",
-      "type": "channel",
-      "title": "Aryan TV National (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png",
-      "group": "Undefined",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:AshwaveegaNews24x7.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "AshwaveegaNews24x7.in@SD",
@@ -1188915,23 +1189095,6 @@
       }
     },
     {
-      "id": "iptv-org-in:Dukhniwaran.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Dukhniwaran.in@SD",
-      "type": "channel",
-      "title": "Dukhniwaran (576p)",
-      "logo_url": "https://papaji.freetvindia.com/media/channels/dukhniwaran.png",
-      "poster_url": "https://papaji.freetvindia.com/media/channels/dukhniwaran.png",
-      "group": "Religious",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:DY365.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "DY365.in@SD",
@@ -1189789,23 +1189952,6 @@
       "title": "GoodNews TV (720p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png",
-      "group": "Religious",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:GospelTVIndia.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "GospelTVIndia.in@SD",
-      "type": "channel",
-      "title": "Gospel TV India (576p)",
-      "logo_url": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
-      "poster_url": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
       "group": "Religious",
       "language": null,
       "country": "India",
@@ -1191078,7 +1191224,7 @@
       "source": "iptv-org India M3U",
       "source_id": "KNewsIndia.in@SD",
       "type": "channel",
-      "title": "K News India (720p)",
+      "title": "K News India (576p)",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
       "group": "News",
@@ -1192544,23 +1192690,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540",
       "group": "Music",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:NagalandTV.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "NagalandTV.in@SD",
-      "type": "channel",
-      "title": "Nagaland TV (576p)",
-      "logo_url": "https://i.imgur.com/EBEIpPo.png",
-      "poster_url": "https://i.imgur.com/EBEIpPo.png",
-      "group": "News",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1194784,7 +1194913,7 @@
       "source": "iptv-org India M3U",
       "source_id": "PunjabiBeatsHD.in@HD",
       "type": "channel",
-      "title": "Punjabi Beats HD (720p)",
+      "title": "Punjabi Beats HD (576p)",
       "logo_url": "https://i.imgur.com/1Za9gNQ.jpg",
       "poster_url": "https://i.imgur.com/1Za9gNQ.jpg",
       "group": "Music",
@@ -1196582,6 +1196711,23 @@
       }
     },
     {
+      "id": "iptv-org-in:SonySportsTen3Hindi.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "SonySportsTen3Hindi.in@SD",
+      "type": "channel",
+      "title": "Sony Sports Ten 3 Hindi (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+      "group": "Sports",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:SonyWah.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyWah.in@SD",
@@ -1196603,7 +1196749,7 @@
       "source": "iptv-org India M3U",
       "source_id": "SonyYay.in@SD",
       "type": "channel",
-      "title": "Sony Yay! (576p)",
+      "title": "Sony Yay! (1080p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
       "group": "Animation;Kids",
@@ -1197116,23 +1197262,6 @@
       "title": "Sun Surya HD (1080p)",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SunTV.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SunTV.in@HD",
-      "type": "channel",
-      "title": "Sun TV HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
       "group": "Entertainment",
       "language": null,
       "country": "India",
