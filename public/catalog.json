@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T20:54:41.175458+00:00",
+  "generated_at": "2026-11-20T07:36:27.724349+00:00",
   "source_count": 5,
-  "item_count": 35935,
+  "item_count": 35889,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30835
+    "channel": 30789
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 30002
+      "count": 29940
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 833
+      "count": 849
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -123601,7 +123601,7 @@
       "detail_url": "https://anilist.co/anime/834",
       "format": "SPECIAL",
       "status": "FINISHED",
-      "season": "SPRING",
+      "season": "WINTER",
       "season_year": 2006,
       "episodes_count": 1,
       "episode_duration_minutes": 33,
@@ -195447,7 +195447,7 @@
       "detail_url": "https://anilist.co/anime/995",
       "format": "OVA",
       "status": "FINISHED",
-      "season": "SPRING",
+      "season": "WINTER",
       "season_year": 2006,
       "episodes_count": 13,
       "episode_duration_minutes": 23,
@@ -303647,37 +303647,6 @@
       }
     },
     {
-      "id": "iptv-org:BestofTheDrewBarrymoreShow.se",
-      "source": "iptv-org",
-      "source_id": "BestofTheDrewBarrymoreShow.se",
-      "type": "channel",
-      "title": "Best of The Drew Barrymore Show",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/best-of-the-drew-barrymore-show-se/details",
-      "logo_url": "https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:BestofTheDrewBarrymoreShow.us",
       "source": "iptv-org",
       "source_id": "BestofTheDrewBarrymoreShow.us",
@@ -316508,36 +316477,6 @@
       "website": "https://www.bondiatv.org/",
       "logo_url": "https://i.imgur.com/VgRCu2U.png",
       "poster_url": "https://i.imgur.com/VgRCu2U.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:BondiRescue.se",
-      "source": "iptv-org",
-      "source_id": "BondiRescue.se",
-      "type": "channel",
-      "title": "Bondi Rescue",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/bondi-rescue-se/details",
-      "logo_url": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -358605,37 +358544,6 @@
       }
     },
     {
-      "id": "iptv-org:CarChase.se",
-      "source": "iptv-org",
-      "source_id": "CarChase.se",
-      "type": "channel",
-      "title": "Car Chase",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/car-chase-se/details",
-      "logo_url": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:CarChase.us",
       "source": "iptv-org",
       "source_id": "CarChase.us",
@@ -378107,36 +378015,6 @@
       "website": "http://www.cheddaru.com/",
       "logo_url": "https://i.imgur.com/o5SA7rz.png",
       "poster_url": "https://i.imgur.com/o5SA7rz.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Cheers.se",
-      "source": "iptv-org",
-      "source_id": "Cheers.se",
-      "type": "channel",
-      "title": "Cheers",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/cheers-fi/details",
-      "logo_url": "https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -411393,39 +411271,6 @@
       }
     },
     {
-      "id": "iptv-org:CSI.se",
-      "source": "iptv-org",
-      "source_id": "CSI.se",
-      "type": "channel",
-      "title": "CSI",
-      "alternative_names": [
-        "CBS CSI"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "CBS Broadcasting Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/csi-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:CSI.us",
       "source": "iptv-org",
       "source_id": "CSI.us",
@@ -430872,37 +430717,6 @@
       }
     },
     {
-      "id": "iptv-org:DiagnosisMurder.se",
-      "source": "iptv-org",
-      "source_id": "DiagnosisMurder.se",
-      "type": "channel",
-      "title": "Diagnosis Murder",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/diagnosis-murder-se/details",
-      "logo_url": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:DiagnosisMurder.us",
       "source": "iptv-org",
       "source_id": "DiagnosisMurder.us",
@@ -443046,36 +442860,6 @@
       "website": null,
       "logo_url": "https://cdn.m3u.cl/logo/1759_Docevision.png",
       "poster_url": "https://cdn.m3u.cl/logo/1759_Docevision.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:DocMartin.se",
-      "source": "iptv-org",
-      "source_id": "DocMartin.se",
-      "type": "channel",
-      "title": "Doc Martin",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/doc-martin-se/details",
-      "logo_url": "https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -486183,37 +485967,6 @@
       }
     },
     {
-      "id": "iptv-org:FamilyTies.se",
-      "source": "iptv-org",
-      "source_id": "FamilyTies.se",
-      "type": "channel",
-      "title": "Family Ties",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/family-ties-se/details",
-      "logo_url": "https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:FamilyTies.us",
       "source": "iptv-org",
       "source_id": "FamilyTies.us",
@@ -507385,36 +507138,6 @@
           "sources": []
         }
       ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Frasier.se",
-      "source": "iptv-org",
-      "source_id": "Frasier.se",
-      "type": "channel",
-      "title": "Frasier",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "general"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/frasier-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -541525,38 +541248,6 @@
       }
     },
     {
-      "id": "iptv-org:HappyDays.se",
-      "source": "iptv-org",
-      "source_id": "HappyDays.se",
-      "type": "channel",
-      "title": "Happy Days",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/happy-days-se/details",
-      "logo_url": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:HappyDays.us",
       "source": "iptv-org",
       "source_id": "HappyDays.us",
@@ -569815,39 +569506,6 @@
       }
     },
     {
-      "id": "iptv-org:iCarly.se",
-      "source": "iptv-org",
-      "source_id": "iCarly.se",
-      "type": "channel",
-      "title": "iCarly",
-      "alternative_names": [
-        "Nickelodeon iCarly"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "kids"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/icarly-se/details",
-      "logo_url": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:iCarly.us",
       "source": "iptv-org",
       "source_id": "iCarly.us",
@@ -587890,37 +587548,6 @@
       }
     },
     {
-      "id": "iptv-org:JAG.se",
-      "source": "iptv-org",
-      "source_id": "JAG.se",
-      "type": "channel",
-      "title": "JAG",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/jag-se/details",
-      "logo_url": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:JAG.us",
       "source": "iptv-org",
       "source_id": "JAG.us",
@@ -591241,39 +590868,6 @@
       "website": null,
       "logo_url": "https://i.imgur.com/C6SeqPM.jpeg",
       "poster_url": "https://i.imgur.com/C6SeqPM.jpeg",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:JerseyShore.se",
-      "source": "iptv-org",
-      "source_id": "JerseyShore.se",
-      "type": "channel",
-      "title": "Jersey Shore",
-      "alternative_names": [
-        "MTV Jersey Shore"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/jersey-shore-se/details",
-      "logo_url": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -662245,37 +661839,6 @@
       }
     },
     {
-      "id": "iptv-org:MacGyver.se",
-      "source": "iptv-org",
-      "source_id": "MacGyver.se",
-      "type": "channel",
-      "title": "MacGyver",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/macgyver-se/details",
-      "logo_url": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:MacGyver.us",
       "source": "iptv-org",
       "source_id": "MacGyver.us",
@@ -672645,38 +672208,6 @@
       "website": "https://matkanalen.tv/",
       "logo_url": "https://i.imgur.com/EqzBJdo.png",
       "poster_url": "https://i.imgur.com/EqzBJdo.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Matlock.se",
-      "source": "iptv-org",
-      "source_id": "Matlock.se",
-      "type": "channel",
-      "title": "Matlock",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/matlock-se/details",
-      "logo_url": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -691335,38 +690866,6 @@
       }
     },
     {
-      "id": "iptv-org:MissionImpossible.se",
-      "source": "iptv-org",
-      "source_id": "MissionImpossible.se",
-      "type": "channel",
-      "title": "Mission Impossible",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mission-impossible-se/details",
-      "logo_url": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:MissionImpossible.us",
       "source": "iptv-org",
       "source_id": "MissionImpossible.us",
@@ -706781,37 +706280,6 @@
       }
     },
     {
-      "id": "iptv-org:MTVAreYouTheOne.se",
-      "source": "iptv-org",
-      "source_id": "MTVAreYouTheOne.se",
-      "type": "channel",
-      "title": "MTV Are You The One?",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-are-you-the-one-fi/details",
-      "logo_url": "https://images.pluto.tv/channels/642e9da3c91e10000884e80f/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/642e9da3c91e10000884e80f/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:MTVAreyoutheOne.us",
       "source": "iptv-org",
       "source_id": "MTVAreyoutheOne.us",
@@ -707051,37 +706519,6 @@
       "website": "https://pluto.tv/en/live-tv/mtv-brave-es",
       "logo_url": "https://i.imgur.com/sB5QeoU.png",
       "poster_url": "https://i.imgur.com/sB5QeoU.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:MTVCatfish.se",
-      "source": "iptv-org",
-      "source_id": "MTVCatfish.se",
-      "type": "channel",
-      "title": "MTV Catfish",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-catfish-se/details",
-      "logo_url": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
-      "poster_url": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -707335,37 +706772,6 @@
       "website": "https://pluto.tv/live-tv/mtv-cribs-es-plus/details",
       "logo_url": "https://i.imgur.com/2tLrtdk.png",
       "poster_url": "https://i.imgur.com/2tLrtdk.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:MTVDating.se",
-      "source": "iptv-org",
-      "source_id": "MTVDating.se",
-      "type": "channel",
-      "title": "MTV Dating",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-dating-se/details",
-      "logo_url": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
-      "poster_url": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -708009,37 +707415,6 @@
       "website": "https://pluto.tv/live-tv/mtv-jerseys-es/details",
       "logo_url": "https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png",
       "poster_url": "https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:MTVJerseyShore.se",
-      "source": "iptv-org",
-      "source_id": "MTVJerseyShore.se",
-      "type": "channel",
-      "title": "MTV Jersey Shore",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-jersey-shore-fi/details",
-      "logo_url": "https://images.pluto.tv/channels/642e9c07479f6400085d75f1/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/642e9c07479f6400085d75f1/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -708785,39 +708160,6 @@
       }
     },
     {
-      "id": "iptv-org:MTVReality.se",
-      "source": "iptv-org",
-      "source_id": "MTVReality.se",
-      "type": "channel",
-      "title": "MTV Reality",
-      "alternative_names": [
-        "MTV Pride"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "general"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-pride-se-ptv1/details",
-      "logo_url": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
-      "poster_url": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:MTVReality.us",
       "source": "iptv-org",
       "source_id": "MTVReality.us",
@@ -708868,37 +708210,6 @@
       "website": "https://pluto.tv/live-tv/mtv-retro-au/details",
       "logo_url": "https://images.pluto.tv/channels/6493f52d157176000850b951/colorLogoPNG.png",
       "poster_url": "https://images.pluto.tv/channels/6493f52d157176000850b951/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:MTVRidiculousness.se",
-      "source": "iptv-org",
-      "source_id": "MTVRidiculousness.se",
-      "type": "channel",
-      "title": "MTV Ridiculousness",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-ridiculousness-se/details",
-      "logo_url": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
-      "poster_url": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -709159,37 +708470,6 @@
       "website": "https://pluto.tv/live-tv/mtv-tattoo-a-dos-es/details",
       "logo_url": "https://i.imgur.com/VisA1sY.png",
       "poster_url": "https://i.imgur.com/VisA1sY.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:MTVTeenMom.se",
-      "source": "iptv-org",
-      "source_id": "MTVTeenMom.se",
-      "type": "channel",
-      "title": "MTV Teen Mom",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/mtv-teen-mom-se/details",
-      "logo_url": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-      "poster_url": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -732273,39 +731553,6 @@
       }
     },
     {
-      "id": "iptv-org:NCIS.se",
-      "source": "iptv-org",
-      "source_id": "NCIS.se",
-      "type": "channel",
-      "title": "NCIS",
-      "alternative_names": [
-        "CBS NCIS"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "CBS Broadcasting Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/ncis-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:NCIS.us",
       "source": "iptv-org",
       "source_id": "NCIS.us",
@@ -732427,39 +731674,6 @@
       "website": "https://pluto.tv/live-tv/ncis-gibbsin-parhaat-fi/details",
       "logo_url": "https://images.pluto.tv/channels/6901d8e5a362b63a8ddd386e/colorLogoPNG_1763120880511.png",
       "poster_url": "https://images.pluto.tv/channels/6901d8e5a362b63a8ddd386e/colorLogoPNG_1763120880511.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:NCISLosAngeles.se",
-      "source": "iptv-org",
-      "source_id": "NCISLosAngeles.se",
-      "type": "channel",
-      "title": "NCIS: Los Angeles",
-      "alternative_names": [
-        "CBS NCIS: Los Angeles"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "CBS Broadcasting Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/ncis-los-angeles-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -767529,36 +766743,6 @@
       }
     },
     {
-      "id": "iptv-org:Numb3rs.se",
-      "source": "iptv-org",
-      "source_id": "Numb3rs.se",
-      "type": "channel",
-      "title": "Numb3rs",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/numb3rs-se/details",
-      "logo_url": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
-      "poster_url": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:Number1Ask.tr",
       "source": "iptv-org",
       "source_id": "Number1Ask.tr",
@@ -767706,36 +766890,6 @@
           "sources": []
         }
       ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Numbers.se",
-      "source": "iptv-org",
-      "source_id": "Numbers.se",
-      "type": "channel",
-      "title": "Numbers",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/numbers-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -799794,36 +798948,6 @@
       }
     },
     {
-      "id": "iptv-org:PimpMyRide.se",
-      "source": "iptv-org",
-      "source_id": "PimpMyRide.se",
-      "type": "channel",
-      "title": "Pimp My Ride",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pimp-my-ride-se/details",
-      "logo_url": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:PimpmyRide.us",
       "source": "iptv-org",
       "source_id": "PimpmyRide.us",
@@ -805877,74 +805001,6 @@
           "site": "pluto.tv",
           "site_name": "Pluto TV 90's Classics",
           "language": "fr",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:PlutoTVAction.se",
-      "source": "iptv-org",
-      "source_id": "PlutoTVAction.se",
-      "type": "channel",
-      "title": "Pluto TV Action",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-action-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Action",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Action",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Action",
-          "language": "sv",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Action",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Action",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Action",
-          "language": "sv",
           "sources": []
         }
       ],
@@ -813947,74 +813003,6 @@
       }
     },
     {
-      "id": "iptv-org:PlutoTVHorror.se",
-      "source": "iptv-org",
-      "source_id": "PlutoTVHorror.se",
-      "type": "channel",
-      "title": "Pluto TV Horror",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-horror-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Horror",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Horror",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Horror",
-          "language": "sv",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Horror",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Horror",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Horror",
-          "language": "sv",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:PlutoTVHorror.us",
       "source": "iptv-org",
       "source_id": "PlutoTVHorror.us",
@@ -814103,50 +813091,6 @@
           "site": "pluto.tv",
           "site_name": "Pluto TV Horror-Serien",
           "language": "de",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:PlutoTVHumor.se",
-      "source": "iptv-org",
-      "source_id": "PlutoTVHumor.se",
-      "type": "channel",
-      "title": "Pluto TV Humor",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "movies",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-humor-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Humor",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Humor",
-          "language": "da",
           "sources": []
         }
       ],
@@ -817814,61 +816758,6 @@
       }
     },
     {
-      "id": "iptv-org:PlutoTVParanormal.se",
-      "source": "iptv-org",
-      "source_id": "PlutoTVParanormal.se",
-      "type": "channel",
-      "title": "Pluto TV Paranormal",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "movies"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-paranormal-dk/details",
-      "logo_url": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Paranormal",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Paranormal",
-          "language": "sv",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Paranormal",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Paranormal",
-          "language": "sv",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:PlutoTVParanormal.us",
       "source": "iptv-org",
       "source_id": "PlutoTVParanormal.us",
@@ -819225,74 +818114,6 @@
           "site": "pluto.tv",
           "site_name": "Pluto TV Science",
           "language": "en",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:PlutoTVSciFi.se",
-      "source": "iptv-org",
-      "source_id": "PlutoTVSciFi.se",
-      "type": "channel",
-      "title": "Pluto TV Sci-Fi",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "movies"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-sci-fi-ptv3/details",
-      "logo_url": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Sci-Fi",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Sci-Fi",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Sci-Fi",
-          "language": "sv",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Sci-Fi",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Sci-Fi",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Sci-Fi",
-          "language": "sv",
           "sources": []
         }
       ],
@@ -822446,74 +821267,6 @@
       }
     },
     {
-      "id": "iptv-org:PlutoTVTrueCrime.se",
-      "source": "iptv-org",
-      "source_id": "PlutoTVTrueCrime.se",
-      "type": "channel",
-      "title": "Pluto TV True Crime",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "documentary"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-true-crime-fi/details",
-      "logo_url": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV True Crime",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV True Crime",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV True Crime",
-          "language": "sv",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV True Crime",
-          "language": "da",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV True Crime",
-          "language": "no",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV True Crime",
-          "language": "sv",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:PlutoTVTrueCrime.us",
       "source": "iptv-org",
       "source_id": "PlutoTVTrueCrime.us",
@@ -823367,48 +822120,6 @@
           "site": "pluto.tv",
           "site_name": "Pluto TV Western",
           "language": "it",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:PlutoTVWesterns.de",
-      "source": "iptv-org",
-      "source_id": "PlutoTVWesterns.de",
-      "type": "channel",
-      "title": "Pluto TV Westerns",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "movies"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/pluto-tv-westerns-gb/details",
-      "logo_url": "https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "i.mjh.nz",
-          "site_name": "Pluto TV Westerns",
-          "language": "en",
-          "sources": []
-        },
-        {
-          "site": "pluto.tv",
-          "site_name": "Pluto TV Westerns",
-          "language": "en",
           "sources": []
         }
       ],
@@ -851553,12 +850264,14 @@
         "Radio Télé Eclair"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Patrick Joseph"
+      ],
       "country": "HT",
       "categories": [
         "general"
       ],
-      "launched": null,
+      "launched": "1994-07-12",
       "website": "https://radioteleeclair.com/",
       "logo_url": "https://i.imgur.com/jV30pSq.png",
       "poster_url": "https://i.imgur.com/jV30pSq.png",
@@ -852258,6 +850971,34 @@
       "website": "https://www.superstarhaiti.com/",
       "logo_url": "https://i.imgur.com/GoaeyVV.png",
       "poster_url": "https://i.imgur.com/GoaeyVV.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:RadioTeleUnistar.ht",
+      "source": "iptv-org",
+      "source_id": "RadioTeleUnistar.ht",
+      "type": "channel",
+      "title": "Radio-Tele Unistar",
+      "alternative_names": [
+        "Radio-Télé Unistar"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "HT",
+      "categories": [
+        "culture"
+      ],
+      "launched": null,
+      "website": "https://www.teleunistar.tv/",
+      "logo_url": "https://i.imgur.com/YGhwEpV.png",
+      "poster_url": "https://i.imgur.com/YGhwEpV.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -858675,38 +857416,6 @@
       "website": "https://almajdtv.com/",
       "logo_url": "https://i.imgur.com/VnXBM19.png",
       "poster_url": "https://i.imgur.com/VnXBM19.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Rawhide.se",
-      "source": "iptv-org",
-      "source_id": "Rawhide.se",
-      "type": "channel",
-      "title": "Rawhide",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/rawhide-ptv3/details",
-      "logo_url": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
-      "poster_url": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -871711,38 +870420,6 @@
       "website": null,
       "logo_url": "https://i.imgur.com/QCRbXmf.png",
       "poster_url": "https://i.imgur.com/QCRbXmf.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Ridiculousness.de",
-      "source": "iptv-org",
-      "source_id": "Ridiculousness.de",
-      "type": "channel",
-      "title": "Ridiculousness",
-      "alternative_names": [
-        "MTV Ridiculousness"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/ridiculousness-fr/details",
-      "logo_url": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -892272,38 +890949,6 @@
       "website": "https://www.ruegentv.de/",
       "logo_url": "https://i.imgur.com/R9B9uZY.jpeg",
       "poster_url": "https://i.imgur.com/R9B9uZY.jpeg",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Rugrats.de",
-      "source": "iptv-org",
-      "source_id": "Rugrats.de",
-      "type": "channel",
-      "title": "Rugrats",
-      "alternative_names": [
-        "Nickelodeon Rugrats"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "kids"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/rugrats-es/details",
-      "logo_url": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -942962,38 +941607,6 @@
       }
     },
     {
-      "id": "iptv-org:SmithsonianChannelSelects.se",
-      "source": "iptv-org",
-      "source_id": "SmithsonianChannelSelects.se",
-      "type": "channel",
-      "title": "Smithsonian Channel Selects",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "SNI/SI Networks L.L.C.",
-        "Smithsonian Institution",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "documentary"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/smithsonian-channel-selects-se-ptv1/details",
-      "logo_url": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:SmithsonianChannelSelects.us",
       "source": "iptv-org",
       "source_id": "SmithsonianChannelSelects.us",
@@ -949976,75 +948589,6 @@
       }
     },
     {
-      "id": "iptv-org:SouthPark.de",
-      "source": "iptv-org",
-      "source_id": "SouthPark.de",
-      "type": "channel",
-      "title": "South Park",
-      "alternative_names": [
-        "Comedy Central South Park"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-es/details",
-      "logo_url": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "poster_url": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthPark.se",
-      "source": "iptv-org",
-      "source_id": "SouthPark.se",
-      "type": "channel",
-      "title": "South Park",
-      "alternative_names": [
-        "Comedy Central South Park"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-se/details",
-      "logo_url": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-      "poster_url": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:SouthPark.us",
       "source": "iptv-org",
       "source_id": "SouthPark.us",
@@ -950218,75 +948762,6 @@
       "website": "https://pluto.tv/live-tv/south-park-butters-collection-se/details",
       "logo_url": "https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png",
       "poster_url": "https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkCartmanCollection.de",
-      "source": "iptv-org",
-      "source_id": "SouthParkCartmanCollection.de",
-      "type": "channel",
-      "title": "South Park: Cartman Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Cartman Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-cartman-collection-de/details",
-      "logo_url": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkCartmanCollection.se",
-      "source": "iptv-org",
-      "source_id": "SouthParkCartmanCollection.se",
-      "type": "channel",
-      "title": "South Park: Cartman Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Cartman Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-cartman-collection-se/details",
-      "logo_url": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -950681,75 +949156,6 @@
       }
     },
     {
-      "id": "iptv-org:SouthParkKennyCollection.de",
-      "source": "iptv-org",
-      "source_id": "SouthParkKennyCollection.de",
-      "type": "channel",
-      "title": "South Park: Kenny Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Kenny Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-kenny-collection-de/details",
-      "logo_url": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkKennyCollection.se",
-      "source": "iptv-org",
-      "source_id": "SouthParkKennyCollection.se",
-      "type": "channel",
-      "title": "South Park: Kenny Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Kenny Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-kenny-collection-se/details",
-      "logo_url": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:SouthParkKennyCollection.us",
       "source": "iptv-org",
       "source_id": "SouthParkKennyCollection.us",
@@ -950774,75 +949180,6 @@
       "website": "https://pluto.tv/live-tv/south-park-kenny-collection-ca/details",
       "logo_url": "https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",
       "poster_url": "https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkKyleCollection.de",
-      "source": "iptv-org",
-      "source_id": "SouthParkKyleCollection.de",
-      "type": "channel",
-      "title": "South Park: Kyle Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Kyle Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-kyle-collection-de/details",
-      "logo_url": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkKyleCollection.se",
-      "source": "iptv-org",
-      "source_id": "SouthParkKyleCollection.se",
-      "type": "channel",
-      "title": "South Park: Kyle Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Kyle Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-kyle-collection-se/details",
-      "logo_url": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -950980,75 +949317,6 @@
       "website": "https://pluto.tv/live-tv/south-park-rocks-de/details",
       "logo_url": "https://images.pluto.tv/channels/664f12bb3d173b0008168c1f/colorLogoPNG.png",
       "poster_url": "https://images.pluto.tv/channels/664f12bb3d173b0008168c1f/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkStanCollection.de",
-      "source": "iptv-org",
-      "source_id": "SouthParkStanCollection.de",
-      "type": "channel",
-      "title": "South Park: Stan Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Stan Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-stan-collection-de/details",
-      "logo_url": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SouthParkStanCollection.se",
-      "source": "iptv-org",
-      "source_id": "SouthParkStanCollection.se",
-      "type": "channel",
-      "title": "South Park: Stan Collection",
-      "alternative_names": [
-        "Comedy Central South Park: Stan Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/south-park-stan-collection-se/details",
-      "logo_url": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -966298,69 +964566,6 @@
       }
     },
     {
-      "id": "iptv-org:StarTrekTheNextGeneration.de",
-      "source": "iptv-org",
-      "source_id": "StarTrekTheNextGeneration.de",
-      "type": "channel",
-      "title": "Star Trek: The Next Generation",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/star-trek-the-next-generation-ptv1/details",
-      "logo_url": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
-      "poster_url": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:StarTrekTheNextGeneration.se",
-      "source": "iptv-org",
-      "source_id": "StarTrekTheNextGeneration.se",
-      "type": "channel",
-      "title": "Star Trek: The Next Generation",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/star-trek-the-next-generation-fi/details",
-      "logo_url": "https://images.pluto.tv/channels/642e965a240d6f0008aa23fe/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/642e965a240d6f0008aa23fe/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:StarTrekTheNextGeneration.us",
       "source": "iptv-org",
       "source_id": "StarTrekTheNextGeneration.us",
@@ -966442,69 +964647,6 @@
       "website": "https://pluto.tv/live-tv/star-trek-the-original-series-ptv2/details",
       "logo_url": "https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",
       "poster_url": "https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:StarTrekVoyager.de",
-      "source": "iptv-org",
-      "source_id": "StarTrekVoyager.de",
-      "type": "channel",
-      "title": "Star Trek: Voyager",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/star-trek-voyager-es/details",
-      "logo_url": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:StarTrekVoyager.se",
-      "source": "iptv-org",
-      "source_id": "StarTrekVoyager.se",
-      "type": "channel",
-      "title": "Star Trek: Voyager",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/star-trek-voyager-fi/details",
-      "logo_url": "https://images.pluto.tv/channels/6790e4efbc03978b9bff0d8e/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/6790e4efbc03978b9bff0d8e/colorLogoPNG.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -981884,67 +980026,6 @@
       "website": "https://pluto.tv/live-tv/summer-of-movies-ca/details",
       "logo_url": "https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",
       "poster_url": "https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SUMOParis2026.de",
-      "source": "iptv-org",
-      "source_id": "SUMOParis2026.de",
-      "type": "channel",
-      "title": "SUMO Paris 2026",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "sports"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/sumo-paris-2026-de/details",
-      "logo_url": "https://images.pluto.tv/channels/68d669f9508ba507f075b5fe/colorLogoPNG_1760526697414.png",
-      "poster_url": "https://images.pluto.tv/channels/68d669f9508ba507f075b5fe/colorLogoPNG_1760526697414.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:SUMOParis2026.se",
-      "source": "iptv-org",
-      "source_id": "SUMOParis2026.se",
-      "type": "channel",
-      "title": "SUMO Paris 2026",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "general"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/sumo-paris-2026-se/details",
-      "logo_url": "https://images.pluto.tv/channels/68d66a37508ba507f075bd8c/colorLogoPNG_1760530309899.png",
-      "poster_url": "https://images.pluto.tv/channels/68d66a37508ba507f075bd8c/colorLogoPNG_1760530309899.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1002126,38 +1000207,6 @@
       }
     },
     {
-      "id": "iptv-org:TeenMom.de",
-      "source": "iptv-org",
-      "source_id": "TeenMom.de",
-      "type": "channel",
-      "title": "Teen Mom",
-      "alternative_names": [
-        "MTV Teen Mom"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/teen-mom-it/details",
-      "logo_url": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:TeenMom.us",
       "source": "iptv-org",
       "source_id": "TeenMom.us",
@@ -1002849,8 +1000898,8 @@
       ],
       "launched": "2018-12-14",
       "website": "https://tele1.sv/",
-      "logo_url": "https://i.imgur.com/ZfMbnPU.png",
-      "poster_url": "https://i.imgur.com/ZfMbnPU.png",
+      "logo_url": "https://i.imgur.com/S2OD4J4.png",
+      "poster_url": "https://i.imgur.com/S2OD4J4.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1027948,67 +1025997,6 @@
       }
     },
     {
-      "id": "iptv-org:TheNewDetectives.de",
-      "source": "iptv-org",
-      "source_id": "TheNewDetectives.de",
-      "type": "channel",
-      "title": "The New Detectives",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/the-new-detectives-gb/details",
-      "logo_url": "https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:TheNewDetectives.se",
-      "source": "iptv-org",
-      "source_id": "TheNewDetectives.se",
-      "type": "channel",
-      "title": "The New Detectives",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/the-new-detectives-se/details",
-      "logo_url": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:TheNewDetectives.us",
       "source": "iptv-org",
       "source_id": "TheNewDetectives.us",
@@ -1029962,38 +1027950,6 @@
           "sources": []
         }
       ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:TheWildWildWest.se",
-      "source": "iptv-org",
-      "source_id": "TheWildWildWest.se",
-      "type": "channel",
-      "title": "The Wild Wild West",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "series",
-        "classic"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/the-wild-wild-west-ptv2/details",
-      "logo_url": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
-      "poster_url": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1038923,7 +1036879,9 @@
         "Tahiti Nui Télévision"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Gouvernement de la Polynésie française"
+      ],
       "country": "PF",
       "categories": [
         "general"
@@ -1042892,38 +1040850,6 @@
       }
     },
     {
-      "id": "iptv-org:TortuesNinjaTV.de",
-      "source": "iptv-org",
-      "source_id": "TortuesNinjaTV.de",
-      "type": "channel",
-      "title": "Tortues Ninja TV",
-      "alternative_names": [
-        "Nickelodeon Tortues Ninja TV"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "kids"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/tortues-ninja-tv-fr/details",
-      "logo_url": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:TortuesNinjaTV.us",
       "source": "iptv-org",
       "source_id": "TortuesNinjaTV.us",
@@ -1042956,37 +1040882,6 @@
           "sources": []
         }
       ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:Tosh0.se",
-      "source": "iptv-org",
-      "source_id": "Tosh0.se",
-      "type": "channel",
-      "title": "Tosh.0",
-      "alternative_names": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "comedy"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/tosh-0-se/details",
-      "logo_url": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1043242,71 +1041137,6 @@
           "sources": []
         }
       ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:TotallyTurtles.de",
-      "source": "iptv-org",
-      "source_id": "TotallyTurtles.de",
-      "type": "channel",
-      "title": "Totally Turtles",
-      "alternative_names": [
-        "Nickelodeon Totally Turtles"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "DE",
-      "categories": [
-        "kids"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/totally-turtles-de/details",
-      "logo_url": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:TotallyTurtles.se",
-      "source": "iptv-org",
-      "source_id": "TotallyTurtles.se",
-      "type": "channel",
-      "title": "Totally Turtles",
-      "alternative_names": [
-        "Nickelodeon Totally Turtles"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ],
-      "country": "SE",
-      "categories": [
-        "kids"
-      ],
-      "launched": null,
-      "website": "https://pluto.tv/live-tv/totally-turtles-se/details",
-      "logo_url": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
-      "poster_url": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1185662,23 +1183492,6 @@
       }
     },
     {
-      "id": "iptv-org-in:4SiDESTV.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "4SiDESTV.in@SD",
-      "type": "channel",
-      "title": "4 SiDES TV (1080p)",
-      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
-      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
-      "group": "News",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:4TVNews.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "4TVNews.in@SD",
@@ -1185891,6 +1183704,57 @@
       "logo_url": "https://i.imgur.com/dZA4gel.png",
       "poster_url": "https://i.imgur.com/dZA4gel.png",
       "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:Andpictures.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "Andpictures.in@HD",
+      "type": "channel",
+      "title": "&pictures HD (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:AndTV.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "AndTV.in@HD",
+      "type": "channel",
+      "title": "&TV HD (1080p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:AndxplorHD.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "AndxplorHD.in@HD",
+      "type": "channel",
+      "title": "&xplor HD (1080p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "group": "Movies",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1187044,8 +1184908,8 @@
       "source_id": "B4UMusic.in@India",
       "type": "channel",
       "title": "B4U Music (1080p)",
-      "logo_url": "https://i.imgur.com/hytapio.png",
-      "poster_url": "https://i.imgur.com/hytapio.png",
+      "logo_url": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
       "group": "Music",
       "language": null,
       "country": "India",
@@ -1189079,6 +1186943,40 @@
       }
     },
     {
+      "id": "iptv-org-in:DiscoveryScience.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "DiscoveryScience.in@SD",
+      "type": "channel",
+      "title": "Discovery Science (576p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
+      "group": "Science",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:DiscoveryTurbo.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "DiscoveryTurbo.in@SD",
+      "type": "channel",
+      "title": "Discovery Turbo (India) (576p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
+      "group": "Auto",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:DishaTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "DishaTV.in@SD",
@@ -1189087,6 +1186985,40 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png",
       "group": "Undefined",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:DisneyChannel.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "DisneyChannel.in@SD",
+      "type": "channel",
+      "title": "Disney Channel (India) (576p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
+      "group": "Kids",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:DisneyChannel.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "DisneyChannel.in@HD",
+      "type": "channel",
+      "title": "Disney Channel (India) HD (1080p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
+      "group": "Kids",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1190528,7 +1188460,7 @@
       "source": "iptv-org India M3U",
       "source_id": "HistoryTV18.in@HD",
       "type": "channel",
-      "title": "History TV18 HD (1080p) [Geo-blocked]",
+      "title": "History TV18 HD (1080p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
       "group": "Documentary",
@@ -1191042,6 +1188974,23 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
       "group": "Music",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:InvestigationDiscovery.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "InvestigationDiscovery.in@SD",
+      "type": "channel",
+      "title": "Investigation Discovery (India) (576p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
+      "group": "Documentary",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1192700,6 +1190649,40 @@
       }
     },
     {
+      "id": "iptv-org-in:MNX.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "MNX.in@SD",
+      "type": "channel",
+      "title": "MNX (576p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:MNX.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "MNX.in@HD",
+      "type": "channel",
+      "title": "MNX HD (1080p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:MojoTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "MojoTV.in@SD",
@@ -1192755,9 +1190738,26 @@
       "source": "iptv-org India M3U",
       "source_id": "MoviesNow.in@HD",
       "type": "channel",
-      "title": "Movies Now HD (576p)",
+      "title": "Movies Now HD (1080p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:MoviesNowPlus.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "MoviesNowPlus.in@HD",
+      "type": "channel",
+      "title": "Movies Now + (1080p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
       "group": "Movies",
       "language": null,
       "country": "India",
@@ -1192806,7 +1190806,7 @@
       "source": "iptv-org India M3U",
       "source_id": "MTV.in@HD",
       "type": "channel",
-      "title": "MTV (India) HD (396p)",
+      "title": "MTV (India) HD (1080p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
       "group": "Entertainment",
@@ -1192946,6 +1190946,40 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
       "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:NationalGeographic.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "NationalGeographic.in@HD",
+      "type": "channel",
+      "title": "National Geographic (India) HD (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+      "group": "Documentary",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:NationalGeographicWild.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "NationalGeographicWild.in@HD",
+      "type": "channel",
+      "title": "National Geographic Wild (India) HD (1080p)",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+      "group": "Documentary",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1193983,6 +1192017,23 @@
       "logo_url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png",
       "poster_url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png",
       "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:NickHDPlus.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "NickHDPlus.in@HD",
+      "type": "channel",
+      "title": "Nick HD+ (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+      "group": "Kids",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1196916,6 +1194967,23 @@
       }
     },
     {
+      "id": "iptv-org-in:SonyBBCEarth.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "SonyBBCEarth.in@HD",
+      "type": "channel",
+      "title": "Sony BBC Earth HD (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+      "group": "Documentary",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:SonyEntertainmentTelevision.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "SonyEntertainmentTelevision.in@HD",
@@ -1196933,6 +1195001,40 @@
       }
     },
     {
+      "id": "iptv-org-in:SonyMax.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "SonyMax.in@SD",
+      "type": "channel",
+      "title": "Sony Max (720p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:SonyMax.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "SonyMax.in@HD",
+      "type": "channel",
+      "title": "Sony Max HD (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:SonyPal.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyPal.in@SD",
@@ -1196941,6 +1195043,23 @@
       "logo_url": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
       "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:SonyPix.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "SonyPix.in@HD",
+      "type": "channel",
+      "title": "Sony Pix HD (1080p)",
+      "logo_url": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
+      "poster_url": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
+      "group": "Movies",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1197162,23 +1195281,6 @@
       "logo_url": "https://i.imgur.com/ZT0u7AK.png",
       "poster_url": "https://i.imgur.com/ZT0u7AK.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarSports2Telugu.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarSports2Telugu.in@HD",
-      "type": "channel",
-      "title": "Star Sports 2 Telugu HD (576p)",
-      "logo_url": "https://i.imgur.com/m7DvvqF.png",
-      "poster_url": "https://i.imgur.com/m7DvvqF.png",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
