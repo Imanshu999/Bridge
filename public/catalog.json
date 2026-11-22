@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T19:36:39.616703+00:00",
+  "generated_at": "2026-11-22T07:12:24.964042+00:00",
   "source_count": 5,
-  "item_count": 35952,
+  "item_count": 35966,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30852
+    "channel": 30866
   },
   "sources": [
     {
@@ -23,7 +23,7 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29979
+      "count": 29993
     },
     {
       "name": "india_m3u",
@@ -2801,7 +2801,7 @@
         "Martin Starr"
       ],
       "crew": [],
-      "runtime": "41 min",
+      "runtime": "40 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -94371,8 +94371,8 @@
         "Slice of Life"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183965-7oMzkJp4FUyP.jpg",
-      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
-      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
+      "backdrop_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-4VoNIzRuWoE9.jpg",
+      "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-4VoNIzRuWoE9.jpg",
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/183965",
       "format": "TV",
@@ -103356,7 +103356,7 @@
       "banner_url": null,
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/209895",
-      "format": null,
+      "format": "TV",
       "status": "NOT_YET_RELEASED",
       "season": null,
       "season_year": null,
@@ -131048,19 +131048,19 @@
       "source": "AniList",
       "source_id": 213477,
       "type": "anime",
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
-      "original_title": "ようこそ実力至上主義の教室へ 5th Season",
-      "romaji_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season 2-nensei-hen Ni Gakki - Zenhan",
+      "original_title": "ようこそ実力至上主義の教室へ 5th Season 2年生編2学期 ＜前半＞",
+      "romaji_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season 2-nensei-hen Ni Gakki - Zenhan",
       "overview": "The fifth season of Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e .",
       "release_date": null,
-      "year": null,
+      "year": 2027,
       "rating": null,
       "vote_count": null,
       "genres": [
         "Drama",
         "Psychological"
       ],
-      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213477-ji2eelgwu1rn.png",
+      "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213477-PtHVy5u7YFSk.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "logo_url": null,
@@ -274611,6 +274611,34 @@
       }
     },
     {
+      "id": "iptv-org:AtlanticTV.tt",
+      "source": "iptv-org",
+      "source_id": "AtlanticTV.tt",
+      "type": "channel",
+      "title": "Atlantic TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "ATLANTIC COMPUTERS AND SUPPLIES"
+      ],
+      "country": "TT",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": "https://trinicricket.com/",
+      "logo_url": "https://trinicricket.com/logo",
+      "poster_url": "https://trinicricket.com/logo",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:AtlantisRadioTV.pe",
       "source": "iptv-org",
       "source_id": "AtlantisRadioTV.pe",
@@ -351912,6 +351940,34 @@
       }
     },
     {
+      "id": "iptv-org:CanalPlusFamilyAfrique.fr",
+      "source": "iptv-org",
+      "source_id": "CanalPlusFamilyAfrique.fr",
+      "type": "channel",
+      "title": "Canal+ Family Afrique",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Canal+ Group"
+      ],
+      "country": "FR",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/9/95/CANAL%2B_FAMILY.svg/revision/latest?cb=20241028202340",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/9/95/CANAL%2B_FAMILY.svg/revision/latest?cb=20241028202340",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:CanalPlusFamilyCentre.fr",
       "source": "iptv-org",
       "source_id": "CanalPlusFamilyCentre.fr",
@@ -359854,6 +359910,33 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:CartoonCartoons.us",
+      "source": "iptv-org",
+      "source_id": "CartoonCartoons.us",
+      "type": "channel",
+      "title": "Cartoon Cartoons",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "US",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "launched": null,
+      "website": "https://cartooncartoons.thatsoretro.com/",
+      "logo_url": "https://cartooncartoons.thatsoretro.com/logo",
+      "poster_url": "https://cartooncartoons.thatsoretro.com/logo",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -416135,6 +416218,32 @@
       "website": "https://www.cutlerycorner.net/",
       "logo_url": "https://i.imgur.com/GvX3MyE.png",
       "poster_url": "https://i.imgur.com/GvX3MyE.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:CutupuTV.do",
+      "source": "iptv-org",
+      "source_id": "CutupuTV.do",
+      "type": "channel",
+      "title": "Cutupu TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://www.acontecerdelcibao.com/p/tv.html",
+      "logo_url": "https://imgur.com/a/k8rUQlm.jpg",
+      "poster_url": "https://imgur.com/a/k8rUQlm.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -543011,6 +543120,32 @@
       }
     },
     {
+      "id": "iptv-org:HatoDelYaqueTV.do",
+      "source": "iptv-org",
+      "source_id": "HatoDelYaqueTV.do",
+      "type": "channel",
+      "title": "Hato Del Yaque TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://www.vivalivetv.com/channel/hato-del-yaque-tv",
+      "logo_url": "https://www.vivalivetv.com/public/files/shows/0/1/4075-294x165-FFFFFF.jpg",
+      "poster_url": "https://www.vivalivetv.com/public/files/shows/0/1/4075-294x165-FFFFFF.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Hatoscsatorna.hu",
       "source": "iptv-org",
       "source_id": "Hatoscsatorna.hu",
@@ -576155,6 +576290,32 @@
       "website": null,
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Science.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Science.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:IndiaSuperfast.in",
+      "source": "iptv-org",
+      "source_id": "IndiaSuperfast.in",
+      "type": "channel",
+      "title": "India Superfast",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://yt3.googleusercontent.com/IOv71FMK5mYfhPE6QODTbyOr_Rr4JPTJLPlqArXo_F9zxy3-pZdH3wjv8WG_Pt94zzAr0j6y=s900-c-k-c0x00ffffff-no-rj",
+      "poster_url": "https://yt3.googleusercontent.com/IOv71FMK5mYfhPE6QODTbyOr_Rr4JPTJLPlqArXo_F9zxy3-pZdH3wjv8WG_Pt94zzAr0j6y=s900-c-k-c0x00ffffff-no-rj",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -654175,6 +654336,32 @@
       "website": "https://ltvu.se/",
       "logo_url": "https://i.imgur.com/Hfm1rI3.png",
       "poster_url": "https://i.imgur.com/Hfm1rI3.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:LokmatBharat.in",
+      "source": "iptv-org",
+      "source_id": "LokmatBharat.in",
+      "type": "channel",
+      "title": "Lokmat Bharat",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -752287,6 +752474,32 @@
       }
     },
     {
+      "id": "iptv-org:Nistha.in",
+      "source": "iptv-org",
+      "source_id": "Nistha.in",
+      "type": "channel",
+      "title": "Nistha",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "religious"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.imgur.com/8CuaxPP.png",
+      "poster_url": "https://i.imgur.com/8CuaxPP.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:NisvilleTV.rs",
       "source": "iptv-org",
       "source_id": "NisvilleTV.rs",
@@ -770064,6 +770277,33 @@
       "website": "https://oceantvnetwork.com/",
       "logo_url": "https://i.imgur.com/nqdkLl5.jpeg",
       "poster_url": "https://i.imgur.com/nqdkLl5.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:OcioNewsTV.es",
+      "source": "iptv-org",
+      "source_id": "OcioNewsTV.es",
+      "type": "channel",
+      "title": "OcioNews TV",
+      "alternative_names": [],
+      "network": "OcioNews",
+      "owners": [],
+      "country": "ES",
+      "categories": [
+        "general",
+        "news"
+      ],
+      "launched": null,
+      "website": "https://tv.ocionews.com/",
+      "logo_url": "https://tv.ocionews.com/core/modules/ocionews-tv-platform/assets/channel-logos-cwv/OcioNews-TV-150i.webp?v=20261022",
+      "poster_url": "https://tv.ocionews.com/core/modules/ocionews-tv-platform/assets/channel-logos-cwv/OcioNews-TV-150i.webp?v=20261022",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -868986,6 +869226,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/F2rdjwJ.png",
       "poster_url": "https://i.imgur.com/F2rdjwJ.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:RetrovisionTV.do",
+      "source": "iptv-org",
+      "source_id": "RetrovisionTV.do",
+      "type": "channel",
+      "title": "Retro vision TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://retrovisionmia.com/",
+      "logo_url": "https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png",
+      "poster_url": "https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -993632,6 +993898,32 @@
       }
     },
     {
+      "id": "iptv-org:TainoLiveTV.do",
+      "source": "iptv-org",
+      "source_id": "TainoLiveTV.do",
+      "type": "channel",
+      "title": "Taino Live TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://www.vivalivetv.com/channel/taino-tv-live",
+      "logo_url": "https://www.vivalivetv.com/public/files/shows/0/1/4090-294x165-FFFFFF.jpg",
+      "poster_url": "https://www.vivalivetv.com/public/files/shows/0/1/4090-294x165-FFFFFF.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:TaivasTV7.fi",
       "source": "iptv-org",
       "source_id": "TaivasTV7.fi",
@@ -1003389,6 +1003681,32 @@
       "website": "https://telearuba.aw/",
       "logo_url": "https://i.imgur.com/PY3P0aM.png",
       "poster_url": "https://i.imgur.com/PY3P0aM.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:TeleAzul.do",
+      "source": "iptv-org",
+      "source_id": "TeleAzul.do",
+      "type": "channel",
+      "title": "Tele Azul",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "DO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://dominicanchannels.com/teleazul/",
+      "logo_url": "https://imgur.com/a/cU7MHiu.jpg",
+      "poster_url": "https://imgur.com/a/cU7MHiu.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1071155,6 +1071473,38 @@
       }
     },
     {
+      "id": "iptv-org:TVCAJUIWEB.br",
+      "source": "iptv-org",
+      "source_id": "TVCAJUIWEB.br",
+      "type": "channel",
+      "title": "TV CAJUI WEB",
+      "alternative_names": [
+        "OEIRAS PIAUÍ"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "BR",
+      "categories": [
+        "general",
+        "news",
+        "music",
+        "religious",
+        "entertainment"
+      ],
+      "launched": null,
+      "website": "https://www.instagram.com/cajuimidiatvradio?cnvx=MWI1NDB3YzA1YWs4OA==",
+      "logo_url": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
+      "poster_url": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:TVCamara.br",
       "source": "iptv-org",
       "source_id": "TVCamara.br",
@@ -1089594,6 +1089944,32 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:TVNNews.in",
+      "source": "iptv-org",
+      "source_id": "TVNNews.in",
+      "type": "channel",
+      "title": "TVN News",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "news"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://www.vivalivetv.com/public/files/shows/0/1/4037-800x450-FFFFFF.jpg",
+      "poster_url": "https://www.vivalivetv.com/public/files/shows/0/1/4037-800x450-FFFFFF.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
