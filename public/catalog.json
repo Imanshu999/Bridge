@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T19:56:03.054627+00:00",
+  "generated_at": "2026-11-23T07:58:50.031930+00:00",
   "source_count": 5,
-  "item_count": 35966,
+  "item_count": 35930,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30866
+    "channel": 30830
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 29993
+      "count": 29998
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 873
+      "count": 832
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -4775,7 +4775,7 @@
       "title": "Mob Psycho 100",
       "original_title": "モブサイコ100",
       "romaji_title": "Mob Psycho 100",
-      "overview": "The story revolves around \"Mob,\" a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname \"Mob\" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body. (Source: Anime News Network)",
+      "overview": "Eighth-grader Shigeo \"Mob\" Kageyama has tapped into his inner wellspring of psychic prowess at a young age. But the power quickly proves to be a liability when he realizes the potential danger in his skills. Choosing to suppress his power, Mob's only present use for his ability is to impress his longtime crush, Tsubomi, who soon grows bored of the same tricks. In order to effectuate control on his skills, Mob enlists himself under the wing of Arataka Reigen, a con artist claiming to be a psychic, who exploits Mob's powers for pocket change. Now, exorcising evil spirits on command has become a part of Mob's daily, monotonous life. However, the psychic energy he exerts is barely the tip of the iceberg; if his vast potential and unrestrained emotions run berserk, a cataclysmic event that would render him completely unrecognizable will be triggered. The progression toward Mob's explosion is rising and attempting to stop it is futile. (Source: MAL Rewrite)",
       "release_date": null,
       "year": 2016,
       "rating": 8.4,
@@ -32832,7 +32832,7 @@
       "title": "SSSS.GRIDMAN",
       "original_title": "SSSS.GRIDMAN",
       "romaji_title": "SSSS.GRIDMAN",
-      "overview": "Collaboration with Tsuburaya Productions. Yuta Hibiki awakens with amnesia and the ability see things that others cannot. He first encounters a Gridman in the reflection of his friend Rikka Takarada's computer and it tells him to \"Remember his calling,\" but Yuta doesn't understand what this means. Later, in the distance, he sees an extremely large monster but it doesn't move. It's only when Yuta gets to school that the two sightings make sense: a monster attacks and the hero Yuta saw in the computer screen pulls him within the computer and transforms Yuta into a giant hero named Gridman. (Source: Anime News Network)",
+      "overview": "Yuta Hibiki awakens with amnesia and the ability see things that others cannot. He first encounters a Gridman in the reflection of his friend Rikka Takarada's computer and it tells him to \"Remember his calling,\" but Yuta doesn't understand what this means. Later, in the distance, he sees an extremely large monster but it doesn't move. It's only when Yuta gets to school that the two sightings make sense: a monster attacks and the hero Yuta saw in the computer screen pulls him within the computer and transforms Yuta into a giant hero named Gridman. (Source: Anime News Network) Note: Based on the 1993 live-action series Gridman the Hyper Agent, created by Tsuburaya Productions",
       "release_date": null,
       "year": 2018,
       "rating": 7.1,
@@ -37424,7 +37424,7 @@
       "title": "One-Punch Man: Road to Hero",
       "original_title": "ワンパンマン「ロード・トゥ・ヒーロー」",
       "romaji_title": "One Punch Man: Road to Hero",
-      "overview": "OVA bundled with the 10th volume of the One Punch Man manga. It features an original story by the series' mangaka, ONE, about the secret story of the birth of Saitama's hero suit.",
+      "overview": "Before Saitama became the man he is today, he trained and fought endlessly to become a hero. While every scuffle leaves his tracksuit uniform in tatters, he always has it mended for free thanks to his local tailor. One day, however, the tailor informs him that he must close up shop due to pressure from a local gang. Saitama decides to help him out—and gains something irreplaceable in the process. (Source: MAL Rewrite) Note: Bundled with the 10th volume of the One Punch Man manga, featuring an original story by series creator ONE.",
       "release_date": null,
       "year": 2015,
       "rating": 7.5,
@@ -54967,7 +54967,7 @@
       "title": "Kill la Kill: GOODBYE AGAIN",
       "original_title": "キルラキル 特別編",
       "romaji_title": "Kill la Kill Tokubetsu-hen",
-      "overview": "Unaired episode included with the 9th Blu-ray and DVD volumes.",
+      "overview": "Peace has returned to Honnouji Academy at last, and now that it has served its original purpose, the unique high school is set to be shut down within a month. However, there is still one final event that must take place: the graduation ceremony. As each member of the student council prepares to leave their past selves behind to focus on what they would like to do in the future, Satsuki Kiryuuin struggles to find her own path, having lost her resolve after finally achieving victory. But just before she is to give her speech to the student body, the ceremony is disrupted by mysterious beings that are identical to the student council members. As Ryuuko Matoi and the Elite Four prepare for battle once more, they quickly discover that the one pulling the strings is an old enemy who has returned to take revenge. (Source: MAL Rewrite) Note: Unaired episode included with the ninth Blu-ray/DVD volume.",
       "release_date": null,
       "year": 2014,
       "rating": 7.5,
@@ -60523,6 +60523,7 @@
       "rating": 8.1,
       "vote_count": null,
       "genres": [
+        "Comedy",
         "Slice of Life"
       ],
       "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20694-Brxd5Unqa5fP.png",
@@ -108314,7 +108315,7 @@
       "title": "The Tatami Time Machine Blues",
       "original_title": "四畳半タイムマシンブルース",
       "romaji_title": "Yojouhan Time Machine Blues",
-      "overview": "Spin-off of Yojouhan Shinwa Taikei . It is August 12th. After the remote control to his boarding house's only air conditioning unit is inadvertently destroyed by spilled cola, \"I\" devises a plan to return to yesterday in a time machine to recover the remote before it breaks. However, his friend Ozu cannot resist playing with past events, even when it means bringing the universe to the brink of destruction. Now \"I\" finds himself racing through time to avoid disaster. (Source: Disney+) Note: Released in Japan as a standalone film on September 30, 2022 with the same content as episodes 1-5. The anime has an earlier episodic release on Disney+ starting September 14, 2022 and with an exclusive episode 6.",
+      "overview": "It is August 12th. After the remote control to his boarding house's only air conditioning unit is inadvertently destroyed by spilled cola, \"I\" devises a plan to return to yesterday in a time machine to recover the remote before it breaks. However, his friend Ozu cannot resist playing with past events, even when it means bringing the universe to the brink of destruction. Now \"I\" finds himself racing through time to avoid disaster. (Source: Disney+) Note: Released in Japan as a standalone film on September 30, 2022 with the same content as episodes 1-5. The anime has an earlier episodic release on Disney+ starting September 14, 2022 and with an exclusive episode 6.",
       "release_date": null,
       "year": 2022,
       "rating": 8.1,
@@ -153253,7 +153254,7 @@
       "title": "Blade Runner: Black Out 2022",
       "original_title": "ブレードランナー ブラックアウト 2022",
       "romaji_title": "Blade Runner: Black Out 2022",
-      "overview": "In 2022, an EMP detonation has caused a global blackout that has massive, destructive implications all over the world. Directed by Cowboy Bebop and Samurai Champloo's Shinichiro Watanabe, Blade Runner: Black Out 2022 is a new and highly-anticipated animated short which serves as a prologue for the upcoming feature film Blade Runner 2049. (Source: Crunchyroll)",
+      "overview": "In 2022, an EMP detonation has caused a global blackout that has massive, destructive implications all over the world. Directed by Cowboy Bebop and Samurai Champloo 's Shinichiro Watanabe, Blade Runner: Black Out 2022 is a new and highly-anticipated animated short which serves as a prologue for the upcoming feature film Blade Runner 2049 . (Source: Crunchyroll)",
       "release_date": null,
       "year": 2017,
       "rating": 6.7,
@@ -159561,7 +159562,7 @@
       "title": "FLCL: Grunge",
       "original_title": "フリクリ グランジ",
       "romaji_title": "FLCL: Grunge",
-      "overview": "The fourth season of FLCL, and sequel to FLCL Alternative . It centers on three teenagers who graduated and have started working. The CGI anime will have a theme of the feeling of being an adult. (Source: Anime News Network, edited)",
+      "overview": "The fourth season of FLCL , and sequel to FLCL Alternative . It centers on three teenagers who graduated and have started working. The CGI anime will have a theme of the feeling of being an adult. (Source: Anime News Network, edited)",
       "release_date": null,
       "year": 2023,
       "rating": 4.4,
@@ -177482,7 +177483,7 @@
       "title": "FLCL: Shoegaze",
       "original_title": "フリクリ シューゲイザー",
       "romaji_title": "FLCL: Shoegaze",
-      "overview": "The fifth season of FLCL, and successor series to FLCL: Grunge . The anime will take place 10 years after FLCL Alternative and will center on a high school boy and girl. Masaki, who's been having a hard time fitting in with his class due to his unique background and character, meets Harumi, who is even more eccentric than he is. She offers to help him off of his worries by bombing the Tsuganei Tower. (Source: Anime News Network, Adult Swim, edited)",
+      "overview": "The fifth season of FLCL , and successor series to FLCL: Grunge . The anime will take place 10 years after FLCL Alternative and will center on a high school boy and girl. Masaki, who's been having a hard time fitting in with his class due to his unique background and character, meets Harumi, who is even more eccentric than he is. She offers to help him off of his worries by bombing the Tsuganei Tower. (Source: Anime News Network, Adult Swim, edited)",
       "release_date": null,
       "year": 2023,
       "rating": 5.9,
@@ -261094,12 +261095,14 @@
         "Albert Palmier Télévision"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Église évangélique de la forteresse de Dieu"
+      ],
       "country": "MQ",
       "categories": [
         "religious"
       ],
-      "launched": null,
+      "launched": "2006-11-06",
       "website": "http://www.aptv.fr/",
       "logo_url": "https://i.imgur.com/BJsHDkl.jpg",
       "poster_url": "https://i.imgur.com/BJsHDkl.jpg",
@@ -269407,6 +269410,32 @@
       "website": "https://www.asfiyahi.org/",
       "logo_url": "https://i.imgur.com/tDuvfsh.png",
       "poster_url": "https://i.imgur.com/tDuvfsh.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:ASFTV.tr",
+      "source": "iptv-org",
+      "source_id": "ASFTV.tr",
+      "type": "channel",
+      "title": "ASF TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "TR",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://asftv.com.tr/",
+      "logo_url": "https://asftv.com.tr/config/api/file.php?path=uploads%2Fbiz-logo-20260926213839-7535.png",
+      "poster_url": "https://asftv.com.tr/config/api/file.php?path=uploads%2Fbiz-logo-20260926213839-7535.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -351383,6 +351412,34 @@
       }
     },
     {
+      "id": "iptv-org:CanalPlusCesko.cz",
+      "source": "iptv-org",
+      "source_id": "CanalPlusCesko.cz",
+      "type": "channel",
+      "title": "Canal+ Cesko",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Canal+ Group"
+      ],
+      "country": "CZ",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/4/40/Canal%2B_logo.svg/revision/latest?cb=20161116153721",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/4/40/Canal%2B_logo.svg/revision/latest?cb=20161116153721",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:CanalPlusChaTate.mm",
       "source": "iptv-org",
       "source_id": "CanalPlusChaTate.mm",
@@ -351550,6 +351607,62 @@
       }
     },
     {
+      "id": "iptv-org:CanalPlusClassics.cz",
+      "source": "iptv-org",
+      "source_id": "CanalPlusClassics.cz",
+      "type": "channel",
+      "title": "Canal+ Classics",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Canal+ Group"
+      ],
+      "country": "CZ",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/3f/Canal%2B_Classics_2026.svg/revision/latest?cb=20261022162713",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/3/3f/Canal%2B_Classics_2026.svg/revision/latest?cb=20261022162713",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:CanalPlusCrime.cz",
+      "source": "iptv-org",
+      "source_id": "CanalPlusCrime.cz",
+      "type": "channel",
+      "title": "Canal+ Crime",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Canal+ Group"
+      ],
+      "country": "CZ",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/5/51/Canal%2B_Crime_2026.svg/revision/latest?cb=20261022160852",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/5/51/Canal%2B_Crime_2026.svg/revision/latest?cb=20261022160852",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:CanalPlusDocs.fr",
       "source": "iptv-org",
       "source_id": "CanalPlusDocs.fr",
@@ -351683,6 +351796,34 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:CanalPlusDramaCzechia.cz",
+      "source": "iptv-org",
+      "source_id": "CanalPlusDramaCzechia.cz",
+      "type": "channel",
+      "title": "Canal+ Drama Czechia",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Canal+ Group"
+      ],
+      "country": "CZ",
+      "categories": [
+        "movies"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/ab/Canal%2B_Drama_2026.svg/revision/latest?cb=20261022161753",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/a/ab/Canal%2B_Drama_2026.svg/revision/latest?cb=20261022161753",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -427749,6 +427890,34 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:DEMAINOutremer.gp",
+      "source": "iptv-org",
+      "source_id": "DEMAINOutremer.gp",
+      "type": "channel",
+      "title": "DEMAIN Outremer",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "TRANSAT Médias"
+      ],
+      "country": "GP",
+      "categories": [
+        "business"
+      ],
+      "launched": "2026-11-10",
+      "website": "https://demainoutremer.fr/",
+      "logo_url": "https://i.imgur.com/Utj2T82.png",
+      "poster_url": "https://i.imgur.com/Utj2T82.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -511778,11 +511947,11 @@
       "source_id": "FUSIONTV.mq",
       "type": "channel",
       "title": "FUSION TV",
-      "alternative_names": [
-        "Canal 43"
-      ],
+      "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "IMEDIAS GROUP"
+      ],
       "country": "MQ",
       "categories": [
         "music"
@@ -531204,12 +531373,14 @@
         "Graphé TV"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Association Oméga Vision"
+      ],
       "country": "MQ",
       "categories": [
         "religious"
       ],
-      "launched": null,
+      "launched": "2012-09-30",
       "website": "https://www.graphetv.com/",
       "logo_url": "https://i.imgur.com/6v0KkXT.png",
       "poster_url": "https://i.imgur.com/6v0KkXT.png",
@@ -652287,6 +652458,32 @@
       }
     },
     {
+      "id": "iptv-org:LixdofTV.gh",
+      "source": "iptv-org",
+      "source_id": "LixdofTV.gh",
+      "type": "channel",
+      "title": "Lixdof TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "GH",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://lixdofmultimedia.com/tv",
+      "logo_url": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Lixdof%20TV.jpeg",
+      "poster_url": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Lixdof%20TV.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:LiyuanTV.cn",
       "source": "iptv-org",
       "source_id": "LiyuanTV.cn",
@@ -663134,7 +663331,9 @@
       "title": "Madinina TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Jean-Manuel Massenya"
+      ],
       "country": "MQ",
       "categories": [
         "general"
@@ -763052,6 +763251,30 @@
       }
     },
     {
+      "id": "iptv-org:NRTSport.iq",
+      "source": "iptv-org",
+      "source_id": "NRTSport.iq",
+      "type": "channel",
+      "title": "NRT Sport",
+      "alternative_names": [],
+      "network": "NRT",
+      "owners": [],
+      "country": "IQ",
+      "categories": [],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://mixmedia.tv/wp-content/uploads/2022/08/nrt-sport.png",
+      "poster_url": "https://mixmedia.tv/wp-content/uploads/2022/08/nrt-sport.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:NRTTV.iq",
       "source": "iptv-org",
       "source_id": "NRTTV.iq",
@@ -767301,33 +767524,6 @@
       }
     },
     {
-      "id": "iptv-org:NuevaVidaFM.pr",
-      "source": "iptv-org",
-      "source_id": "NuevaVidaFM.pr",
-      "type": "channel",
-      "title": "Nueva Vida FM",
-      "alternative_names": [],
-      "network": null,
-      "owners": [],
-      "country": "PR",
-      "categories": [
-        "religious",
-        "music"
-      ],
-      "launched": null,
-      "website": "https://nuevavida.fm/",
-      "logo_url": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-      "poster_url": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:Nuevavision.cu",
       "source": "iptv-org",
       "source_id": "Nuevavision.cu",
@@ -768312,6 +768508,34 @@
       "website": "https://www.nvcc.edu/tvcenter/nvcctvlive.html",
       "logo_url": "https://i.imgur.com/Ixiz6cS.png",
       "poster_url": "https://i.imgur.com/Ixiz6cS.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:NVision.in",
+      "source": "iptv-org",
+      "source_id": "NVision.in",
+      "type": "channel",
+      "title": "N Vision",
+      "alternative_names": [
+        "NVision"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png",
+      "poster_url": "https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -859037,13 +859261,15 @@
       "title": "RBR TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Association Banlieue Relax Club"
+      ],
       "country": "MQ",
       "categories": [
         "music"
       ],
       "launched": null,
-      "website": "http://www.rbrfm.com/rbr-tv",
+      "website": "https://www.rbrfm.com/zouk-la-rbr-tv",
       "logo_url": "https://i.imgur.com/k4YSm7n.png",
       "poster_url": "https://i.imgur.com/k4YSm7n.png",
       "backdrop_url": null,
@@ -1077867,7 +1078093,10 @@
       "title": "TV Famille",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "David Gates",
+        "Association des Hommes d'Affaires Adventistes"
+      ],
       "country": "MQ",
       "categories": [
         "family",
@@ -1111206,36 +1111435,6 @@
       }
     },
     {
-      "id": "iptv-org:UIATV.pr",
-      "source": "iptv-org",
-      "source_id": "UIATV.pr",
-      "type": "channel",
-      "title": "UIA-TV",
-      "alternative_names": [
-        "Inter Online TV"
-      ],
-      "network": null,
-      "owners": [
-        "Universidad Interamericana de Puerto Rico"
-      ],
-      "country": "PR",
-      "categories": [
-        "education"
-      ],
-      "launched": null,
-      "website": "https://www.sg.inter.edu/news/inter-online-tv/",
-      "logo_url": "https://i.imgur.com/TF4s0MK.jpeg",
-      "poster_url": "https://i.imgur.com/TF4s0MK.jpeg",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:UjbudaTV.hu",
       "source": "iptv-org",
       "source_id": "UjbudaTV.hu",
@@ -1115025,6 +1115224,32 @@
       "website": null,
       "logo_url": "https://i.imgur.com/mB1M3ZK.jpeg",
       "poster_url": "https://i.imgur.com/mB1M3ZK.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:UniTV.mm",
+      "source": "iptv-org",
+      "source_id": "UniTV.mm",
+      "type": "channel",
+      "title": "Uni TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "MM",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://unitvmm.com/",
+      "logo_url": "https://admin.unitvmm.com/storage/images/channels/01KZND8DJVF4FBDKRQRXVN3KXP.png",
+      "poster_url": "https://admin.unitvmm.com/storage/images/channels/01KZND8DJVF4FBDKRQRXVN3KXP.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1147669,37 +1147894,6 @@
       }
     },
     {
-      "id": "iptv-org:WCCVTV541.pr",
-      "source": "iptv-org",
-      "source_id": "WCCVTV541.pr",
-      "type": "channel",
-      "title": "WCCV-TV 54.1",
-      "alternative_names": [
-        "La Cadena del Milagro",
-        "WCCV-DT"
-      ],
-      "network": "Religious",
-      "owners": [
-        "Asociacion Evangelistica Cristo Viene Inc."
-      ],
-      "country": "PR",
-      "categories": [
-        "religious"
-      ],
-      "launched": "1988-04-29",
-      "website": "https://cdminternacional.com/",
-      "logo_url": "https://i.imgur.com/is94lXe.png",
-      "poster_url": "https://i.imgur.com/is94lXe.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:WCEALD.us",
       "source": "iptv-org",
       "source_id": "WCEALD.us",
@@ -1148694,11 +1148888,11 @@
       }
     },
     {
-      "id": "iptv-org:WDWL582.pr",
+      "id": "iptv-org:WDWL362.pr",
       "source": "iptv-org",
-      "source_id": "WDWL582.pr",
+      "source_id": "WDWL362.pr",
       "type": "channel",
-      "title": "WDWL 58.2",
+      "title": "WDWL 36.2",
       "alternative_names": [
         "EJTV",
         "Enlace Juvenil",
@@ -1149271,11 +1149465,11 @@
       }
     },
     {
-      "id": "iptv-org:WECN.pr",
+      "id": "iptv-org:WECN641.pr",
       "source": "iptv-org",
-      "source_id": "WECN.pr",
+      "source_id": "WECN641.pr",
       "type": "channel",
-      "title": "WECN",
+      "title": "WECN 64.1",
       "alternative_names": [
         "Único TV",
         "Canal 64"
@@ -1155730,36 +1155924,6 @@
       }
     },
     {
-      "id": "iptv-org:WLIIDT112.pr",
-      "source": "iptv-org",
-      "source_id": "WLIIDT112.pr",
-      "type": "channel",
-      "title": "WLII-DT 11.2",
-      "alternative_names": [
-        "ELII-DT"
-      ],
-      "network": "Spanish Independent",
-      "owners": [
-        "Liberman Media Group LLC"
-      ],
-      "country": "PR",
-      "categories": [
-        "entertainment"
-      ],
-      "launched": null,
-      "website": "https://teleonce.com/",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/500px-Logo_UniM%C3%A1s.svg.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/500px-Logo_UniM%C3%A1s.svg.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:WLLA641.us",
       "source": "iptv-org",
       "source_id": "WLLA641.us",
@@ -1156131,35 +1156295,6 @@
       "website": null,
       "logo_url": "https://i.imgur.com/jGAsJ5Q.png",
       "poster_url": "https://i.imgur.com/jGAsJ5Q.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:WMEI312.pr",
-      "source": "iptv-org",
-      "source_id": "WMEI312.pr",
-      "type": "channel",
-      "title": "WMEI 31.2",
-      "alternative_names": [
-        "The Family Channel",
-        "TOONS"
-      ],
-      "network": "Me-TV Toons",
-      "owners": [
-        "WMEI-TV Limited Partnership"
-      ],
-      "country": "PR",
-      "categories": [],
-      "launched": null,
-      "website": null,
-      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png",
-      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1185350,57 +1185485,6 @@
       }
     },
     {
-      "id": "iptv-org-in:Andpictures.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "Andpictures.in@HD",
-      "type": "channel",
-      "title": "&pictures HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:AndTV.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "AndTV.in@HD",
-      "type": "channel",
-      "title": "&TV HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:AndxplorHD.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "AndxplorHD.in@HD",
-      "type": "channel",
-      "title": "&xplor HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:AadinathTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "AadinathTV.in@SD",
@@ -1187054,7 +1187138,7 @@
       "source": "iptv-org India M3U",
       "source_id": "CalvaryTV.in@SD",
       "type": "channel",
-      "title": "Calvary TV (576p)",
+      "title": "Calvary TV (1080p)",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png",
       "group": "Undefined",
@@ -1187075,23 +1187159,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:CartoonNetworkHDPlus.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "CartoonNetworkHDPlus.in@HD",
-      "type": "channel",
-      "title": "Cartoon Network HD+ (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
-      "group": "Animation;Kids",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1188597,57 +1188664,6 @@
       }
     },
     {
-      "id": "iptv-org-in:DiscoveryChannel.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryChannel.in@HD",
-      "type": "channel",
-      "title": "Discovery Channel (India) HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
-      "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DiscoveryScience.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryScience.in@SD",
-      "type": "channel",
-      "title": "Discovery Science (576p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-      "group": "Science",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DiscoveryTurbo.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DiscoveryTurbo.in@SD",
-      "type": "channel",
-      "title": "Discovery Turbo (India) (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
-      "group": "Auto",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:DishaTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "DishaTV.in@SD",
@@ -1188656,40 +1188672,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png",
       "group": "Undefined",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DisneyChannel.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "DisneyChannel.in@SD",
-      "type": "channel",
-      "title": "Disney Channel (India) (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-      "group": "Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:DisneyChannel.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "DisneyChannel.in@HD",
-      "type": "channel",
-      "title": "Disney Channel (India) HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-      "group": "Kids",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1189268,23 +1189250,6 @@
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Eurosport.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "Eurosport.in@HD",
-      "type": "channel",
-      "title": "Eurosport (India) HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1190131,7 +1190096,7 @@
       "source": "iptv-org India M3U",
       "source_id": "HistoryTV18.in@HD",
       "type": "channel",
-      "title": "History TV18 HD (1080p)",
+      "title": "History TV18 HD (1080p) [Geo-blocked]",
       "logo_url": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
       "group": "Documentary",
@@ -1190654,23 +1190619,6 @@
       }
     },
     {
-      "id": "iptv-org-in:InvestigationDiscovery.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "InvestigationDiscovery.in@SD",
-      "type": "channel",
-      "title": "Investigation Discovery (India) (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-      "group": "Documentary",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:INWILD.nl@SD",
       "source": "iptv-org India M3U",
       "source_id": "INWILD.nl@SD",
@@ -1190849,23 +1190797,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Jantantra.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Jantantra.png",
       "group": "News",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:JayaPlus.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "JayaPlus.in@SD",
-      "type": "channel",
-      "title": "Jaya Plus (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
-      "group": "Culture;Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1191188,6 +1191119,23 @@
       "title": "Kanak News (576p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KANAK_NEWS/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KANAK_NEWS/images/LOGO_HD/image.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:KannurVision.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "KannurVision.in@SD",
+      "type": "channel",
+      "title": "Kannur Vision (1080p)",
+      "logo_url": "https://i.imgur.com/FCXqPer.png",
+      "poster_url": "https://i.imgur.com/FCXqPer.png",
       "group": "News",
       "language": null,
       "country": "India",
@@ -1192320,40 +1192268,6 @@
       }
     },
     {
-      "id": "iptv-org-in:MNX.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "MNX.in@SD",
-      "type": "channel",
-      "title": "MNX (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:MNX.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "MNX.in@HD",
-      "type": "channel",
-      "title": "MNX HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:MojoTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "MojoTV.in@SD",
@@ -1192409,26 +1192323,9 @@
       "source": "iptv-org India M3U",
       "source_id": "MoviesNow.in@HD",
       "type": "channel",
-      "title": "Movies Now HD (1080p)",
+      "title": "Movies Now HD (576p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:MoviesNowPlus.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "MoviesNowPlus.in@HD",
-      "type": "channel",
-      "title": "Movies Now + (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
       "group": "Movies",
       "language": null,
       "country": "India",
@@ -1192460,7 +1192357,7 @@
       "source": "iptv-org India M3U",
       "source_id": "MTV.in@SD",
       "type": "channel",
-      "title": "MTV (India) (576p)",
+      "title": "MTV (India) (396p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
       "group": "Entertainment",
@@ -1192477,7 +1192374,7 @@
       "source": "iptv-org India M3U",
       "source_id": "MTV.in@HD",
       "type": "channel",
-      "title": "MTV (India) HD (1080p)",
+      "title": "MTV (India) HD (396p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
       "group": "Entertainment",
@@ -1192617,40 +1192514,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
       "group": "News",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:NationalGeographic.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "NationalGeographic.in@HD",
-      "type": "channel",
-      "title": "National Geographic (India) HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-      "group": "Documentary",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:NationalGeographicWild.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "NationalGeographicWild.in@HD",
-      "type": "channel",
-      "title": "National Geographic Wild (India) HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-      "group": "Documentary",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1193714,31 +1193577,14 @@
       }
     },
     {
-      "id": "iptv-org-in:NickJr.in@SD",
+      "id": "iptv-org-in:NijamTV.in@SD",
       "source": "iptv-org India M3U",
-      "source_id": "NickJr.in@SD",
+      "source_id": "NijamTV.in@SD",
       "type": "channel",
-      "title": "Nick Jr. (India) (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-      "group": "Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Nickelodeon.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Nickelodeon.in@SD",
-      "type": "channel",
-      "title": "Nickelodeon (India) (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
-      "group": "Kids",
+      "title": "Nijam TV (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png",
+      "group": "Religious",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1194283,23 +1194129,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png",
       "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Pogo.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Pogo.in@SD",
-      "type": "channel",
-      "title": "Pogo (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-      "group": "Animation;Kids",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1196604,23 +1196433,6 @@
       }
     },
     {
-      "id": "iptv-org-in:Sonic.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Sonic.in@SD",
-      "type": "channel",
-      "title": "Sonic (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-      "group": "Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonyAath.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyAath.in@SD",
@@ -1196629,23 +1196441,6 @@
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonyBBCEarth.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyBBCEarth.in@HD",
-      "type": "channel",
-      "title": "Sony BBC Earth HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-      "group": "Documentary",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1196689,23 +1196484,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonyMax.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyMax.in@HD",
-      "type": "channel",
-      "title": "Sony Max HD (1080p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonyPal.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyPal.in@SD",
@@ -1196714,23 +1196492,6 @@
       "logo_url": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonyPix.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyPix.in@HD",
-      "type": "channel",
-      "title": "Sony Pix HD (1080p)",
-      "logo_url": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-      "poster_url": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-      "group": "Movies",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1196757,57 +1196518,6 @@
       }
     },
     {
-      "id": "iptv-org-in:SonySportsTen1.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonySportsTen1.in@SD",
-      "type": "channel",
-      "title": "Sony Sports Ten 1 (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonySportsTen1.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonySportsTen1.in@HD",
-      "type": "channel",
-      "title": "Sony Sports Ten 1 HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonySportsTen2.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonySportsTen2.in@HD",
-      "type": "channel",
-      "title": "Sony Sports Ten 2 HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:SonySportsTen3Hindi.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonySportsTen3Hindi.in@SD",
@@ -1196815,23 +1196525,6 @@
       "title": "Sony Sports Ten 3 Hindi (1080p)",
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonySportsTen5.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonySportsTen5.in@SD",
-      "type": "channel",
-      "title": "Sony Sports Ten 5 (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
       "group": "Sports",
       "language": null,
       "country": "India",
@@ -1196961,74 +1196654,6 @@
       }
     },
     {
-      "id": "iptv-org-in:StarGold2.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarGold2.in@SD",
-      "type": "channel",
-      "title": "Star Gold 2 (576p)",
-      "logo_url": "https://i.imgur.com/G0ZfzZr.png",
-      "poster_url": "https://i.imgur.com/G0ZfzZr.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarGold.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarGold.in@HD",
-      "type": "channel",
-      "title": "Star Gold HD (1080p)",
-      "logo_url": "https://i.imgur.com/xC460sj.png",
-      "poster_url": "https://i.imgur.com/xC460sj.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarGoldRomance.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarGoldRomance.in@SD",
-      "type": "channel",
-      "title": "Star Gold Romance (576p)",
-      "logo_url": "https://i.imgur.com/gSWv9U3.png",
-      "poster_url": "https://i.imgur.com/gSWv9U3.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarGoldSelect.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarGoldSelect.in@HD",
-      "type": "channel",
-      "title": "Star Gold Select HD (1080p)",
-      "logo_url": "https://i.imgur.com/U7eiuqv.png",
-      "poster_url": "https://i.imgur.com/U7eiuqv.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:StarJalsha.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "StarJalsha.in@SD",
@@ -1197114,23 +1196739,6 @@
       }
     },
     {
-      "id": "iptv-org-in:StarMoviesSelect.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarMoviesSelect.in@HD",
-      "type": "channel",
-      "title": "Star Movies Select HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:StarPravah.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "StarPravah.in@HD",
@@ -1197139,57 +1196747,6 @@
       "logo_url": "https://i.imgur.com/ZT0u7AK.png",
       "poster_url": "https://i.imgur.com/ZT0u7AK.png",
       "group": "Entertainment",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarSports1.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarSports1.in@HD",
-      "type": "channel",
-      "title": "Star Sports 1 HD (1080p)",
-      "logo_url": "https://i.imgur.com/E5jjKHI.png",
-      "poster_url": "https://i.imgur.com/E5jjKHI.png",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarSports1Hindi.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarSports1Hindi.in@HD",
-      "type": "channel",
-      "title": "Star Sports 1 Hindi HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:StarSports2.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "StarSports2.in@HD",
-      "type": "channel",
-      "title": "Star Sports 2 HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1198168,23 +1197725,6 @@
       }
     },
     {
-      "id": "iptv-org-in:TLC.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "TLC.in@HD",
-      "type": "channel",
-      "title": "TLC (India) HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-      "group": "Lifestyle",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:TNPNews.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "TNPNews.in@SD",
@@ -1198669,57 +1198209,6 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
       "group": "Entertainment;Kids",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Unite8Sports1.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "Unite8Sports1.in@SD",
-      "type": "channel",
-      "title": "Unite8 Sports 1 (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Unite8Sports1.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "Unite8Sports1.in@HD",
-      "type": "channel",
-      "title": "Unite8 Sports 1 HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
-      "group": "Sports",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:Unite8Sports2.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "Unite8Sports2.in@HD",
-      "type": "channel",
-      "title": "Unite8 Sports 2 HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
-      "group": "Sports",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1199511,23 +1199000,6 @@
       }
     },
     {
-      "id": "iptv-org-in:ZeeClassic.in@SD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeClassic.in@SD",
-      "type": "channel",
-      "title": "Zee Classic (576p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Classic",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:ZeeComedyNation.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "ZeeComedyNation.in@HD",
@@ -1199749,23 +1199221,6 @@
       }
     },
     {
-      "id": "iptv-org-in:ZeeTalkies.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeTalkies.in@HD",
-      "type": "channel",
-      "title": "Zee Talkies HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:ZeeTamil.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "ZeeTamil.in@SD",
@@ -1199851,23 +1199306,6 @@
       }
     },
     {
-      "id": "iptv-org-in:ZeeThirai.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "ZeeThirai.in@HD",
-      "type": "channel",
-      "title": "Zee Thirai HD (1080p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
       "id": "iptv-org-in:ZeeTV.in@HD",
       "source": "iptv-org India M3U",
       "source_id": "ZeeTV.in@HD",
@@ -1199906,7 +1199344,7 @@
       "source": "iptv-org India M3U",
       "source_id": "ZillarBartaNews.in@HD",
       "type": "channel",
-      "title": "ZillarBarta News",
+      "title": "ZillarBarta News (720p)",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
       "group": "Classic;News",
