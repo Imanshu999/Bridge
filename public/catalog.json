@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T22:41:52.059415+00:00",
+  "generated_at": "2026-11-25T08:57:21.975078+00:00",
   "source_count": 5,
-  "item_count": 35934,
+  "item_count": 35959,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30834
+    "channel": 30859
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 30026
+      "count": 30033
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 808
+      "count": 826
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -2585,6 +2585,43 @@
       }
     },
     {
+      "id": "cinemeta:series:tt36786185",
+      "source": "Cinemeta",
+      "source_id": "tt36786185",
+      "type": "series",
+      "title": "The Altruists",
+      "original_title": "The Altruists",
+      "overview": "Follows the tumultuous romance between FTX co-founder Sam Bankman-Fried and his girlfriend Caroline Ellison. It depicts their ambitious attempts to revolutionize the financial system, leading to a $36 billion fraud.",
+      "release_date": "2026-11-19T00:00:00.000Z",
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt36786185/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt36786185/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt36786185/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt36786185/img",
+      "detail_url": "https://www.imdb.com/title/tt36786185/",
+      "cast": [
+        "Julia Garner",
+        "Anthony Boyle",
+        "Eugene Young"
+      ],
+      "crew": [],
+      "runtime": "56 min",
+      "country": "United States",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "cinemeta:series:tt5875444",
       "source": "Cinemeta",
       "source_id": "tt5875444",
@@ -3159,6 +3196,43 @@
       "crew": [],
       "runtime": "43 min",
       "country": "United States, United Kingdom",
+      "reviews": [],
+      "review_count": null,
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "cinemeta:series:tt38336631",
+      "source": "Cinemeta",
+      "source_id": "tt38336631",
+      "type": "series",
+      "title": "Road",
+      "original_title": "Road",
+      "overview": "Two detectives pursue a killer leaving mutilated bodies and cryptic messages across Japan and Korea. Korean text appears with Tokyo victims, Japanese with Korean victims, leading to an international manhunt.",
+      "release_date": null,
+      "year": "2026",
+      "rating": null,
+      "vote_count": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster_url": "https://images.metahub.space/poster/small/tt38336631/img",
+      "backdrop_url": "https://images.metahub.space/background/medium/tt38336631/img",
+      "banner_url": "https://images.metahub.space/background/medium/tt38336631/img",
+      "logo_url": "https://images.metahub.space/logo/medium/tt38336631/img",
+      "detail_url": "https://www.imdb.com/title/tt38336631/",
+      "cast": [
+        "Son Sukku",
+        "Eita Nagayama",
+        "Kim Shin-rock"
+      ],
+      "crew": [],
+      "runtime": "45 min",
+      "country": "South Korea",
       "reviews": [],
       "review_count": null,
       "playback": {
@@ -3887,80 +3961,6 @@
       ],
       "crew": [],
       "runtime": "49 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:series:tt23148340",
-      "source": "Cinemeta",
-      "source_id": "tt23148340",
-      "type": "series",
-      "title": "Crystal Lake",
-      "original_title": "Crystal Lake",
-      "overview": "Prequel series to Friday the 13th, follows a doomed small town where camp counselors come to die.",
-      "release_date": "2026-10-15T00:00:00.000Z",
-      "year": "2026",
-      "rating": 7.8,
-      "vote_count": null,
-      "genres": [
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt23148340/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt23148340/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt23148340/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt23148340/img",
-      "detail_url": "https://www.imdb.com/title/tt23148340/",
-      "cast": [
-        "Linda Cardellini",
-        "Gwendolyn Sundstrom",
-        "Danielle Kotch"
-      ],
-      "crew": [],
-      "runtime": "50 min",
-      "country": "United States",
-      "reviews": [],
-      "review_count": null,
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "cinemeta:series:tt4574334",
-      "source": "Cinemeta",
-      "source_id": "tt4574334",
-      "type": "series",
-      "title": "Stranger Things",
-      "original_title": "Stranger Things",
-      "overview": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
-      "release_date": "2016-07-15T00:00:00.000Z",
-      "year": "2016",
-      "rating": 8.6,
-      "vote_count": null,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
-      ],
-      "poster_url": "https://images.metahub.space/poster/small/tt4574334/img",
-      "backdrop_url": "https://images.metahub.space/background/medium/tt4574334/img",
-      "banner_url": "https://images.metahub.space/background/medium/tt4574334/img",
-      "logo_url": "https://images.metahub.space/logo/medium/tt4574334/img",
-      "detail_url": "https://www.imdb.com/title/tt4574334/",
-      "cast": [
-        "Millie Bobby Brown",
-        "Finn Wolfhard",
-        "Winona Ryder"
-      ],
-      "crew": [],
-      "runtime": "65 min",
       "country": "United States",
       "reviews": [],
       "review_count": null,
@@ -244927,7 +244927,9 @@
       "title": "Al Nassr TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Dr. Aboubakar Abdallah Borgo"
+      ],
       "country": "TD",
       "categories": [
         "general"
@@ -244953,7 +244955,9 @@
       "title": "Al Nassr TV 24",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Dr. Aboubakar Abdallah Borgo"
+      ],
       "country": "TD",
       "categories": [
         "news"
@@ -366920,6 +366924,32 @@
       }
     },
     {
+      "id": "iptv-org:CCNET.in",
+      "source": "iptv-org",
+      "source_id": "CCNET.in",
+      "type": "channel",
+      "title": "CC NET",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "poster_url": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:CCNTV6.tt",
       "source": "iptv-org",
       "source_id": "CCNTV6.tt",
@@ -448218,6 +448248,34 @@
       "website": null,
       "logo_url": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
       "poster_url": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:DrisyaNewsPala.in",
+      "source": "iptv-org",
+      "source_id": "DrisyaNewsPala.in",
+      "type": "channel",
+      "title": "Drisya News Pala",
+      "alternative_names": [
+        "Drisya News Pala Online"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+      "poster_url": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -601238,6 +601296,34 @@
       }
     },
     {
+      "id": "iptv-org:K7KeralamChannel.in",
+      "source": "iptv-org",
+      "source_id": "K7KeralamChannel.in",
+      "type": "channel",
+      "title": "K7 Keralam Channel",
+      "alternative_names": [
+        "K7 Keralam HD"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:KAAPLD305.us",
       "source": "iptv-org",
       "source_id": "KAAPLD305.us",
@@ -663728,6 +663814,32 @@
       }
     },
     {
+      "id": "iptv-org:MadhuraTV.lk",
+      "source": "iptv-org",
+      "source_id": "MadhuraTV.lk",
+      "type": "channel",
+      "title": "Madhura TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "LK",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://www.madhuratv.com/live.php",
+      "logo_url": "https://www.madhuratv.com/uploads/web-site-logo.jpg",
+      "poster_url": "https://www.madhuratv.com/uploads/web-site-logo.jpg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:MadininaTV.mq",
       "source": "iptv-org",
       "source_id": "MadininaTV.mq",
@@ -680553,6 +680665,34 @@
       "website": null,
       "logo_url": "https://i.imgur.com/YKbGogz.jpeg",
       "poster_url": "https://i.imgur.com/YKbGogz.jpeg",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:MediaTodayNewsHD.in",
+      "source": "iptv-org",
+      "source_id": "MediaTodayNewsHD.in",
+      "type": "channel",
+      "title": "Media Today News HD",
+      "alternative_names": [
+        "Media Today News HD Thodupuzha"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8NN2CHm8hxb4cvs3MVWnHwk7bPKROjAgKhSBAH1b2CZo9Aw-eyXS_KgY&s=10",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8NN2CHm8hxb4cvs3MVWnHwk7bPKROjAgKhSBAH1b2CZo9Aw-eyXS_KgY&s=10",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -736639,6 +736779,32 @@
       }
     },
     {
+      "id": "iptv-org:NetworkPayyanur.in",
+      "source": "iptv-org",
+      "source_id": "NetworkPayyanur.in",
+      "type": "channel",
+      "title": "Network Payyanur",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://play-lh.googleusercontent.com/xIfTwT6zDR2ZIXzHQww22f4pf6uahuDe_f0qexCJfKgvf4QD34g-RPAEPj5BVW6HjCldWcO9d8af93mDZAX0",
+      "poster_url": "https://play-lh.googleusercontent.com/xIfTwT6zDR2ZIXzHQww22f4pf6uahuDe_f0qexCJfKgvf4QD34g-RPAEPj5BVW6HjCldWcO9d8af93mDZAX0",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:neueins.de",
       "source": "iptv-org",
       "source_id": "neueins.de",
@@ -740926,6 +741092,34 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:NewStar.in",
+      "source": "iptv-org",
+      "source_id": "NewStar.in",
+      "type": "channel",
+      "title": "NewStar",
+      "alternative_names": [
+        "New Star Alappuzha"
+      ],
+      "network": null,
+      "owners": [],
+      "country": "IN",
+      "categories": [
+        "entertainment"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://play-lh.googleusercontent.com/JLiLXoTU8b57K5qjOdLZ_vlsZ45DpKdVOsobf9WIOYuX9MzEztvmdnTDJOSjnasmOlC4ZblYfgBb7nYYz2fBZw=w240-h480-rw",
+      "poster_url": "https://play-lh.googleusercontent.com/JLiLXoTU8b57K5qjOdLZ_vlsZ45DpKdVOsobf9WIOYuX9MzEztvmdnTDJOSjnasmOlC4ZblYfgBb7nYYz2fBZw=w240-h480-rw",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1000663,7 +1000857,9 @@
       "title": "Tchad Infos TV",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Mamadou Djimtebaye"
+      ],
       "country": "TD",
       "categories": [
         "news"
@@ -1187858,6 +1188054,23 @@
       }
     },
     {
+      "id": "iptv-org-in:CCTVKunnamkulam.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "CCTVKunnamkulam.in@SD",
+      "type": "channel",
+      "title": "CCTV Kunnamkulam (720p)",
+      "logo_url": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
+      "poster_url": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:CCV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "CCV.in@SD",
@@ -1188018,6 +1188231,40 @@
       "title": "Cine Jomjomat (1080p)",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:CityChannelHD.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "CityChannelHD.in@SD",
+      "type": "channel",
+      "title": "City Channel HD (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM",
+      "poster_url": "https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:CityVisionKannur.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "CityVisionKannur.in@SD",
+      "type": "channel",
+      "title": "City Vision Kannur (576p)",
+      "logo_url": "https://play-lh.googleusercontent.com/eO1Si1pAb0f-4E5ZTHqOCvIrcVEtNBOgex-Y6lRQTYaV04mbjQpm4oJKmv42CIM5L12bdbmH6Voh7dXZk6ZW=w240-h480",
+      "poster_url": "https://play-lh.googleusercontent.com/eO1Si1pAb0f-4E5ZTHqOCvIrcVEtNBOgex-Y6lRQTYaV04mbjQpm4oJKmv42CIM5L12bdbmH6Voh7dXZk6ZW=w240-h480",
       "group": "Entertainment",
       "language": null,
       "country": "India",
@@ -1189362,6 +1189609,40 @@
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
       "poster_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
       "group": "Animation;Kids",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:DrishyaTV.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "DrishyaTV.in@SD",
+      "type": "channel",
+      "title": "Drishya TV (576p)",
+      "logo_url": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "poster_url": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:DrisyaTV.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "DrisyaTV.in@SD",
+      "type": "channel",
+      "title": "Drisya TV (576p)",
+      "logo_url": "https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q",
+      "poster_url": "https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1191785,6 +1192066,23 @@
       }
     },
     {
+      "id": "iptv-org-in:KasargodVision.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "KasargodVision.in@SD",
+      "type": "channel",
+      "title": "Kasargod Vision (576p)",
+      "logo_url": "https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg",
+      "poster_url": "https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:KashishNews.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "KashishNews.in@SD",
@@ -1191878,6 +1192176,40 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png",
       "group": "Entertainment;Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:KCNKasargod.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "KCNKasargod.in@SD",
+      "type": "channel",
+      "title": "KCN Kasargod (576p)",
+      "logo_url": "https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480",
+      "poster_url": "https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:KeralaTodayTV.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "KeralaTodayTV.in@SD",
+      "type": "channel",
+      "title": "Kerala Today TV (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/JpdLqTP2IiQDuLkr_jw0QeeDHfHOPd-vk00pnPF06f95Jca01t7v2BbrSENDeNuHktB2t0EbSfk_XyXvvUAumQ",
+      "poster_url": "https://play-lh.googleusercontent.com/JpdLqTP2IiQDuLkr_jw0QeeDHfHOPd-vk00pnPF06f95Jca01t7v2BbrSENDeNuHktB2t0EbSfk_XyXvvUAumQ",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1192346,6 +1192678,23 @@
       }
     },
     {
+      "id": "iptv-org-in:MalabarPlus.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "MalabarPlus.in@SD",
+      "type": "channel",
+      "title": "Malabar Plus (720p)",
+      "logo_url": "https://i.ibb.co/p6kf0FfH/1000151556.png",
+      "poster_url": "https://i.ibb.co/p6kf0FfH/1000151556.png",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:MalaiMurasuTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "MalaiMurasuTV.in@SD",
@@ -1192354,6 +1192703,23 @@
       "logo_url": "https://i.imgur.com/OC5TQxp.png",
       "poster_url": "https://i.imgur.com/OC5TQxp.png",
       "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:MalappuramCableVision.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "MalappuramCableVision.in@SD",
+      "type": "channel",
+      "title": "Malappuram Cable Vision (1080p)",
+      "logo_url": "https://cdn.aptoide.com/imgs/f/c/d/fcdcdfe7f3ced7623f252e9ea0080374_icon.png",
+      "poster_url": "https://cdn.aptoide.com/imgs/f/c/d/fcdcdfe7f3ced7623f252e9ea0080374_icon.png",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1192963,8 +1193329,8 @@
       "source_id": "MTV.in@SD",
       "type": "channel",
       "title": "MTV (India) (396p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
       "group": "Entertainment",
       "language": null,
       "country": "India",
@@ -1192980,8 +1193346,8 @@
       "source_id": "MTV.in@HD",
       "type": "channel",
       "title": "MTV (India) HD (396p)",
-      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-      "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
       "group": "Entertainment",
       "language": null,
       "country": "India",
@@ -1193340,6 +1193706,23 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png",
       "group": "General",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:NewVisionHD.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "NewVisionHD.in@SD",
+      "type": "channel",
+      "title": "New Vision HD (576p)",
+      "logo_url": "https://i.ibb.co/Sw4cdy9b/new-vision-hd.jpg",
+      "poster_url": "https://i.ibb.co/Sw4cdy9b/new-vision-hd.jpg",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1194250,6 +1194633,23 @@
       }
     },
     {
+      "id": "iptv-org-in:NMMediaChannelHD.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "NMMediaChannelHD.in@SD",
+      "type": "channel",
+      "title": "NM Media Channel HD (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",
+      "poster_url": "https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:NonStopBharat.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "NonStopBharat.in@SD",
@@ -1194632,6 +1195032,23 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",
       "group": "Music",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:PeriyarVision.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "PeriyarVision.in@SD",
+      "type": "channel",
+      "title": "Periyar Vision (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",
+      "poster_url": "https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1197123,6 +1197540,23 @@
       }
     },
     {
+      "id": "iptv-org-in:SouthVision.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "SouthVision.in@SD",
+      "type": "channel",
+      "title": "South Vision (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",
+      "poster_url": "https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:Spondon.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "Spondon.in@SD",
@@ -1197939,6 +1198373,23 @@
       }
     },
     {
+      "id": "iptv-org-in:Thanima.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "Thanima.in@SD",
+      "type": "channel",
+      "title": "Thanima (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog",
+      "poster_url": "https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:ThanthiOne.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "ThanthiOne.in@SD",
@@ -1198670,6 +1199121,23 @@
       }
     },
     {
+      "id": "iptv-org-in:UTVHD24x7.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "UTVHD24x7.in@SD",
+      "type": "channel",
+      "title": "UTV HD 24x7 (1080i)",
+      "logo_url": "https://i.ibb.co/BVR60w26/utv-hd-24x7.jpg",
+      "poster_url": "https://i.ibb.co/BVR60w26/utv-hd-24x7.jpg",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:UTVPalakkad.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "UTVPalakkad.in@SD",
@@ -1199052,6 +1199520,40 @@
       "logo_url": "https://i.imgur.com/yF2C4Dt.png",
       "poster_url": "https://i.imgur.com/yF2C4Dt.png",
       "group": "General",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:WayanadVisionMovies.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "WayanadVisionMovies.in@SD",
+      "type": "channel",
+      "title": "Wayanad Vision Movies (720p)",
+      "logo_url": "https://play-lh.googleusercontent.com/UxJ6sG6LdpaAXZOvR8EJyYa9PVx3gZWzetMe6MKHeguGSyyDHBDzKX5gN6Z75cQCni609w3YyuLSlE5qWPhG-Q",
+      "poster_url": "https://play-lh.googleusercontent.com/UxJ6sG6LdpaAXZOvR8EJyYa9PVx3gZWzetMe6MKHeguGSyyDHBDzKX5gN6Z75cQCni609w3YyuLSlE5qWPhG-Q",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:WayanadVisionPlus.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "WayanadVisionPlus.in@SD",
+      "type": "channel",
+      "title": "Wayanad Vision Plus (720p)",
+      "logo_url": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
+      "poster_url": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
