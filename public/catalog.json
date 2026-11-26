@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T21:55:20.700292+00:00",
+  "generated_at": "2026-11-26T08:43:18.804911+00:00",
   "source_count": 5,
-  "item_count": 35959,
+  "item_count": 35971,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30859
+    "channel": 30871
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 30033
+      "count": 30032
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 826
+      "count": 839
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -207,7 +207,7 @@
           "job": "Director"
         }
       ],
-      "runtime": "102 min",
+      "runtime": "107 min",
       "country": "United States, Australia, Canada",
       "reviews": [],
       "review_count": null,
@@ -104757,11 +104757,11 @@
       "logo_url": null,
       "detail_url": "https://anilist.co/anime/213457",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
+      "status": "FINISHED",
       "season": "FALL",
       "season_year": 2026,
       "episodes_count": 12,
-      "episode_duration_minutes": null,
+      "episode_duration_minutes": 26,
       "reviews": [],
       "review_count": null,
       "cast": [],
@@ -309825,99 +309825,6 @@
       }
     },
     {
-      "id": "iptv-org:BinhPhuocTV1.vn",
-      "source": "iptv-org",
-      "source_id": "BinhPhuocTV1.vn",
-      "type": "channel",
-      "title": "Binh Phuoc TV 1",
-      "alternative_names": [
-        "Bình Phước TV 1"
-      ],
-      "network": null,
-      "owners": [
-        "Binh Phuoc Newspaper Radio - Television Station"
-      ],
-      "country": "VN",
-      "categories": [
-        "news",
-        "general"
-      ],
-      "launched": "1991-12-18",
-      "website": "https://bptv.vn/",
-      "logo_url": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:BinhPhuocTV2.vn",
-      "source": "iptv-org",
-      "source_id": "BinhPhuocTV2.vn",
-      "type": "channel",
-      "title": "Binh Phuoc TV 2",
-      "alternative_names": [
-        "Bình Phước TV 2"
-      ],
-      "network": null,
-      "owners": [
-        "Binh Phuoc Newspaper Radio - Television Station"
-      ],
-      "country": "VN",
-      "categories": [
-        "general"
-      ],
-      "launched": "2008-06-01",
-      "website": "https://bptv.vn/",
-      "logo_url": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:BinhPhuocTV3.vn",
-      "source": "iptv-org",
-      "source_id": "BinhPhuocTV3.vn",
-      "type": "channel",
-      "title": "Binh Phuoc TV 3",
-      "alternative_names": [
-        "Bình Phước TV 3",
-        " BPTV3 - ANT"
-      ],
-      "network": null,
-      "owners": [
-        "Binh Phuoc Newspaper Radio - Television Station",
-        " Global Audio Visual Joint Stock Company"
-      ],
-      "country": "VN",
-      "categories": [
-        "kids"
-      ],
-      "launched": "2005-06-01",
-      "website": "https://bptv.vn/",
-      "logo_url": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:BinhThuanTV.vn",
       "source": "iptv-org",
       "source_id": "BinhThuanTV.vn",
@@ -415322,41 +415229,6 @@
         {
           "site": "tvcubana.icrt.cu",
           "site_name": "Cubavisión Internacional",
-          "language": "es",
-          "sources": []
-        }
-      ],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:CubavisionPlus.cu",
-      "source": "iptv-org",
-      "source_id": "CubavisionPlus.cu",
-      "type": "channel",
-      "title": "Cubavision Plus",
-      "alternative_names": [
-        "Cubavisión Plus"
-      ],
-      "network": "ICRT",
-      "owners": [],
-      "country": "CU",
-      "categories": [
-        "general"
-      ],
-      "launched": "2018-12-03",
-      "website": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavisionplus",
-      "logo_url": "https://i.imgur.com/KTwZzGR.png",
-      "poster_url": "https://i.imgur.com/KTwZzGR.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [
-        {
-          "site": "tvcubana.icrt.cu",
-          "site_name": "Cubavisión Plus",
           "language": "es",
           "sources": []
         }
@@ -565115,66 +564987,6 @@
       }
     },
     {
-      "id": "iptv-org:HTVCMusic.vn",
-      "source": "iptv-org",
-      "source_id": "HTVCMusic.vn",
-      "type": "channel",
-      "title": "HTVC Music",
-      "alternative_names": [
-        "HTVC Ca nhạc"
-      ],
-      "network": null,
-      "owners": [
-        "Ho Chi Minh City Television Station"
-      ],
-      "country": "VN",
-      "categories": [
-        "music"
-      ],
-      "launched": "2007-05-01",
-      "website": "http://htvc.vn",
-      "logo_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Ca%20Nh%E1%BA%A1c%20HD.png",
-      "poster_url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Ca%20Nh%E1%BA%A1c%20HD.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:HTVCoop.vn",
-      "source": "iptv-org",
-      "source_id": "HTVCoop.vn",
-      "type": "channel",
-      "title": "HTV Co.op",
-      "alternative_names": [],
-      "network": null,
-      "owners": [
-        "Ho Chi Minh City Television Station"
-      ],
-      "country": "VN",
-      "categories": [
-        "series",
-        "culture",
-        "general"
-      ],
-      "launched": "2011-06-01",
-      "website": "https://htvcoop.com.vn/",
-      "logo_url": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
       "id": "iptv-org:HTVCPlus.vn",
       "source": "iptv-org",
       "source_id": "HTVCPlus.vn",
@@ -679280,7 +679092,9 @@
       "title": "MCRTV-NF",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Groupe Ndouna François"
+      ],
       "country": "CG",
       "categories": [
         "news"
@@ -866321,12 +866135,14 @@
       ],
       "network": "RedeTV!",
       "owners": [
-        "Devaur Menossi"
+        "Life Comunicações Ltda"
       ],
       "country": "BR",
-      "categories": [],
+      "categories": [
+        "general"
+      ],
       "launched": null,
-      "website": "https://www.redetvparana.com.br/",
+      "website": "https://www.redetvparana.com.br",
       "logo_url": "https://i.imgur.com/D8R0Af4.png",
       "poster_url": "https://i.imgur.com/D8R0Af4.png",
       "backdrop_url": null,
@@ -1004042,7 +1003858,10 @@
         "Télé Africa"
       ],
       "network": null,
-      "owners": [],
+      "owners": [
+        "Omar Bongo Ondimba",
+        "Ali Bongo Ondimba"
+      ],
       "country": "GA",
       "categories": [
         "general"
@@ -1166676,6 +1166495,34 @@
       }
     },
     {
+      "id": "iptv-org:XITE80sFlashback.nl",
+      "source": "iptv-org",
+      "source_id": "XITE80sFlashback.nl",
+      "type": "channel",
+      "title": "XITE 80s Flashback",
+      "alternative_names": [],
+      "network": "XITE",
+      "owners": [
+        "XITE Networks"
+      ],
+      "country": "NL",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://xite.com/",
+      "logo_url": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_80s_flashback_072024._SL500_FMpng_.png",
+      "poster_url": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_80s_flashback_072024._SL500_FMpng_.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:XITE90sThrowback.us",
       "source": "iptv-org",
       "source_id": "XITE90sThrowback.us",
@@ -1166807,6 +1166654,34 @@
       }
     },
     {
+      "id": "iptv-org:XITEChristianHits.nl",
+      "source": "iptv-org",
+      "source_id": "XITEChristianHits.nl",
+      "type": "channel",
+      "title": "XITE Christian Hits",
+      "alternative_names": [],
+      "network": "XITE",
+      "owners": [
+        "XITE Networks"
+      ],
+      "country": "NL",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://xite.com/",
+      "logo_url": "https://i.imgur.com/tmy7tK7.png",
+      "poster_url": "https://i.imgur.com/tmy7tK7.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:XITEClassicCountry.nl",
       "source": "iptv-org",
       "source_id": "XITEClassicCountry.nl",
@@ -1166848,6 +1166723,62 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:XITECountryToday.nl",
+      "source": "iptv-org",
+      "source_id": "XITECountryToday.nl",
+      "type": "channel",
+      "title": "XITE Country Today",
+      "alternative_names": [],
+      "network": "XITE",
+      "owners": [
+        "XITE Networks"
+      ],
+      "country": "NL",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://xite.com/",
+      "logo_url": "https://i.imgur.com/06CWHqh.png",
+      "poster_url": "https://i.imgur.com/06CWHqh.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:XITEGospel.nl",
+      "source": "iptv-org",
+      "source_id": "XITEGospel.nl",
+      "type": "channel",
+      "title": "XITE Gospel",
+      "alternative_names": [],
+      "network": "XITE",
+      "owners": [
+        "XITE Networks"
+      ],
+      "country": "NL",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://xite.com/",
+      "logo_url": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w1200-q90/ptv/channels/623b93628e6ded0007337d4d/featuredImage.jpg?format=webp",
+      "poster_url": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w1200-q90/ptv/channels/623b93628e6ded0007337d4d/featuredImage.jpg?format=webp",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1167145,6 +1167076,34 @@
           "sources": []
         }
       ],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:XITERBClassicJams.nl",
+      "source": "iptv-org",
+      "source_id": "XITERBClassicJams.nl",
+      "type": "channel",
+      "title": "XITE R&B Classic Jams",
+      "alternative_names": [],
+      "network": "XITE",
+      "owners": [
+        "XITE Networks"
+      ],
+      "country": "NL",
+      "categories": [
+        "music"
+      ],
+      "launched": null,
+      "website": "https://xite.com/",
+      "logo_url": "https://i.imgur.com/goYzOu7.png",
+      "poster_url": "https://i.imgur.com/goYzOu7.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
       "playback": {
         "available": false,
         "provider": null
@@ -1186694,6 +1186653,23 @@
       }
     },
     {
+      "id": "iptv-org-in:ABCNews.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "ABCNews.in@SD",
+      "type": "channel",
+      "title": "ABC News (India) (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:ABNAndhraJyoti.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "ABNAndhraJyoti.in@SD",
@@ -1188045,6 +1188021,23 @@
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png",
       "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png",
       "group": "Undefined",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:CCNET.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "CCNET.in@SD",
+      "type": "channel",
+      "title": "CC NET (1080p)",
+      "logo_url": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "poster_url": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1189635,6 +1189628,23 @@
       }
     },
     {
+      "id": "iptv-org-in:DrisyaNewsPala.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "DrisyaNewsPala.in@SD",
+      "type": "channel",
+      "title": "Drisya News Pala (576p)",
+      "logo_url": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+      "poster_url": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+      "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:DrisyaTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "DrisyaTV.in@SD",
@@ -1191165,6 +1191175,23 @@
       }
     },
     {
+      "id": "iptv-org-in:IN24News.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "IN24News.in@SD",
+      "type": "channel",
+      "title": "IN 24 News (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:Ind24.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "Ind24.in@SD",
@@ -1191785,6 +1191812,23 @@
       "logo_url": "https://jtbsclassic.dpdns.org/logo.png",
       "poster_url": "https://jtbsclassic.dpdns.org/logo.png",
       "group": "Culture;Religious",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:K7KeralamChannel.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "K7KeralamChannel.in@SD",
+      "type": "channel",
+      "title": "K7 Keralam Channel (1080p)",
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "group": "Entertainment",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1192430,6 +1192474,23 @@
       "title": "Living India News (1080p)",
       "logo_url": "https://i.imgur.com/YikaJvd.png",
       "poster_url": "https://i.imgur.com/YikaJvd.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:LokmatBharat.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "LokmatBharat.in@SD",
+      "type": "channel",
+      "title": "Lokmat Bharat (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
       "group": "News",
       "language": null,
       "country": "India",
@@ -1193664,6 +1193725,23 @@
       }
     },
     {
+      "id": "iptv-org-in:NEBharat24.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "NEBharat24.in@SD",
+      "type": "channel",
+      "title": "NE Bharat24 (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:NENews.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "NENews.in@SD",
@@ -1194079,6 +1194157,23 @@
       "title": "News18 Uttar Pradesh Uttarakhand (1080p)",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png",
       "poster_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png",
+      "group": "News",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:News21.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "News21.in@SD",
+      "type": "channel",
+      "title": "News 21 (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
       "group": "News",
       "language": null,
       "country": "India",
@@ -1195610,6 +1195705,23 @@
       "logo_url": "https://i.imgur.com/v5urG30.png",
       "poster_url": "https://i.imgur.com/v5urG30.png",
       "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:Pulse24.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "Pulse24.in@SD",
+      "type": "channel",
+      "title": "Pulse 24 (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+      "group": "News",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1197438,6 +1197550,23 @@
       }
     },
     {
+      "id": "iptv-org-in:SonyMax.in@HD",
+      "source": "iptv-org India M3U",
+      "source_id": "SonyMax.in@HD",
+      "type": "channel",
+      "title": "Sony Max HD (1080p)",
+      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "poster_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "group": "Movies",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:SonyPal.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "SonyPal.in@SD",
@@ -1197565,6 +1197694,23 @@
       "logo_url": "https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png",
       "poster_url": "https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png",
       "group": "Entertainment",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:SristiTV.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "SristiTV.in@SD",
+      "type": "channel",
+      "title": "Sristi TV (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
+      "group": "Undefined",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1198279,6 +1198425,23 @@
       "logo_url": "https://i.imgur.com/DodsLuW.png",
       "poster_url": "https://i.imgur.com/DodsLuW.png",
       "group": "Undefined",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:TaraTV.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "TaraTV.in@SD",
+      "type": "channel",
+      "title": "Tara TV (720p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+      "group": "News",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1199214,6 +1199377,23 @@
       "logo_url": "https://papaji.freetvindia.com/media/channels/Valam_Dayro.png",
       "poster_url": "https://papaji.freetvindia.com/media/channels/Valam_Dayro.png",
       "group": "Religious",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
+      "id": "iptv-org-in:VandeBharatNews.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "VandeBharatNews.in@SD",
+      "type": "channel",
+      "title": "Vande Bharat News (1080p)",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+      "group": "News",
       "language": null,
       "country": "India",
       "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
