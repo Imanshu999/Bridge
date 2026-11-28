@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-27T21:32:46.466041+00:00",
+  "generated_at": "2026-11-28T08:13:35.072385+00:00",
   "source_count": 5,
-  "item_count": 36045,
+  "item_count": 36050,
   "counts": {
     "movie": 50,
     "series": 50,
     "anime": 5000,
-    "channel": 30945
+    "channel": 30950
   },
   "sources": [
     {
@@ -23,12 +23,12 @@
     {
       "name": "tv_channels_iptv_org",
       "status": "ok",
-      "count": 30090
+      "count": 30094
     },
     {
       "name": "india_m3u",
       "status": "ok",
-      "count": 855
+      "count": 856
     },
     {
       "name": "tmdb_movies_tv_reviews",
@@ -70811,7 +70811,7 @@
       "title": "World Trigger 2nd Season",
       "original_title": "ワールドトリガー 2ndシーズン",
       "romaji_title": "World Trigger 2nd Season",
-      "overview": "The border defense organization \"Border\" was established to fight against the attacks of the \"Neighbors\" who possess unknown power. Osamu Mikumo, a member of the Border, forms the Mikumo Squad with Yuma Kuga, a Neighbor who he met by chance, and his childhood friend Chika Ametori, and they struggle to win the internal Border rankings in order to join the expeditionary force to the Neighborhood. (Source: Toei Animation)",
+      "overview": "The border defense organization \"Border\" was established to fight against the attacks of the \"Neighbors\" who possess unknown power. Osamu Mikumo, a member of the Border, forms the Mikumo Squad with Yuma Kuga, a Neighbor who he met by chance, and his childhood friend Chika Amatori, and they struggle to win the internal Border rankings in order to join the expeditionary force to the Neighborhood. (Source: Toei Animation)",
       "release_date": null,
       "year": 2021,
       "rating": 8.0,
@@ -317939,6 +317939,34 @@
       }
     },
     {
+      "id": "iptv-org:Boom.th",
+      "source": "iptv-org",
+      "source_id": "Boom.th",
+      "type": "channel",
+      "title": "Boom",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "MVTV"
+      ],
+      "country": "TH",
+      "categories": [
+        "kids"
+      ],
+      "launched": "2025-05-27",
+      "website": "http://www.boomerangthailand.tv/",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:Boomerang.ca",
       "source": "iptv-org",
       "source_id": "Boomerang.ca",
@@ -406040,7 +406068,9 @@
       "title": "Concert Channel",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "America Movil"
+      ],
       "country": "US",
       "categories": [
         "music"
@@ -406642,30 +406672,6 @@
       "source_id": "ConexionTV.ve",
       "type": "channel",
       "title": "Conexion TV",
-      "alternative_names": [],
-      "network": null,
-      "owners": [],
-      "country": "VE",
-      "categories": [],
-      "launched": null,
-      "website": null,
-      "logo_url": "https://intervenhosting.net/roku/conexiontv/conexiontv1.png",
-      "poster_url": "https://intervenhosting.net/roku/conexiontv/conexiontv1.png",
-      "backdrop_url": null,
-      "banner_url": null,
-      "language_codes": [],
-      "epg_sources": [],
-      "playback": {
-        "available": false,
-        "provider": null
-      }
-    },
-    {
-      "id": "iptv-org:ConexionTVve.ve",
-      "source": "iptv-org",
-      "source_id": "ConexionTVve.ve",
-      "type": "channel",
-      "title": "ConexionTV.ve",
       "alternative_names": [],
       "network": null,
       "owners": [],
@@ -433265,7 +433271,9 @@
       "title": "DHE",
       "alternative_names": [],
       "network": null,
-      "owners": [],
+      "owners": [
+        "DHE Group"
+      ],
       "country": "US",
       "categories": [
         "movies"
@@ -485980,6 +485988,32 @@
       }
     },
     {
+      "id": "iptv-org:Exploris.ro",
+      "source": "iptv-org",
+      "source_id": "Exploris.ro",
+      "type": "channel",
+      "title": "Exploris",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "RO",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/f/f7/Exploris.svg/revision/latest?cb=20230326105845",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/f/f7/Exploris.svg/revision/latest?cb=20230326105845",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:ExplosionTV.do",
       "source": "iptv-org",
       "source_id": "ExplosionTV.do",
@@ -528841,6 +528875,34 @@
       }
     },
     {
+      "id": "iptv-org:GoalUK.uk",
+      "source": "iptv-org",
+      "source_id": "GoalUK.uk",
+      "type": "channel",
+      "title": "GoalUK",
+      "alternative_names": [],
+      "network": null,
+      "owners": [
+        "Starfank"
+      ],
+      "country": "UK",
+      "categories": [
+        "sports"
+      ],
+      "launched": null,
+      "website": null,
+      "logo_url": "https://i.postimg.cc/ZqbVMdPB/GUK.png",
+      "poster_url": "https://i.postimg.cc/ZqbVMdPB/GUK.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
       "id": "iptv-org:GoalZone.sa",
       "source": "iptv-org",
       "source_id": "GoalZone.sa",
@@ -529323,8 +529385,8 @@
       ],
       "launched": null,
       "website": "https://www.gogoplayplus.com/",
-      "logo_url": null,
-      "poster_url": null,
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/b/ba/Gogoplay_TV.jpg",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/b/ba/Gogoplay_TV.jpg",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -667469,6 +667531,32 @@
       "website": "http://maasranga.tv/",
       "logo_url": "https://i.imgur.com/uVZJMed.png",
       "poster_url": "https://i.imgur.com/uVZJMed.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:MaawjTV.af",
+      "source": "iptv-org",
+      "source_id": "MaawjTV.af",
+      "type": "channel",
+      "title": "Maawj TV",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "AF",
+      "categories": [
+        "general"
+      ],
+      "launched": null,
+      "website": "https://maawj.tv/",
+      "logo_url": "https://maawj.tv/wp-content/uploads/2025/03/favicon.png",
+      "poster_url": "https://maawj.tv/wp-content/uploads/2025/03/favicon.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -811955,8 +812043,8 @@
       "categories": [],
       "launched": null,
       "website": "https://plustlt.tv/",
-      "logo_url": null,
-      "poster_url": null,
+      "logo_url": "https://plustlt.tv/wp-content/uploads/2026/07/cropped-PLUSTLT_LOGO-2.png",
+      "poster_url": "https://plustlt.tv/wp-content/uploads/2026/07/cropped-PLUSTLT_LOGO-2.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -840541,6 +840629,34 @@
       "website": "https://www.primiciavida.cl",
       "logo_url": "https://i.imgur.com/hnkVwTG.png",
       "poster_url": "https://i.imgur.com/hnkVwTG.png",
+      "backdrop_url": null,
+      "banner_url": null,
+      "language_codes": [],
+      "epg_sources": [],
+      "playback": {
+        "available": false,
+        "provider": null
+      }
+    },
+    {
+      "id": "iptv-org:Primired.ar",
+      "source": "iptv-org",
+      "source_id": "Primired.ar",
+      "type": "channel",
+      "title": "Primired",
+      "alternative_names": [],
+      "network": null,
+      "owners": [],
+      "country": "AR",
+      "categories": [
+        "entertainment",
+        "series",
+        "movies"
+      ],
+      "launched": null,
+      "website": "https://primired.vercel.app",
+      "logo_url": "https://primired.vercel.app/imgs/primired-logo.png",
+      "poster_url": "https://primired.vercel.app/imgs/primired-logo.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1172856,8 +1172972,8 @@
       ],
       "launched": null,
       "website": null,
-      "logo_url": null,
-      "poster_url": null,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Xazar_TV_Logo.png",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Xazar_TV_Logo.png",
       "backdrop_url": null,
       "banner_url": null,
       "language_codes": [],
@@ -1201790,8 +1201906,8 @@
       "source_id": "MTV.in@SD",
       "type": "channel",
       "title": "MTV (India) (396p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/d2/MTV_2021_%283D%29_%28Print%29.svg/revision/latest?cb=20220218200449",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/d/d2/MTV_2021_%283D%29_%28Print%29.svg/revision/latest?cb=20220218200449",
       "group": "Entertainment",
       "language": null,
       "country": "India",
@@ -1201807,8 +1201923,8 @@
       "source_id": "MTV.in@HD",
       "type": "channel",
       "title": "MTV (India) HD (396p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/d0/MTV_India_HD_2022_II.svg/revision/latest?cb=20220404071038",
+      "poster_url": "https://static.wikia.nocookie.net/logopedia/images/d/d0/MTV_India_HD_2022_II.svg/revision/latest?cb=20220404071038",
       "group": "Entertainment",
       "language": null,
       "country": "India",
@@ -1203332,6 +1203448,23 @@
       }
     },
     {
+      "id": "iptv-org-in:OmShanti.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "OmShanti.in@SD",
+      "type": "channel",
+      "title": "Om Shanti",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png",
+      "poster_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png",
+      "group": "Religious",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:OMTV.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "OMTV.in@SD",
@@ -1204777,6 +1204910,23 @@
       }
     },
     {
+      "id": "iptv-org-in:RepublicBusiness.in@SD",
+      "source": "iptv-org India M3U",
+      "source_id": "RepublicBusiness.in@SD",
+      "type": "channel",
+      "title": "Republic Business (576p) [Geo-blocked]",
+      "logo_url": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+      "poster_url": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+      "group": "Business",
+      "language": null,
+      "country": "India",
+      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+      "playback": {
+        "available": false,
+        "provider": "Open original iptv-org India playlist"
+      }
+    },
+    {
       "id": "iptv-org-in:RepublicKannada.in@SD",
       "source": "iptv-org India M3U",
       "source_id": "RepublicKannada.in@SD",
@@ -1206023,23 +1206173,6 @@
       "source_id": "SonyMax.in@SD",
       "type": "channel",
       "title": "Sony Max (720p)",
-      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-      "poster_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-      "group": "Movies",
-      "language": null,
-      "country": "India",
-      "playlist_url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "playback": {
-        "available": false,
-        "provider": "Open original iptv-org India playlist"
-      }
-    },
-    {
-      "id": "iptv-org-in:SonyMax.in@HD",
-      "source": "iptv-org India M3U",
-      "source_id": "SonyMax.in@HD",
-      "type": "channel",
-      "title": "Sony Max HD (1080p)",
       "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
       "poster_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
       "group": "Movies",
